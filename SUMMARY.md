@@ -16,4 +16,5 @@
 ## Resources
 
 * [Tacticals](resources/tacticals.md)
+* [Reading list](resources/reading-list.md)
 
