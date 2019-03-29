@@ -3,6 +3,7 @@
 * [Initial page](README.md)
 * [Tools & Techniques](tools-and-techniques.md)
 * [Collaboration](partnership.md)
+* [Team](team.md)
 
 ## Mapping
 
