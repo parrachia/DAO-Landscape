@@ -1,10 +1,8 @@
 # Collaboration
 
-
+{% embed url="https://daoincubator.org/" %}
 
 ## Prospects 
-
-{% embed url="https://daoincubator.org/" %}
 
 {% embed url="https://orgtech.substack.com/" %}
 
