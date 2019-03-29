@@ -7,7 +7,7 @@ We are proposing a research project to map the current landscape of DAOs in the 
 
 The information gleaned with this project will be publically available on the **DGOV Wiki** and will be made available to other Wikis and bodies of knowledge that are public to our community. Conclusions and findings will be published in a **Medium / HackerNoon blog**. The wiki is open and knowledge can be easily added to the framework. The purpose of this research is to allow for DAOs to see what the best practices \(or at leas the current practices\) are, and to be able to use the body of knowledge to implement their own DAO technologies. 
 
-The research will also show the gaps in our current landscape, providing opportunities for entrepreneurs to know where there are gaps that still need to be filled in the framework. Throughout the project, I will work collaboratively with others in the industry and seek feedback from the communities to ensure that we get as complete a picture as possible. At all stages of the project \(including this proposal stage\), feedback is welcome.
+The research will also show **the gaps** in our current landscape, providing opportunities for entrepreneurs to know where there are gaps that still need to be filled in the framework. Throughout the project, I will work collaboratively with others in the industry and seek feedback from the communities to ensure that we get as complete a picture as possible. At all stages of the project \(including this proposal stage\), feedback is welcome.
 
 ![https://instagram.com/ionsounds](.gitbook/assets/blockchain-mapping.jpg)
 
