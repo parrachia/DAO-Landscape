@@ -1,5 +1,9 @@
 # The 17th International Open and User Innovation Conference
 
+{% hint style="info" %}
+Depreciated
+{% endhint %}
+
 {% embed url="https://sites.google.com/view/oui2019/" %}
 
 
