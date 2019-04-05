@@ -3,7 +3,6 @@
 * [Initial page](README.md)
 * [Tools & Techniques](tools-and-techniques.md)
 * [Collaboration](partnership.md)
-* [Team](team.md)
 
 ## Mapping
 
@@ -18,4 +17,9 @@
 
 * [Tacticals](resources/tacticals.md)
 * [Reading list](resources/reading-list.md)
+
+## admin
+
+* [Team](admin/team.md)
+* [Untitled](admin/untitled.md)
 
