@@ -1,8 +1,18 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [Tools & Techniques](tools-and-techniques.md)
-* [Collaboration](partnership.md)
+* [Hello World!](README.md)
+
+## Resources
+
+* [Glossary](resources/glossary.md)
+* [Model](resources/model.md)
+* [Taxonomy](resources/taxonomy.md)
+* [DAO Use Cases](resources/dao-use-cases.md)
+* [Features of DAOs](resources/features-of-daos.md)
+* [DAO Tech Evaluation Framework](resources/dao-tech-evaluation-framework.md)
+* [Tools by DGOV providers](resources/tools-by-dgov-providers.md)
+* [On-chain Governance Case Studies](resources/on-chain-governance-case-studies.md)
+* [Reading list](resources/reading-list.md)
 
 ## Mapping
 
@@ -13,13 +23,12 @@
   * [The 17th International Open and User Innovation Conference](mapping/report/the-17th-international-open-and-user-innovation-conference.md)
 * [Visualization](mapping/visualization.md)
 
-## Resources
-
-* [Tacticals](resources/tacticals.md)
-* [Reading list](resources/reading-list.md)
-
 ## admin
 
+* [Governance](admin/governance.md)
+* [Tacticals](admin/tacticals/README.md)
+  * [Tactical \#2 - 27.03](admin/tacticals/tactical-2-27.03.md)
 * [Team](admin/team.md)
-* [Untitled](admin/untitled.md)
+* [Tools & Techniques](admin/tools-and-techniques.md)
+* [Collaboration](admin/partnership.md)
 

@@ -1,7 +1,5 @@
 # Team
 
-Project Coordinator: Pedro Parrachia \([pedro@parrachia.com.br](mailto:pedro@parrachia.com.br)\)
-
 ## Contributors
 
 * Andreas Arnold
