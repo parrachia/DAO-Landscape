@@ -20,7 +20,7 @@ Structure of the report:
 
 ## Layer 1: Network-based
 
-### Tezos
+### Tezos \(XTZ\)
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
@@ -32,11 +32,13 @@ Tezos is a self-amending blockchain network which incorporates a formal, on-chai
 
 * 2014 – Arthur Breitman and Kathleen Breitman, started developing Tezos with a core group of developers
 * 2017 – $232 million ICO
-* Feb 2018 – Dispute and Board reshuffle 
+* Feb 2018 – Dispute and Board reshuffle \[[source](https://www.coindesk.com/tezos-board-reshuffled-johann-gevers-steps)\]
 * Jun 2018 – Testnet launch
 * Sep 2018 – Mainnet Launch
 
 #### Objects of governance & Used mechanics
+
+![](../.gitbook/assets/image%20%283%29.png)
 
 Upgrades to the protocol through proposal & voting process. Uses min quorum adapted to the average participation and and 80% of supermajority support level to pass.
 
@@ -46,26 +48,22 @@ Upgrades to the protocol through proposal & voting process. Uses min quorum adap
 * After repeated testing, the Tezos token holders can then vote on whether the proposal should be approved or not.
 * Once a legitimate upgrade is decided on, a “hot swap” occurs on the protocol, which initiates the new version of the protocol.
 
-#### Risk Management
+#### Network Stats \(on April 2019\)
 
-As a security measure, the Tezos foundation will have a veto power expiring after twelve months, until we rule out any kinks in the voting procedure.
-
-#### Network Stats
-
-* Market cap $0.79B
-* 107 bakers on April 2019
+* Market cap $0.79B \[[source](https://messari.io/asset/tezos)\]
+* 460 bakers \(analogue of block validators\)
+* 106 public delegates \(who you can delegate your XTZ tokens if you have less then 10k\)
 
 #### Summary
 
-* Results of current votings?
+* Results of current votings: [https://www.tezos.help/votes/](https://www.tezos.help/votes/)
 
 #### Links
 
 * [Tezos Whitepaper](https://tezos.com/static/white_paper-2dc8c02267a8fb86bd67a108199441bf.pdf)
+* [Tezos Wiki](https://tqgroup.gitlab.io/tezos-wiki/files/self-amendment.html)
 * [Amending Tezos](https://medium.com/tezos/amending-tezos-b77949d97e1e) by Jacob Arluck
-* [https://messari.io/asset/tezos](https://messari.io/asset/tezos)
-* [https://tzscan.io/charts\_bakers](https://tzscan.io/charts_bakers)
-* [https://www.coindesk.com/tezos-board-reshuffled-johann-gevers-steps](https://www.coindesk.com/tezos-board-reshuffled-johann-gevers-steps)
+* [https://tzscan.io](https://tzscan.io/charts_bakers)
 * [https://tezos.gitlab.io/master/whitedoc/voting.html](https://tezos.gitlab.io/master/whitedoc/voting.html)
 * [https://www.reddit.com/r/tezos/](https://www.reddit.com/r/tezos/)
 * [https://kukai.app/bakers-list](https://kukai.app/bakers-list)
@@ -108,7 +106,7 @@ Time-lock Voting + Delayed Enactment
 
 ### Decred
 
-...
+* [https://proposals.decred.org/](https://proposals.decred.org/)
 
 ### DASH
 
