@@ -10,3 +10,7 @@ The research will also show **the gaps** in our current landscape, providing opp
 
 ![https://instagram.com/ionsounds](.gitbook/assets/blockchain-mapping.jpg)
 
+Part of \#dgov network
+
+![](.gitbook/assets/image%20%284%29.png)
+
