@@ -4,6 +4,8 @@ Taxonomy of DAOs & DGOV providers
 
 by Andreas, Felipe, Pedro
 
+![](../.gitbook/assets/image%20%285%29.png)
+
 ### Tech infrastructure
 
 * [Aragon](https://aragon.org/) – project that aims to disintermediate the creation and maintenance of organizational structures by using blockchain technology 
