@@ -32,7 +32,7 @@ Tezos is a self-amending blockchain network which incorporates a formal, on-chai
 
 * 2014 – Arthur Breitman and Kathleen Breitman, started developing Tezos with a core group of developers
 * 2017 – $232 million ICO
-* Feb 2018 – Dispute and Board reshuffle \[[source](https://www.coindesk.com/tezos-board-reshuffled-johann-gevers-steps)\]
+* Feb 2018 – [Dispute and Board reshuffle](https://www.coindesk.com/tezos-board-reshuffled-johann-gevers-steps)
 * Jun 2018 – Testnet launch
 * Sep 2018 – Mainnet Launch
 
@@ -95,6 +95,7 @@ Upgrades to the protocol through proposal & voting process. Uses min quorum adap
 * [https://www.reddit.com/r/eos/comments/9vo3rz/pitfalls\_of\_eos\_governance/](https://www.reddit.com/r/eos/comments/9vo3rz/pitfalls_of_eos_governance/)
 * [https://toshitimes.com/the-founder-of-eos-proposes-a-new-constitution-the-current-one-is-overly-broad/](https://toshitimes.com/the-founder-of-eos-proposes-a-new-constitution-the-current-one-is-overly-broad/)
 * [https://cryptoslate.com/eos-governance-divides-crypto-community/](https://cryptoslate.com/eos-governance-divides-crypto-community/)
+* [https://twitter.com/MapleLeafCap/status/1044958643731533825](https://twitter.com/MapleLeafCap/status/1044958643731533825)
 
 ### Polkadot
 
