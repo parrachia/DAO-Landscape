@@ -128,15 +128,10 @@ by Andreas, Felipe, Pedro
 
 ## References
 
-{% embed url="http://www.pllel.com/industries/tag/tokenspace/" %}
-
-{% embed url="https://www.coindesk.com/world-economic-forum-publishes-blockchain-governance-taxonomy" %}
-
-{% embed url="http://archchain.cc/blockchain-grammars-designing-with-daos/" %}
-
-{% embed url="https://medium.com/@heckerhut/a-blockchain-token-taxonomy-fadf5c56139a" %}
-
-{% embed url="https://www.researchgate.net/profile/Ingo\_Weber/publication/314213262\_A\_Taxonomy\_of\_Blockchain-Based\_Systems\_for\_Architecture\_Design/links/59e82617458515c3630fdaf5/A-Taxonomy-of-Blockchain-Based-Systems-for-Architecture-Design.pdf?origin=publication\_detail" %}
-
-
+* [https://www.coindesk.com/world-economic-forum-publishes-blockchain-governance-taxonomy](https://www.coindesk.com/world-economic-forum-publishes-blockchain-governance-taxonomy)
+* [http://archchain.cc/blockchain-grammars-designing-with-daos/](http://archchain.cc/blockchain-grammars-designing-with-daos/)
+* [http://www.pllel.com/industries/tag/tokenspace/](http://www.pllel.com/industries/tag/tokenspace/)
+* [https://medium.com/@heckerhut/a-blockchain-token-taxonomy-fadf5c56139a](https://medium.com/@heckerhut/a-blockchain-token-taxonomy-fadf5c56139a)
+* [https://www.researchgate.net/profile/Ingo\_Weber/publication/314213262\_A\_Taxonomy\_of\_Blockchain-Based\_Systems\_for\_Architecture\_Design/links/59e82617458515c3630fdaf5/A-Taxonomy-of-Blockchain-Based-Systems-for-Architecture-Design.pdf?origin=publication\_detail](https://www.researchgate.net/profile/Ingo_Weber/publication/314213262_A_Taxonomy_of_Blockchain-Based_Systems_for_Architecture_Design/links/59e82617458515c3630fdaf5/A-Taxonomy-of-Blockchain-Based-Systems-for-Architecture-Design.pdf?origin=publication_detail)
+* [https://democracy.foundation/similar-projects/](https://democracy.foundation/similar-projects/)
 
