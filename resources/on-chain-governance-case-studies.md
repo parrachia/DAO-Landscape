@@ -35,6 +35,7 @@ Tezos is a self-amending blockchain network which incorporates a formal, on-chai
 * Feb 2018 – [Dispute and Board reshuffle](https://www.coindesk.com/tezos-board-reshuffled-johann-gevers-steps)
 * Jun 2018 – Testnet launch
 * Sep 2018 – Mainnet Launch
+* Apr 2019 – [First Exploration Vote](https://www.tezos.help/votes/)
 
 #### Objects of governance & Used mechanics
 
@@ -50,13 +51,13 @@ Upgrades to the protocol through proposal & voting process. Uses min quorum adap
 
 #### Network Stats \(on April 2019\)
 
-* Market cap $0.79B \[[source](https://messari.io/asset/tezos)\]
+* [Market cap $0.79B](https://messari.io/asset/tezos)
 * 460 bakers \(analogue of block validators\)
 * 106 public delegates \(who you can delegate your XTZ tokens if you have less then 10k\)
 
 #### Summary
 
-* Results of current votings: [https://www.tezos.help/votes/](https://www.tezos.help/votes/)
+* [Results of current votings](https://www.tezos.help/votes/)
 
 #### Links
 
