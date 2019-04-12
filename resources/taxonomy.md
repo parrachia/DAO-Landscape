@@ -1,8 +1,10 @@
-# Taxonomy
+# Taxonomy of DAOs & DGOV providers
 
-Taxonomy of DAOs & DGOV providers
+{% hint style="info" %}
+Work in progress. If you don't see your project here please contact us
+{% endhint %}
 
-by Andreas, Felipe, Pedro
+by Grace Andreas, Felipe, Pedro
 
 ![](../.gitbook/assets/image%20%285%29.png)
 

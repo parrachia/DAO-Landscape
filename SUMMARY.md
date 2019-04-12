@@ -6,7 +6,7 @@
 
 * [Glossary](resources/glossary.md)
 * [Model](resources/model.md)
-* [Taxonomy](resources/taxonomy.md)
+* [Taxonomy of DAOs & DGOV providers](resources/taxonomy.md)
 * [DAO Use Cases](resources/dao-use-cases.md)
 * [Features of DAOs](resources/features-of-daos.md)
 * [DAO Tech Evaluation Framework](resources/dao-tech-evaluation-framework.md)
