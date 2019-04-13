@@ -19,15 +19,15 @@ Structure of the report:
 
 
 
-### Tezos \(XTZ\)
+## Tezos \(XTZ\)
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
-#### Purpose
+### Purpose
 
 Tezos is a self-amending blockchain network which incorporates a formal, on-chain mechanism for proposing, selecting, testing, and activating protocol upgrades without the need to hard fork. Operates under liquid PoS consensus.
 
-#### History & key events
+### History & key events
 
 * 2014 – Arthur Breitman and Kathleen Breitman, started developing Tezos with a core group of developers
 * 2017 – $232 million ICO
@@ -36,7 +36,7 @@ Tezos is a self-amending blockchain network which incorporates a formal, on-chai
 * Sep 2018 – Mainnet Launch
 * Apr 2019 – [First Exploration Vote](https://www.tezos.help/votes/)
 
-#### Objects of governance & Used mechanics
+### Objects of governance & Used mechanics
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
@@ -48,13 +48,13 @@ Upgrades to the protocol through proposal & voting process. Uses min quorum adap
 * After repeated testing, the Tezos token holders can then vote on whether the proposal should be approved or not.
 * Once a legitimate upgrade is decided on, a “hot swap” occurs on the protocol, which initiates the new version of the protocol.
 
-#### Network Stats \(on April 2019\)
+### Network Stats \(on April 2019\)
 
 * [Market cap $0.79B](https://messari.io/asset/tezos)
 * 460 bakers \(analogue of block validators\)
 * 106 public delegates \(who you can delegate your XTZ tokens if you have less then 10k\)
 
-#### Links
+### Links
 
 * [Tezos Whitepaper](https://tezos.com/static/white_paper-2dc8c02267a8fb86bd67a108199441bf.pdf)
 * [Tezos Wiki](https://tqgroup.gitlab.io/tezos-wiki/files/self-amendment.html)
@@ -66,7 +66,7 @@ Upgrades to the protocol through proposal & voting process. Uses min quorum adap
 * [https://mytezosbaker.com/](https://mytezosbaker.com/)
 * [https://blockgeeks.com/guides/what-is-tezos/](https://blockgeeks.com/guides/what-is-tezos/)
 
-## EOS
+## EOS \(EOS\)
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
@@ -85,11 +85,7 @@ Business platform for distributed apps with reliable governance, optimized for s
 
 #### Consitution and voting
 
-[EOS has a constitution with governance features baked into the smart contract](https://github.com/EOS-Mainnet/governance/blob/master/eosio.system/eosio.system-clause-constitution-rc.md). At the launch of the EOS mainnet all parties agreed on a constitution, naming ECAF \(EOS Core Arbitration Forum\). Block producers execute all of ECAF’s rulings. [Unlike Block Producers which the community chooses by voting, ECAF members are self-appointed.](https://www.reddit.com/r/eos/comments/9vo3rz/pitfalls_of_eos_governance/) 24 Block Producers have produced 64 blocks containing transactions that broke 10 ECAF Orders of Emergency Protection.
-
-[Any EOS token holder who violates the constitution is in breach of contract, and could theoretically be subject to civil action.](https://medium.com/coinmonks/possible-improvements-to-eos-governance-7432b7afea1b)
-
-In order to alter the constitution, the following process will have to take place:
+[EOS has a constitution with governance features baked into the smart contract](https://github.com/EOS-Mainnet/governance/blob/master/eosio.system/eosio.system-clause-constitution-rc.md). In order to alter the constitution, the following process will have to take place:
 
 > 1. Block producers propose a change to the constitution and obtains 15/21 approval.  
 > 2. Block producers maintain 15/21 approval of the new constitution for 30 consecutive days.  
@@ -102,6 +98,14 @@ In order to alter the constitution, the following process will have to take plac
 The creation of an exact replica of an official \(off-chain\) ECAF order, resulting in a lot of confusion, has shown the flaws in the way official ECAF orders are given. ECAF has acknowledged this flaw and has created a way to verify orders on-chain. This method works for now, but a new, on-chain system to verify and receive official ECAF orders could help a lot.
 
 [EOS voter participation is low.](https://www.auroraeos.com/blog/combatting-vote-manipulation-on-eos/)
+
+#### ECAF
+
+At the launch of the EOS mainnet all parties agreed on a constitution, naming ECAF \(EOS Core Arbitration Forum\). Block producers execute all of ECAF’s rulings. [Unlike Block Producers which the community chooses by voting, ECAF members are self-appointed.](https://www.reddit.com/r/eos/comments/9vo3rz/pitfalls_of_eos_governance/) 24 Block Producers have produced 64 blocks containing transactions that broke 10 ECAF Orders of Emergency Protection.
+
+[Any EOS token holder who violates the constitution is in breach of contract, and could theoretically be subject to civil action.](https://medium.com/coinmonks/possible-improvements-to-eos-governance-7432b7afea1b)
+
+ECAF blacklisted a number of EOS accounts that were identified as associated with fraudulent activity. [Blacklists are issued by ECAF and are delivered to block producer meetings.](https://cryptoslate.com/eos-governance-divides-crypto-community/) Block producer EosStore was not compliant with an ECAF blacklist issuance, and as a result, an account lost funds. An official [statement](https://steemit.com/statement/@eos.store/statement-of-updating-the-blacklist-from-ecaf?sort=votes) released by EosStore on June 26, 2018, confirmed the block producer did indeed neglect to update blacklist data.
 
 #### Vote buying
 
@@ -124,23 +128,20 @@ Block.one [CEO Brendan Blumer made waves in the EOS community with a tweet](http
 
 EOS governance as written does not work well with exchanges, which have custody over a vast amount of user cryptocurrency. [Perhaps more importantly, there’s no way to prevent exchanges from voting the tokens of their users who don’t care to vote.](https://www.coindesk.com/vitalik-called-it-vote-buying-scandal-stokes-fears-of-eos-failure) Bitfinex has written open source software [to enfranchise its users](https://support.bitfinex.com/hc/en-us/articles/360005324573-Bitfinex-Ballot-EOS-Block-Producer-Voting), but it has limitations. We do not know of any other exchanges that have implemented it or anything similar.
 
-#### Network Stats
+### Network Stats \(on April 2019\)
 
-#### Summary
+* [Market cap $4.8B](https://coinmarketcap.com/currencies/eos/)
+* [25M blocks generated](https://www.reddit.com/r/eos/comments/9vo3rz/pitfalls_of_eos_governance/)
+* [17 Orders issued by ECAF](https://www.reddit.com/r/eos/comments/9vo3rz/pitfalls_of_eos_governance/)
+* [62k EOS lost by misbehavior ](https://www.reddit.com/r/eos/comments/9vo3rz/pitfalls_of_eos_governance/)\(~$300k\)
 
-#### Links
+### Links
 
 * [A Deep Dive Into EOS Governance](https://medium.com/coinmonks/a-deep-dive-into-eos-governance-49e892eeb4a2)
 * [An Alternative EOS Staking Algorithm](https://medium.com/@kengriffith_54628/an-alternative-eos-staking-algorithm-4f3519cc7157)
 * [Risk-Reward Based Governance for EOS](https://medium.com/coinmonks/possible-improvements-to-eos-governance-7432b7afea1b)
-* * [https://cointelegraph.com/news/corrupt-governance-what-we-know-about-recent-eos-scandal](https://cointelegraph.com/news/corrupt-governance-what-we-know-about-recent-eos-scandal)
-* [https://www.coindesk.com/vitalik-called-it-vote-buying-scandal-stokes-fears-of-eos-failure](https://www.coindesk.com/vitalik-called-it-vote-buying-scandal-stokes-fears-of-eos-failure)
-* [https://www.reddit.com/r/eos/comments/9vo3rz/pitfalls\_of\_eos\_governance/](https://www.reddit.com/r/eos/comments/9vo3rz/pitfalls_of_eos_governance/)
-* [https://toshitimes.com/the-founder-of-eos-proposes-a-new-constitution-the-current-one-is-overly-broad/](https://toshitimes.com/the-founder-of-eos-proposes-a-new-constitution-the-current-one-is-overly-broad/)
-* [https://cryptoslate.com/eos-governance-divides-crypto-community/](https://cryptoslate.com/eos-governance-divides-crypto-community/)
-* [https://twitter.com/MapleLeafCap/status/1044958643731533825](https://twitter.com/MapleLeafCap/status/1044958643731533825)
 
-### Polkadot
+## Polkadot
 
 Time-lock Voting + Delayed Enactment
 
@@ -148,30 +149,30 @@ Time-lock Voting + Delayed Enactment
 
 * [https://github.com/paritytech/polkadot/wiki/Governance](https://github.com/paritytech/polkadot/wiki/Governance)
 
-### Decred
+## Decred
 
 * [https://proposals.decred.org/](https://proposals.decred.org/)
 
-### DASH
+## DASH
 
 * [https://www.dash.org/governance/](https://www.dash.org/governance/)
 * [https://www.dash.org/2017/09/07/dashdecentral.html](https://www.dash.org/2017/09/07/dashdecentral.html)
 * [https://docs.dash.org/en/stable/governance/understanding.html](https://docs.dash.org/en/stable/governance/understanding.html)
 * [https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4](https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4)
 
-### Grin
+## Grin
 
 [https://medium.com/blockchain-capital-blog/grin-governance-a-novel-approach-154aca07291b](https://medium.com/blockchain-capital-blog/grin-governance-a-novel-approach-154aca07291b)
 
-### Beam
+## Beam
 
 ...
 
-### Cardano
+## Cardano
 
 * [https://cryptovest.com/news/cardano-ada-hit-by-governance-woes-as-iohk-emurgo-chairs-split-with-cardano-foundation/](https://cryptovest.com/news/cardano-ada-hit-by-governance-woes-as-iohk-emurgo-chairs-split-with-cardano-foundation/)
 
-### Edgeware
+## Edgeware
 
 * [https://edgewa.re/](https://edgewa.re/)
 
