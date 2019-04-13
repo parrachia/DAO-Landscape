@@ -1,4 +1,8 @@
-# Tactical \#2 - 27.03
+---
+description: March 27th
+---
+
+# Tactical \#2
 
 ## Check-in
 

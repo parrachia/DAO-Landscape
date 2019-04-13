@@ -2,8 +2,6 @@
 
 [Discussion](https://daotalk.org/t/dgov-dao-governance-glossary/408)
 
-by Max, Andreas, Phoebe
-
 ## Commons
 
 The commons is the cultural and natural resources accessible to all members of a society, including natural materials such as air, water, and a habitable earth. These resources are held in common, not owned privately. Commons can also be understood as natural resources that groups of people \(communities, user groups\) manage for individual and collective benefit. Characteristically, this involves a variety of informal norms and values \(social practice\) employed for a governance mechanism. \[[source](https://en.wikipedia.org/wiki/Commons)\]

@@ -2,7 +2,7 @@
 
 ## Roles
 
-* Coordinator – Pedro Parrachia \([pedro@parrachia.com.br](mailto:pedro@parrachia.com.br)\)
+* Coordinator – Pedro Parrachia \([@parrachia](https://twitter.com/parrachia)\)
 
 ### Coordinator
 

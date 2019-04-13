@@ -1,33 +1,27 @@
 # Table of contents
 
 * [Hello World!](README.md)
-
-## Resources
-
-* [Glossary](resources/glossary.md)
-* [Model](resources/model.md)
-* [Taxonomy of DAOs & DGOV providers](resources/taxonomy.md)
-* [DAO Use Cases](resources/dao-use-cases.md)
-* [Features of DAOs](resources/features-of-daos.md)
-* [DAO Tech Evaluation Framework](resources/dao-tech-evaluation-framework.md)
-* [Tools by DGOV providers](resources/tools-by-dgov-providers.md)
-* [On-chain Governance Case Studies](resources/on-chain-governance-case-studies.md)
-* [Reading list](resources/reading-list.md)
-
-## Mapping
-
-* [Preliminary Research](mapping/preliminary-research/README.md)
-  * [GenDAO proposal \#1](mapping/preliminary-research/gendao-proposal-1.md)
-  * [State of the DAO](mapping/preliminary-research/state-of-the-dao.md)
-* [Report](mapping/report/README.md)
-  * [The 17th International Open and User Innovation Conference](mapping/report/the-17th-international-open-and-user-innovation-conference.md)
-* [Visualization](mapping/visualization.md)
+* [Preliminary Research \(WIP\)](preliminary-research/README.md)
+  * [Glossary](preliminary-research/glossary.md)
+  * [Taxonomy of DAOs & DGOV providers](preliminary-research/taxonomy.md)
+  * [DAO Use Cases](preliminary-research/dao-use-cases.md)
+  * [DAO Tech Evaluation Framework](preliminary-research/dao-tech-evaluation-framework.md)
+  * [Tools by DGOV providers](preliminary-research/tools-by-dgov-providers.md)
+  * [On-chain Governance Case Studies](preliminary-research/on-chain-governance-case-studies.md)
+  * [Reading list](preliminary-research/reading-list.md)
+* [Report](report/README.md)
+  * [Model](report/model.md)
+  * [Features of DAOs](report/features-of-daos.md)
+  * [Visualizations](report/visualization.md)
+  * [More soon!](report/more-soon.md)
 
 ## admin
 
 * [Governance](admin/governance.md)
 * [Tacticals](admin/tacticals/README.md)
-  * [Tactical \#2 - 27.03](admin/tacticals/tactical-2-27.03.md)
+  * [Tactical \#3](admin/tacticals/tactical-3.md)
+  * [Tactical \#2](admin/tacticals/tactical-2-27.03.md)
+  * [Tactical \#1](admin/tacticals/tactical-1.md)
 * [Team](admin/team.md)
 * [Tools & Techniques](admin/tools-and-techniques.md)
 * [Collaboration](admin/partnership.md)

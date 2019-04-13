@@ -1,7 +1,5 @@
 # Tools by DGOV providers
 
-by Andreas, Phoebe
-
 \* early draft
 
 * Policy making
