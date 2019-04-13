@@ -73,8 +73,6 @@ Work in progress. If you don't see your project here please contact us
 * [Gnosis](https://gnosis.pm/) – prediction markets platform
 * [Fairmint](https://fairmint.co) – continuous funding
 
-
-
 ## Researchers & Academics
 
 * [Participatory Orgs](https://github.com/ParticipatoryOrgs)
