@@ -166,7 +166,7 @@ Based on Alchemy
 
 ### Aragon Association
 
-...
+* [https://twitter.com/foregroundblock/status/1117028019573538821?s=21](https://twitter.com/foregroundblock/status/1117028019573538821?s=21)
 
 ### 0x Association
 
