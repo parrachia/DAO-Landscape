@@ -21,7 +21,7 @@ Structure of the report:
 
 ## Tezos \(XTZ\)
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 ### Purpose
 
@@ -38,7 +38,7 @@ Tezos is a self-amending blockchain network which incorporates a formal, on-chai
 
 ### Objects of governance & Used mechanics
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 Upgrades to the protocol through proposal & voting process. Uses min quorum adapted to the average participation and and 80% of supermajority support level to pass.
 
@@ -68,7 +68,7 @@ Upgrades to the protocol through proposal & voting process. Uses min quorum adap
 
 ## EOS \(EOS\)
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 ### Purpose
 
@@ -148,24 +148,52 @@ Bitfinex has written open source software [to enfranchise its users](https://sup
 
 ### Purpose
 
+[Digital Cash, peer-to-peer digital currency.](https://www.dash.org/learning-resources/)
+
 ### History & key events
+
+* January 2014 launched as "Xcoin"
+* Rebranded to Darkcoin \(2015\) and then Dash \(2016\)
+* February 2018, [a legal entity was formed which represents the DAO, and this entity took ownership of Dash Core](https://www.dashforcenews.com/dash-core-group-becomes-first-legally-dao-owned-entity/)
 
 ### Objects of governance & Used mechanics 
 
+Masternodes
+
+[Masternode Operators \(MNOs\) are key actors in the Dash network. ](https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4)Dash Masternodes \(MNs\) provide certain services \(InstantSend and PrivateSend\) to users, receive 45% of the block reward, and collectively control the project’s development fund through voting. A MNO can operate multiple MNs.
+
+#### Treasury
+
+Each month, DASH dispenses 10% of the block rewards for that month in a superblock. This DASH is distributed to the wallets associated with treasury budget proposals which have scored highly enough to receive a payout. MNOs vote Yes or No to proposals, on the basis of one vote per MN. Money is available by default, whatever DASH isn’t distributed gets burned.
+
+#### Funds distribution
+
+There is a [voting threshold which determines whether a proposal will be funded](https://docs.dash.org/en/latest/governance.html#budgets-and-masternode-voting): a net Yes vote greater than 10% of all MNs. The threshold formula is: \(YES votes — NO votes\) &gt; \(Total Number of Masternodes / 10\). Formal submission of a proposal costs a fee of 5 DASH.
+
+![https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4](../.gitbook/assets/image%20%288%29.png)
+
+![https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4](../.gitbook/assets/image.png)
+
+![https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4](../.gitbook/assets/image%20%287%29.png)
+
 ### Network Stats \(on April 2019\)
+
+* 6,176 DASH distributed on April \(~$730k\), around that amount is distributed on monthly basis
+* 4,769 masternode
+* 295 proposals approved out of 474
+* 18.7% – median amount of masternode participation
 
 ### Links
 
-* [https://www.dash.org/governance/](https://www.dash.org/governance/)
-* [https://www.dash.org/2017/09/07/dashdecentral.html](https://www.dash.org/2017/09/07/dashdecentral.html)
-* [https://docs.dash.org/en/stable/governance/understanding.html](https://docs.dash.org/en/stable/governance/understanding.html)
-* [https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4](https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4)
+* [Dash Governance](https://www.dash.org/governance/%20)
+* [Observations of the Dash Treasury DAO](https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4)
+* [Dash Central](https://www.dashcentral.org/)
 
 ## Polkadot
 
 Time-lock Voting + Delayed Enactment
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 * [https://github.com/paritytech/polkadot/wiki/Governance](https://github.com/paritytech/polkadot/wiki/Governance)
 

@@ -4,7 +4,7 @@
 Work in progress. If you don't see your project here please contact us
 {% endhint %}
 
-![By Grace Rachmany](../.gitbook/assets/image%20%285%29.png)
+![By Grace Rachmany](../.gitbook/assets/image%20%282%29.png)
 
 ### Tech infrastructure
 
