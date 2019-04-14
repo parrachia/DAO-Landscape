@@ -141,6 +141,17 @@ EOS governance as written does not work well with exchanges, which have custody 
 * [An Alternative EOS Staking Algorithm](https://medium.com/@kengriffith_54628/an-alternative-eos-staking-algorithm-4f3519cc7157)
 * [Risk-Reward Based Governance for EOS](https://medium.com/coinmonks/possible-improvements-to-eos-governance-7432b7afea1b)
 
+## DASH
+
+### Network Stats \(on April 2019\)
+
+### Links
+
+* [https://www.dash.org/governance/](https://www.dash.org/governance/)
+* [https://www.dash.org/2017/09/07/dashdecentral.html](https://www.dash.org/2017/09/07/dashdecentral.html)
+* [https://docs.dash.org/en/stable/governance/understanding.html](https://docs.dash.org/en/stable/governance/understanding.html)
+* [https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4](https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4)
+
 ## Polkadot
 
 Time-lock Voting + Delayed Enactment
@@ -152,13 +163,6 @@ Time-lock Voting + Delayed Enactment
 ## Decred
 
 * [https://proposals.decred.org/](https://proposals.decred.org/)
-
-## DASH
-
-* [https://www.dash.org/governance/](https://www.dash.org/governance/)
-* [https://www.dash.org/2017/09/07/dashdecentral.html](https://www.dash.org/2017/09/07/dashdecentral.html)
-* [https://docs.dash.org/en/stable/governance/understanding.html](https://docs.dash.org/en/stable/governance/understanding.html)
-* [https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4](https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4)
 
 ## Grin
 
