@@ -8,7 +8,7 @@
   * [DAO Tech Evaluation Framework](preliminary-research/dao-tech-evaluation-framework.md)
   * [Tools by DGOV providers](preliminary-research/tools-by-dgov-providers.md)
   * [Layer 1: Network-based Governance Case Studies](preliminary-research/layer-1-network-based-governance-case-studies.md)
-  * [Layer 2: DAO On-chain Governance Case Studies](preliminary-research/on-chain-governance-case-studies.md)
+  * [Layer 2: DAO / On-chain Governance Case Studies](preliminary-research/on-chain-governance-case-studies.md)
   * [Reading list](preliminary-research/reading-list.md)
 * [Report](report/README.md)
   * [Model](report/model.md)

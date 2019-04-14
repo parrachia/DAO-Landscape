@@ -1,4 +1,4 @@
-# Layer 2: DAO On-chain Governance Case Studies
+# Layer 2: DAO / On-chain Governance Case Studies
 
 ## Layer 1: Network-based
 
