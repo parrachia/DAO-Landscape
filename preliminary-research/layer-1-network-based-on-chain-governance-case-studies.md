@@ -139,11 +139,18 @@ Bitfinex has written open source software [to enfranchise its users](https://sup
 
 ### Links
 
+* [EOS Technical White Paper v2](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md)
 * [A Deep Dive Into EOS Governance](https://medium.com/coinmonks/a-deep-dive-into-eos-governance-49e892eeb4a2)
 * [An Alternative EOS Staking Algorithm](https://medium.com/@kengriffith_54628/an-alternative-eos-staking-algorithm-4f3519cc7157)
 * [Risk-Reward Based Governance for EOS](https://medium.com/coinmonks/possible-improvements-to-eos-governance-7432b7afea1b)
 
 ## DASH
+
+### Purpose
+
+### History & key events
+
+### Objects of governance & Used mechanics 
 
 ### Network Stats \(on April 2019\)
 
