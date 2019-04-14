@@ -21,7 +21,7 @@ Structure of the report:
 
 ## Tezos \(XTZ\)
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 ### Purpose
 
@@ -68,7 +68,7 @@ Upgrades to the protocol through proposal & voting process. Uses min quorum adap
 
 ## EOS \(EOS\)
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 ### Purpose
 
@@ -146,6 +146,8 @@ Bitfinex has written open source software [to enfranchise its users](https://sup
 
 ## DASH
 
+![](../.gitbook/assets/008-dash-icon.png)
+
 ### Purpose
 
 [Digital Cash, peer-to-peer digital currency.](https://www.dash.org/learning-resources/)
@@ -170,11 +172,11 @@ Each month, DASH dispenses 10% of the block rewards for that month in a superblo
 
 There is a [voting threshold which determines whether a proposal will be funded](https://docs.dash.org/en/latest/governance.html#budgets-and-masternode-voting): a net Yes vote greater than 10% of all MNs. The threshold formula is: \(YES votes — NO votes\) &gt; \(Total Number of Masternodes / 10\). Formal submission of a proposal costs a fee of 5 DASH.
 
-![https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4](../.gitbook/assets/image%20%288%29.png)
+![https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4](../.gitbook/assets/image%20%289%29.png)
 
 ![https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4](../.gitbook/assets/image.png)
 
-![https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4](../.gitbook/assets/image%20%287%29.png)
+![https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4](../.gitbook/assets/image%20%288%29.png)
 
 ### Network Stats \(on April 2019\)
 
@@ -189,21 +191,75 @@ There is a [voting threshold which determines whether a proposal will be funded]
 * [Observations of the Dash Treasury DAO](https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4)
 * [Dash Central](https://www.dashcentral.org/)
 
-## Polkadot
+## Grin
 
-Time-lock Voting + Delayed Enactment
+![](../.gitbook/assets/image%20%282%29.png)
 
-![](../.gitbook/assets/image%20%286%29.png)
+### Purpose
 
-* [https://github.com/paritytech/polkadot/wiki/Governance](https://github.com/paritytech/polkadot/wiki/Governance)
+[Grin is a new Mimblewimble-based cryptocurrency that offers privacy and scalability improvements.](https://medium.com/blockchain-capital-blog/grin-governance-a-novel-approach-154aca07291b)
+
+### History & key events
+
+* launched on January 15th, 2019
+
+### Objects of governance & Used mechanics
+
+#### Foundation
+
+There are [no current or future plans](https://github.com/mimblewimble/docs/wiki/Regarding-Foundations) to create an official Grin Foundation or legal entity.  Grin has [bi-weekly governance meetings](https://github.com/mimblewimble/grin-pm/tree/master/notes) that anyone can participate in. The[ Governance forum](https://www.grin-forum.org/c/governance) is quite active, with [many threads](https://www.grin-forum.org/t/governance-plan/461/7) around governance [norms and frameworks.](https://www.grin-forum.org/t/governance-consensus-baby-step-1-20180807-meeting/615) 
+
+#### Technical Council
+
+The Grin Technical Council is currently composed of 8 members:
+
+* [Antioch Peverell](https://github.com/antiochp)
+* [hashmap](https://github.com/hashmap)
+* [Ignotus Peverell](https://github.com/ignopeverell)
+* [Jaspervdm](https://github.com/jaspervdm)
+* [lehnberg](https://github.com/lehnberg)
+* [Quentin le Sceller](https://github.com/quentinlesceller)
+* [John Tromp](https://github.com/tromp)
+* [Yeastplume](https://github.com/yeastplume)
+
+The Council’s main responsibility includes management of the Grin General Fund, as well as stewardship of the protocol through the open development and governance meetings.
+
+**Funding**
+
+As mentioned previously, Grin launched in a fair manner, and project founders and developers don’t receive any funding directly from the protocol, or from investors.
+
+As such, Grin relies primarily on two different means of funding.
+
+1. Individual project based fundraising — in which individual campaigns are proposed and funded by donors. Examples include [Yeastplume’s funding campaigns](https://grin-tech.org/yeastplume), as well as the [Security Audit Funding](https://grin-tech.org/sec_audit). The money raised goes directly into an account controlled by the person making the request. This is a similar model to Monero’s [Forum Funding System](https://ww.getmonero.org/forum-funding-system/), where anyone in the community can propose a project and request funding.
+2. General Funding for Grin’s Development — Grin has a [General Fund](https://grin-tech.org/general_funding) that’s always open for donations, and goes towards a miscellaneous set of costs related to Grin development, including service fees, marketing materials, travel, developer funding, or legal support.
+
+Many early ecosystem participants \(miners, funds, pools\) have [chosen to contribute to Grin](https://grin-tech.org/friends). [Grinmint has chosen to donate](https://blog.blockcypher.com/grin-mining-pool-47286f5e0b8d) a percentage of pool proceeds to the Grin developer team. Additionally, Obelisk has [committed to donating](https://medium.com/obelisk-blog/the-obelisk-grn1-an-asic-for-grin-1d1ff580a19d) a portion of their revenue from their Grin ASIC to supporting Grin development.
+
+**Grin Risk Management**
+
+Blockchain governance is most relevant in times of disaster, distress, or conflict. Bitcoin Governance demonstrated its strength during the Segwit2x hard fork. Ethereum demonstrated its governance system during the DAO event.
+
+Grin developers have written a lot about their [risk management system](https://github.com/mimblewimble/docs/wiki/Introduction-to-Risk-Management-for-Grin), and have brainstormed the [specific downside scenarios](https://docs.google.com/spreadsheets/d/1zTtlMIgJFzmyedKD07dA0jn3eP4HD7eZqLjD8cVd_4c/edit#gid=287721861), and ways to respond. It’s generally good practice to brainstorm various scenarios, and think about contingency plans and potential responses. Many of the scenarios they’ve outlined, such as the possibility of a critical bug, secret ASICs, or a 51% attack are very real scenarios that have happened to many other blockchains.
+
+### Network Stats \(on April 2019\)
+
+* not much info now
+
+### Links
+
+* [https://medium.com/blockchain-capital-blog/grin-governance-a-novel-approach-154aca07291b](https://medium.com/blockchain-capital-blog/grin-governance-a-novel-approach-154aca07291b)
 
 ## Decred
 
 * [https://proposals.decred.org/](https://proposals.decred.org/)
 
-## Grin
+## Polkadot
 
-[https://medium.com/blockchain-capital-blog/grin-governance-a-novel-approach-154aca07291b](https://medium.com/blockchain-capital-blog/grin-governance-a-novel-approach-154aca07291b)
+Time-lock Voting + Delayed Enactment
+
+![](../.gitbook/assets/image%20%287%29.png)
+
+* [https://github.com/paritytech/polkadot/wiki/Governance](https://github.com/paritytech/polkadot/wiki/Governance)
 
 ## Beam
 

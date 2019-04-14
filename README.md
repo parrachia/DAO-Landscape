@@ -12,5 +12,5 @@ The research will also show **the gaps** in our current landscape, providing opp
 
 Part of \#dgov network
 
-![](.gitbook/assets/image%20%285%29.png)
+![](.gitbook/assets/image%20%286%29.png)
 
