@@ -1,4 +1,4 @@
-# Layer 1: Network-based On-chain Governance Case Studies
+# Layer 1: Network-based Governance Case Studies
 
 ## Introduction
 
