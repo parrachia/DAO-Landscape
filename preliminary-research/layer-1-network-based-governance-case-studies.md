@@ -160,13 +160,13 @@ Bitfinex has written open source software [to enfranchise its users](https://sup
 
 ### Objects of governance & Used mechanics 
 
-Masternodes
+#### Masternodes
 
 [Masternode Operators \(MNOs\) are key actors in the Dash network. ](https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4)Dash Masternodes \(MNs\) provide certain services \(InstantSend and PrivateSend\) to users, receive 45% of the block reward, and collectively control the project’s development fund through voting. A MNO can operate multiple MNs.
 
 #### Treasury
 
-Each month, DASH dispenses 10% of the block rewards for that month in a superblock. This DASH is distributed to the wallets associated with treasury budget proposals which have scored highly enough to receive a payout. MNOs vote Yes or No to proposals, on the basis of one vote per MN. Money is available by default, whatever DASH isn’t distributed gets burned.
+Each month, DASH dispenses 10% of the block rewards for that month in a superblock. This DASH is distributed to the wallets associated with treasury budget proposals which have scored highly enough to receive a payout. MNOs vote Yes, No or Abstain to proposals, on the basis of one vote per MN. Money is available by default, not allocated budget coins are not minted.
 
 #### Funds distribution
 
@@ -274,4 +274,8 @@ Time-lock Voting + Delayed Enactment
 * [https://edgewa.re/](https://edgewa.re/)
 
 ## Summary
+
+
+
+Thanks to Jacob Arluck, Andriy Khavryuchenko
 
