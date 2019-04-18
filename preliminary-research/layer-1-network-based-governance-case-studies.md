@@ -261,21 +261,13 @@ Time-lock Voting + Delayed Enactment
 
 * [https://github.com/paritytech/polkadot/wiki/Governance](https://github.com/paritytech/polkadot/wiki/Governance)
 
-## Beam
-
-...
-
 ## Cardano
 
 * [https://cryptovest.com/news/cardano-ada-hit-by-governance-woes-as-iohk-emurgo-chairs-split-with-cardano-foundation/](https://cryptovest.com/news/cardano-ada-hit-by-governance-woes-as-iohk-emurgo-chairs-split-with-cardano-foundation/)
 
-## Edgeware
-
-* [https://edgewa.re/](https://edgewa.re/)
-
 ## Summary
 
+...
 
-
-Thanks to Jacob Arluck, Andriy Khavryuchenko
+Thanks to Jacob Arluck, Andriy Khavryuchenko, Vahid Toosi for the feedback and improvements.
 
