@@ -1,8 +1,6 @@
-# Layer 2: DAO / On-chain Governance Case Studies
+# Layer 2: DAO Governance Case Studies
 
-## Layer 1: Network-based
-
-### 
+![https://hackernoon.com/the-state-of-the-daos-b7cba318460b](../.gitbook/assets/image%20%281%29.png)
 
 ## Layer 2: Application-based
 

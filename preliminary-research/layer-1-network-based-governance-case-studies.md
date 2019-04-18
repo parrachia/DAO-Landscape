@@ -21,7 +21,7 @@ Structure of the report:
 
 ## Tezos \(XTZ\)
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 ### Purpose
 
@@ -38,7 +38,7 @@ Tezos is a self-amending blockchain network which incorporates a formal, on-chai
 
 ### Objects of governance & Used mechanics
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
 Upgrades to the protocol through proposal & voting process. Uses min quorum adapted to the average participation and and 80% of supermajority support level to pass.
 
@@ -68,7 +68,7 @@ Upgrades to the protocol through proposal & voting process. Uses min quorum adap
 
 ## EOS \(EOS\)
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 ### Purpose
 
@@ -172,11 +172,11 @@ Each month, DASH dispenses 10% of the block rewards for that month in a superblo
 
 There is a [voting threshold which determines whether a proposal will be funded](https://docs.dash.org/en/latest/governance.html#budgets-and-masternode-voting): a net Yes vote greater than 10% of all MNs. The threshold formula is: \(YES votes — NO votes\) &gt; \(Total Number of Masternodes / 10\). Formal submission of a proposal costs a fee of 5 DASH.
 
-![https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4](../.gitbook/assets/image%20%289%29.png)
+![https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4](../.gitbook/assets/image%20%2810%29.png)
 
 ![https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4](../.gitbook/assets/image.png)
 
-![https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4](../.gitbook/assets/image%20%288%29.png)
+![https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4](../.gitbook/assets/image%20%289%29.png)
 
 ### Network Stats \(on April 2019\)
 
@@ -193,7 +193,7 @@ There is a [voting threshold which determines whether a proposal will be funded]
 
 ## Grin
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 ### Purpose
 
@@ -249,6 +249,10 @@ Grin developers have written a lot about their [risk management system](https://
 
 * [https://medium.com/blockchain-capital-blog/grin-governance-a-novel-approach-154aca07291b](https://medium.com/blockchain-capital-blog/grin-governance-a-novel-approach-154aca07291b)
 
+## Ethereum
+
+...
+
 ## Decred
 
 * [https://proposals.decred.org/](https://proposals.decred.org/)
@@ -257,7 +261,7 @@ Grin developers have written a lot about their [risk management system](https://
 
 Time-lock Voting + Delayed Enactment
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 * [https://github.com/paritytech/polkadot/wiki/Governance](https://github.com/paritytech/polkadot/wiki/Governance)
 
