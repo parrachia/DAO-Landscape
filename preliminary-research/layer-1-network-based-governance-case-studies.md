@@ -271,6 +271,7 @@ Thanks to Jacob Arluck, Andriy Khavryuchenko, Vahid Toosi for the feedback and i
 ## To Do's
 
 * Decred
+* Update EOS
 * Ethereum
 * Bitcoin
 * Cardano
@@ -278,4 +279,5 @@ Thanks to Jacob Arluck, Andriy Khavryuchenko, Vahid Toosi for the feedback and i
 * Define questions to be answered with the research
 * [https://github.com/RichardRed0x/crypto-governance-research](https://github.com/RichardRed0x/crypto-governance-research)
 * [https://medium.com/coinmonks/ethereum-classic-the-ungoverned-blockchain-b9ae8986a60a](https://medium.com/coinmonks/ethereum-classic-the-ungoverned-blockchain-b9ae8986a60a)
+* [https://medium.com/@richardred/decentralized-autonomous-funding-of-blockchain-projects-3c0c233ae4ad](https://medium.com/@richardred/decentralized-autonomous-funding-of-blockchain-projects-3c0c233ae4ad)
 
