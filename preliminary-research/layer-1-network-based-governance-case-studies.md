@@ -264,14 +264,14 @@ Time-lock Voting + Delayed Enactment
 
 ...
 
-Thanks to Jacob Arluck, Andriy Khavryuchenko, Vahid Toosi for the feedback and improvements.
+Thanks to [Jacob Arluck](https://twitter.com/JacobArluck), [Andriy Khavryuchenko](https://twitter.com/akhavr), [Vahid Toosi](https://twitter.com/VahidToosi), [Wassim Alsindi](https://twitter.com/parallelind), [Richard Red](https://twitter.com/RichardRed0x) for the feedback and improvements.
 
 
 
 ## To Do's
 
 * Decred
-* Update EOS
+* Update EOS: I will not be able to give you any feedback on what you have written because I simply don’t have time. But one thing I saw in the paper is that you are saying that multisig \(15/21\) needs to be for 30 days. That’s wrong. It’s referendum that needs 30 days. And that’s the old constitution. We have updated our current C with a User agreement instead.
 * Ethereum
 * Bitcoin
 * Cardano
