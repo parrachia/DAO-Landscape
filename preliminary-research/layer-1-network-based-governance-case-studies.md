@@ -249,6 +249,10 @@ Grin developers have written a lot about their [risk management system](https://
 
 * [https://medium.com/blockchain-capital-blog/grin-governance-a-novel-approach-154aca07291b](https://medium.com/blockchain-capital-blog/grin-governance-a-novel-approach-154aca07291b)
 
+## Bitcoin
+
+...
+
 ## Ethereum
 
 ...
@@ -274,4 +278,17 @@ Time-lock Voting + Delayed Enactment
 ...
 
 Thanks to Jacob Arluck, Andriy Khavryuchenko, Vahid Toosi for the feedback and improvements.
+
+
+
+## To Do's
+
+* Decred
+* Ethereum
+* Bitcoin
+* Cardano
+* Polkadot
+* Define questions to be answered with the research
+* [https://github.com/RichardRed0x/crypto-governance-research](https://github.com/RichardRed0x/crypto-governance-research)
+* [https://medium.com/coinmonks/ethereum-classic-the-ungoverned-blockchain-b9ae8986a60a](https://medium.com/coinmonks/ethereum-classic-the-ungoverned-blockchain-b9ae8986a60a)
 
