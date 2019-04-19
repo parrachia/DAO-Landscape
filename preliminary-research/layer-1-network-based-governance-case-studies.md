@@ -17,8 +17,6 @@ Structure of the report:
 * Network Stats
 * Links
 
-
-
 ## Tezos \(XTZ\)
 
 ![](../.gitbook/assets/image%20%285%29.png)
@@ -211,18 +209,7 @@ There are [no current or future plans](https://github.com/mimblewimble/docs/wiki
 
 #### Technical Council
 
-The Grin Technical Council is currently composed of 8 members:
-
-* [Antioch Peverell](https://github.com/antiochp)
-* [hashmap](https://github.com/hashmap)
-* [Ignotus Peverell](https://github.com/ignopeverell)
-* [Jaspervdm](https://github.com/jaspervdm)
-* [lehnberg](https://github.com/lehnberg)
-* [Quentin le Sceller](https://github.com/quentinlesceller)
-* [John Tromp](https://github.com/tromp)
-* [Yeastplume](https://github.com/yeastplume)
-
-The Council’s main responsibility includes management of the Grin General Fund, as well as stewardship of the protocol through the open development and governance meetings.
+The Grin Technical Council is currently composed of 8 members. The Council’s main responsibility includes management of the Grin General Fund, as well as stewardship of the protocol through the open development and governance meetings.
 
 **Funding**
 
