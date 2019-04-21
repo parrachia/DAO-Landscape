@@ -5,6 +5,7 @@
   * [Glossary](preliminary-research/glossary.md)
   * [Taxonomy of DAOs & DGOV providers](preliminary-research/taxonomy.md)
   * [DAO Use Cases](preliminary-research/dao-use-cases.md)
+  * [Self organizing practices / soft governance in the blockchain teams](preliminary-research/self-organizing-practices-soft-governance-in-the-blockchain-teams.md)
   * [DAO Tech Evaluation Framework](preliminary-research/dao-tech-evaluation-framework.md)
   * [Tools by DGOV providers](preliminary-research/tools-by-dgov-providers.md)
   * [Layer 1: Network-based Governance Case Studies](preliminary-research/layer-1-network-based-governance-case-studies.md)
