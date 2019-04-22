@@ -41,6 +41,8 @@ Based on Alchemy
 
 ...
 
+### [https://eosdac.io/](https://eosdac.io/)
+
 ## Unsorted
 
 ### Digix
@@ -52,20 +54,6 @@ Based on Alchemy
 ### Leap DAO
 
 ## Informal Governance Protocols
-
-
-
-### Bitcoin
-
-* [https://medium.com/@pierre\_rochard/bitcoin-governance-37e86299470f](https://medium.com/@pierre_rochard/bitcoin-governance-37e86299470f)
-* [https://bitcoinmagazine.com/articles/a-primer-on-bitcoin-governance-or-why-developers-aren-t-in-charge-of-the-protocol-1473270427/](https://bitcoinmagazine.com/articles/a-primer-on-bitcoin-governance-or-why-developers-aren-t-in-charge-of-the-protocol-1473270427/)
-* [https://bitcoinexchangeguide.com/bitcoin-governance-how-btcs-consensus-system-works-why-it-matters/](https://bitcoinexchangeguide.com/bitcoin-governance-how-btcs-consensus-system-works-why-it-matters/)
-
-### Ethereum
-
-* [https://medium.com/shyft-network-media/the-philosophy-of-ethereum-governance-52c530a8830c](https://medium.com/shyft-network-media/the-philosophy-of-ethereum-governance-52c530a8830c)
-* [https://github.com/ethereum/wiki/wiki/Governance-compendium](https://github.com/ethereum/wiki/wiki/Governance-compendium)
-* [https://unblock.net/what-is-ethereum-governance/](https://unblock.net/what-is-ethereum-governance/)
 
 ## Summary
 
