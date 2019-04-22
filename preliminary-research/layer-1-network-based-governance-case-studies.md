@@ -260,6 +260,10 @@ Time-lock Voting + Delayed Enactment
 
 * [https://cryptovest.com/news/cardano-ada-hit-by-governance-woes-as-iohk-emurgo-chairs-split-with-cardano-foundation/](https://cryptovest.com/news/cardano-ada-hit-by-governance-woes-as-iohk-emurgo-chairs-split-with-cardano-foundation/)
 
+## Cosmos
+
+* [https://bitcoinist.com/cosmos-mainnet-officially-launched/](https://bitcoinist.com/cosmos-mainnet-officially-launched/)
+
 ## Summary
 
 ...
