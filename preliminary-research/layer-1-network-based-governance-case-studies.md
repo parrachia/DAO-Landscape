@@ -141,6 +141,7 @@ Bitfinex has written open source software [to enfranchise its users](https://sup
 * [A Deep Dive Into EOS Governance](https://medium.com/coinmonks/a-deep-dive-into-eos-governance-49e892eeb4a2)
 * [An Alternative EOS Staking Algorithm](https://medium.com/@kengriffith_54628/an-alternative-eos-staking-algorithm-4f3519cc7157)
 * [Risk-Reward Based Governance for EOS](https://medium.com/coinmonks/possible-improvements-to-eos-governance-7432b7afea1b)
+* [https://cryptodaily.co.uk/2019/04/eos-constitution-changed-voting-impasse](https://cryptodaily.co.uk/2019/04/eos-constitution-changed-voting-impasse), check new constitution
 
 ## DASH
 
