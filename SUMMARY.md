@@ -21,6 +21,7 @@
 
 * [Governance](admin/governance.md)
 * [Tacticals](admin/tacticals/README.md)
+  * [Tactical 24.04](admin/tacticals/tactical-24.04.md)
   * [Tactical \#3](admin/tacticals/tactical-3.md)
   * [Tactical \#2](admin/tacticals/tactical-2-27.03.md)
   * [Tactical \#1](admin/tacticals/tactical-1.md)
