@@ -10,7 +10,7 @@
   * [Layer 1: Network-based Governance Case Studies](preliminary-research/layer-1-network-based-governance-case-studies.md)
   * [Layer 2: DAO Governance Case Studies](preliminary-research/on-chain-governance-case-studies.md)
   * [Reading list](preliminary-research/reading-list.md)
-* [Report](report/README.md)
+* [Report 1.0](report/README.md)
   * [Model](report/model.md)
   * [Features of DAOs](report/features-of-daos.md)
   * [Visualizations](report/visualization.md)
