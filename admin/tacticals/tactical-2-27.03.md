@@ -15,8 +15,7 @@ description: March 27th
 
 ## Max / Setup regular biweekly call
 
-Setup every 2 weeks  
-
+Setup every 2 weeks
 
 ## Pedro / Roadmap
 
@@ -94,7 +93,7 @@ Ela: agree
 
 No objection – create.
 
-### Max / If passes - Coordinator \(editor\) assignment
+## Max / If passes - Coordinator \(editor\) assignment
 
 Max: nominate Pedro
 
@@ -117,7 +116,7 @@ Andreas: Phoebe or Ela – what it be good to have a fresh look?
 Decision: Pedro  
 
 
-### Closing round
+## Closing round
 
 * Ela: Thanks, eager to look deeper in the research
 * Phoebe: resonate with Ela, like the energy and pace. Have a question – where to make edits to the proposal, to get more context \(Grace and Pedro\). To do better: appreciated a rough agenda and links
