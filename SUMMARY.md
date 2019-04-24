@@ -1,13 +1,12 @@
 # Table of contents
 
 * [Hello World!](README.md)
-* [Preliminary Research \(WIP\)](preliminary-research/README.md)
+* [Report 0.1 \(WIP\)](preliminary-research/README.md)
   * [Glossary](preliminary-research/glossary.md)
   * [Taxonomy of DAOs & DGOV providers](preliminary-research/taxonomy.md)
   * [DAO Use Cases](preliminary-research/dao-use-cases.md)
   * [Self organizing practices / soft governance in the blockchain teams](preliminary-research/self-organizing-practices-soft-governance-in-the-blockchain-teams.md)
   * [DAO Tech Evaluation Framework](preliminary-research/dao-tech-evaluation-framework.md)
-  * [Tools by DGOV providers](preliminary-research/tools-by-dgov-providers.md)
   * [Layer 1: Network-based Governance Case Studies](preliminary-research/layer-1-network-based-governance-case-studies.md)
   * [Layer 2: DAO Governance Case Studies](preliminary-research/on-chain-governance-case-studies.md)
   * [Reading list](preliminary-research/reading-list.md)

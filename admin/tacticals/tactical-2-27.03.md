@@ -42,8 +42,7 @@ Pedro: @preliminary – test tun of our work together
 
 Ela: are we already in agreement of the outcome? Is it just an overview or a specific thesis to underline?
 
-Grace: it’s in the 2nd sheet of Pedros. We identified 1\) knowledge for to-be-DAOs \(e.g. best practices on things like proposal making\), 2\) interoperability gaps.  
-
+Grace: it’s in the 2nd sheet of Pedros. We identified 1\) knowledge for to-be-DAOs \(e.g. best practices on things like proposal making\), 2\) interoperability gaps.
 
 Decision: no objections  
 

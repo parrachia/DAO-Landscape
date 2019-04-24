@@ -7,7 +7,7 @@ description: March 18th
 Industry Landscape 18.03.2019  
 
 
-### Max / Intro  / Research Goals
+## Max / Intro  / Research Goals
 
 #### Grace / how we started that
 
@@ -28,11 +28,9 @@ Org consultant, as Phoebe, in Brazil. Very VUCA, Occupy movement veteran and oth
 
 #### Max
 
-Dgov, dao incubator. A book before the conference. Understanding what’s happening  
-  
+Dgov, dao incubator. A book before the conference. Understanding what’s happening
 
-
-### Max / Methodology
+## Max / Methodology
 
 * Dgov wiki
 * Andreas map
