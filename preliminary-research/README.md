@@ -16,7 +16,7 @@ Criteria for the success - answer the questions:
 * How do they compare?
 * ...
 
-## **Structure**
+## **Content**
 
 * [Glossary](glossary.md)
 * [Taxonomy of DAOs & DGOV providers](taxonomy.md)
