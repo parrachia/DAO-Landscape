@@ -1,4 +1,4 @@
-# Layer 1: Network-based Governance Case Studies
+# Network-based Governance Case Studies
 
 ## Introduction
 

@@ -7,7 +7,7 @@
   * [DAO Use Cases](preliminary-research/dao-use-cases.md)
   * [Self organizing practices / soft governance in the blockchain teams](preliminary-research/self-organizing-practices-soft-governance-in-the-blockchain-teams.md)
   * [DAO Tech Evaluation Framework](preliminary-research/dao-tech-evaluation-framework.md)
-  * [Layer 1: Network-based Governance Case Studies](preliminary-research/layer-1-network-based-governance-case-studies.md)
+  * [Network-based Governance Case Studies](preliminary-research/layer-1-network-based-governance-case-studies.md)
   * [Layer 2: DAO Governance Case Studies](preliminary-research/on-chain-governance-case-studies.md)
   * [Reading list](preliminary-research/reading-list.md)
 * [Report 1.0](report/README.md)
