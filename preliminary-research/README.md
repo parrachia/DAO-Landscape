@@ -1,11 +1,13 @@
 # Report 0.1 \(WIP\)
 
-**Purpose:** inform on 
+## **Purpose**
+
+Inform the community & wider blockchain audience on
 
 * knowledge for to-be-DAOs \(e.g. best practices on things like proposal making\)
 * interoperability gaps
 
-**Criteria for the success:** answer the questions
+Criteria for the success - answer the questions:
 
 * What is DAO?
 * Who uses it and for what?
@@ -14,7 +16,7 @@
 * How do they compare?
 * ...
 
-**Structure:**
+## **Structure**
 
 * [Glossary](glossary.md)
 * [Taxonomy of DAOs & DGOV providers](taxonomy.md)
@@ -25,5 +27,10 @@
 * [Layer 2: DAO Governance Case Studies](on-chain-governance-case-studies.md)
 * [Reading list](reading-list.md)
 
-**Deadline:** 01.06.2019
+## **Timing**
+
+* Sprint 3 \(week 17-18\)
+* Spint 4 \(19-20\)
+* Sprint 5 \(21-22\) Freeze, review and design
+* V1.0 Publication 03.06.2019
 
