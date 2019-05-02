@@ -18,13 +18,13 @@ Criteria for the success - answer the questions:
 
 ## **Content**
 
-* [Glossary](glossary.md)
 * [Taxonomy of DAOs & DGOV providers](taxonomy.md)
 * [DAO Use Cases](dao-use-cases.md)
 * [DAO Tech Evaluation Framework](dao-tech-evaluation-framework.md)
 * [Self organizing practices / soft governance in the blockchain teams](self-organizing-practices-soft-governance-in-the-blockchain-teams.md)
 * [Layer 1: Network-based Governance Case Studies](layer-1-network-based-governance-case-studies.md)
 * [Layer 2: DAO Governance Case Studies](on-chain-governance-case-studies.md)
+* [Glossary](glossary.md)
 * [Reading list](reading-list.md)
 
 ## **Timing**
