@@ -8,9 +8,9 @@ The information gleaned with this project will be publically available on the **
 
 The research will also show **the gaps** in our current landscape, providing opportunities for entrepreneurs to know where there are gaps that still need to be filled in the framework. Throughout the project, I will work collaboratively with others in the industry and seek feedback from the communities to ensure that we get as complete a picture as possible. At all stages of the project \(including this proposal stage\), feedback is welcome.
 
-![https://instagram.com/ionsounds](.gitbook/assets/blockchain-mapping.jpg)
+![](.gitbook/assets/cover-use.png)
 
 Part of \#dgov network
 
-![](.gitbook/assets/image%20%287%29.png)
+![](.gitbook/assets/image%20%288%29.png)
 

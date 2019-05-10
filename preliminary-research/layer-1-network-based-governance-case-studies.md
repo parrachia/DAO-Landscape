@@ -1,4 +1,4 @@
-# Network-based Governance Case Studies
+# On-chain Governance Case Studies
 
 ## Introduction
 
@@ -19,7 +19,7 @@ Structure of the report:
 
 ## Tezos \(XTZ\)
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 ### Purpose
 
@@ -36,7 +36,7 @@ Tezos is a self-amending blockchain network which incorporates a formal, on-chai
 
 ### Objects of governance & Used mechanics
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 Upgrades to the protocol through proposal & voting process. Uses min quorum adapted to the average participation and and 80% of supermajority support level to pass.
 
@@ -66,7 +66,7 @@ Upgrades to the protocol through proposal & voting process. Uses min quorum adap
 
 ## EOS \(EOS\)
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 ### Purpose
 
@@ -78,6 +78,10 @@ Business platform for distributed apps with reliable governance, optimized for s
 * As a result of scams and theft, leaving 7 individuals without access to their EOS on the mainnet. [The top 21 block producers at the time unanimously voted to freeze the accounts the affected accounts, without an official order from ECAF.](https://medium.com/coinmonks/a-deep-dive-into-eos-governance-49e892eeb4a2)
 * After the freeze of the accounts the block producers filed a dispute against themselves, in order to have their actions reviewed by ECAF. [The actions were deemed just by an \(emergency\) arbitrator, and the freeze of 20 more accounts was ordered, sparking even more controversy, as no evidence that these accounts were in any way compromised was presented to the community.](https://medium.com/coinmonks/a-deep-dive-into-eos-governance-49e892eeb4a2)
 * Sep 2018 – a Twitter account [named “Maple Leaf Capital”](https://twitter.com/MapleLeafCap/status/1046849762547372032) produced screenshots from a leaked Excel spreadsheet that supposedly show the China-based exchange Huobi, one of the world’s oldest and largest, accepting money for its support of certain entities in the charge of ensuring the network’s distributed decision-making. EOS and Huobi disproved but initiated an investigation.
+
+{% hint style="info" %}
+But one thing I saw in the paper is that you are saying that multisig \(15/21\) needs to be for 30 days. That’s wrong. It’s referendum that needs 30 days. And that’s the old constitution. We have updated our current C with a User agreement instead.
+{% endhint %}
 
 ### Objects of governance & Used mechanics 
 
@@ -171,11 +175,11 @@ Each month, DASH dispenses 10% of the block rewards for that month in a superblo
 
 There is a [voting threshold which determines whether a proposal will be funded](https://docs.dash.org/en/latest/governance.html#budgets-and-masternode-voting): a net Yes vote greater than 10% of all MNs. The threshold formula is: \(YES votes — NO votes\) &gt; \(Total Number of Masternodes / 10\). Formal submission of a proposal costs a fee of 5 DASH.
 
-![https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4](../.gitbook/assets/image%20%2810%29.png)
+![https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4](../.gitbook/assets/image%20%2812%29.png)
 
 ![https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4](../.gitbook/assets/image.png)
 
-![https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4](../.gitbook/assets/image%20%289%29.png)
+![https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4](../.gitbook/assets/image%20%2811%29.png)
 
 ### Network Stats \(on April 2019\)
 
@@ -190,103 +194,25 @@ There is a [voting threshold which determines whether a proposal will be funded]
 * [Observations of the Dash Treasury DAO](https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4)
 * [Dash Central](https://www.dashcentral.org/)
 
-## Grin
-
-![](../.gitbook/assets/image%20%283%29.png)
-
-### Purpose
-
-[Grin is a new Mimblewimble-based cryptocurrency that offers privacy and scalability improvements.](https://medium.com/blockchain-capital-blog/grin-governance-a-novel-approach-154aca07291b)
-
-### History & key events
-
-* launched on January 15th, 2019
-
-### Objects of governance & Used mechanics
-
-#### Foundation
-
-There are [no current or future plans](https://github.com/mimblewimble/docs/wiki/Regarding-Foundations) to create an official Grin Foundation or legal entity.  Grin has [bi-weekly governance meetings](https://github.com/mimblewimble/grin-pm/tree/master/notes) that anyone can participate in. The[ Governance forum](https://www.grin-forum.org/c/governance) is quite active, with [many threads](https://www.grin-forum.org/t/governance-plan/461/7) around governance [norms and frameworks.](https://www.grin-forum.org/t/governance-consensus-baby-step-1-20180807-meeting/615) 
-
-#### Technical Council
-
-The Grin Technical Council is currently composed of 8 members. The Council’s main responsibility includes management of the Grin General Fund, as well as stewardship of the protocol through the open development and governance meetings.
-
-**Funding**
-
-As mentioned previously, Grin launched in a fair manner, and project founders and developers don’t receive any funding directly from the protocol, or from investors.
-
-As such, Grin relies primarily on two different means of funding.
-
-1. Individual project based fundraising — in which individual campaigns are proposed and funded by donors. Examples include [Yeastplume’s funding campaigns](https://grin-tech.org/yeastplume), as well as the [Security Audit Funding](https://grin-tech.org/sec_audit). The money raised goes directly into an account controlled by the person making the request. This is a similar model to Monero’s [Forum Funding System](https://ww.getmonero.org/forum-funding-system/), where anyone in the community can propose a project and request funding.
-2. General Funding for Grin’s Development — Grin has a [General Fund](https://grin-tech.org/general_funding) that’s always open for donations, and goes towards a miscellaneous set of costs related to Grin development, including service fees, marketing materials, travel, developer funding, or legal support.
-
-Many early ecosystem participants \(miners, funds, pools\) have [chosen to contribute to Grin](https://grin-tech.org/friends). [Grinmint has chosen to donate](https://blog.blockcypher.com/grin-mining-pool-47286f5e0b8d) a percentage of pool proceeds to the Grin developer team. Additionally, Obelisk has [committed to donating](https://medium.com/obelisk-blog/the-obelisk-grn1-an-asic-for-grin-1d1ff580a19d) a portion of their revenue from their Grin ASIC to supporting Grin development.
-
-**Grin Risk Management**
-
-Blockchain governance is most relevant in times of disaster, distress, or conflict. Bitcoin Governance demonstrated its strength during the Segwit2x hard fork. Ethereum demonstrated its governance system during the DAO event.
-
-Grin developers have written a lot about their [risk management system](https://github.com/mimblewimble/docs/wiki/Introduction-to-Risk-Management-for-Grin), and have brainstormed the [specific downside scenarios](https://docs.google.com/spreadsheets/d/1zTtlMIgJFzmyedKD07dA0jn3eP4HD7eZqLjD8cVd_4c/edit#gid=287721861), and ways to respond. It’s generally good practice to brainstorm various scenarios, and think about contingency plans and potential responses. Many of the scenarios they’ve outlined, such as the possibility of a critical bug, secret ASICs, or a 51% attack are very real scenarios that have happened to many other blockchains.
-
-### Network Stats \(on April 2019\)
-
-* not much info now
-
-### Links
-
-* [https://medium.com/blockchain-capital-blog/grin-governance-a-novel-approach-154aca07291b](https://medium.com/blockchain-capital-blog/grin-governance-a-novel-approach-154aca07291b)
-
-## Bitcoin
-
-* [https://medium.com/@pierre\_rochard/bitcoin-governance-37e86299470f](https://medium.com/@pierre_rochard/bitcoin-governance-37e86299470f)
-* [https://bitcoinmagazine.com/articles/a-primer-on-bitcoin-governance-or-why-developers-aren-t-in-charge-of-the-protocol-1473270427/](https://bitcoinmagazine.com/articles/a-primer-on-bitcoin-governance-or-why-developers-aren-t-in-charge-of-the-protocol-1473270427/)
-* [https://bitcoinexchangeguide.com/bitcoin-governance-how-btcs-consensus-system-works-why-it-matters/](https://bitcoinexchangeguide.com/bitcoin-governance-how-btcs-consensus-system-works-why-it-matters/)
-
-## Ethereum
-
-* [https://medium.com/shyft-network-media/the-philosophy-of-ethereum-governance-52c530a8830c](https://medium.com/shyft-network-media/the-philosophy-of-ethereum-governance-52c530a8830c)
-* [https://github.com/ethereum/wiki/wiki/Governance-compendium](https://github.com/ethereum/wiki/wiki/Governance-compendium)
-* [https://unblock.net/what-is-ethereum-governance/](https://unblock.net/what-is-ethereum-governance/)
-
 ## Decred
 
 * [https://proposals.decred.org/](https://proposals.decred.org/)
 
-## Polkadot
-
-Time-lock Voting + Delayed Enactment
-
-![](../.gitbook/assets/image%20%288%29.png)
-
-* [https://github.com/paritytech/polkadot/wiki/Governance](https://github.com/paritytech/polkadot/wiki/Governance)
-
-## Cardano
-
-* [https://cryptovest.com/news/cardano-ada-hit-by-governance-woes-as-iohk-emurgo-chairs-split-with-cardano-foundation/](https://cryptovest.com/news/cardano-ada-hit-by-governance-woes-as-iohk-emurgo-chairs-split-with-cardano-foundation/)
-
-## Cosmos
-
-* [https://bitcoinist.com/cosmos-mainnet-officially-launched/](https://bitcoinist.com/cosmos-mainnet-officially-launched/)
-
-## Summary
+## Aragon Network
 
 ...
 
-Thanks to [Jacob Arluck](https://twitter.com/JacobArluck), [Andriy Khavryuchenko](https://twitter.com/akhavr), [Vahid Toosi](https://twitter.com/VahidToosi), [Wassim Alsindi](https://twitter.com/parallelind), [Richard Red](https://twitter.com/RichardRed0x) for the feedback and improvements.
+## Genesis 
+
+* [https://medium.com/daostack/daostack-update-mainnet-launch-genesis-alpha-dao-plantoid-media-roundup-dappcon-f724fc7133aa](https://medium.com/daostack/daostack-update-mainnet-launch-genesis-alpha-dao-plantoid-media-roundup-dappcon-f724fc7133aa)
+
+Based on Alchemy
+
+### Maker DAO
+
+* [https://medium.com/makerdao/makerdao-governance-risk-framework-38625f514101](https://medium.com/makerdao/makerdao-governance-risk-framework-38625f514101)
+* [https://medium.com/@visionhill\_/a-makerdao-case-study-47a31d858be5](https://medium.com/@visionhill_/a-makerdao-case-study-47a31d858be5)
+* [https://fitznerblockchain.consulting/maker-governance-exploring-the-importance-of-stability-fees/](https://fitznerblockchain.consulting/maker-governance-exploring-the-importance-of-stability-fees/)
 
 
-
-## To Do's
-
-* Decred
-* Update EOS: I will not be able to give you any feedback on what you have written because I simply don’t have time. But one thing I saw in the paper is that you are saying that multisig \(15/21\) needs to be for 30 days. That’s wrong. It’s referendum that needs 30 days. And that’s the old constitution. We have updated our current C with a User agreement instead.
-* Ethereum
-* Bitcoin
-* Cardano
-* Polkadot
-* Define questions to be answered with the research
-* [https://github.com/RichardRed0x/crypto-governance-research](https://github.com/RichardRed0x/crypto-governance-research)
-* [https://medium.com/coinmonks/ethereum-classic-the-ungoverned-blockchain-b9ae8986a60a](https://medium.com/coinmonks/ethereum-classic-the-ungoverned-blockchain-b9ae8986a60a)
-* [https://medium.com/@richardred/decentralized-autonomous-funding-of-blockchain-projects-3c0c233ae4ad](https://medium.com/@richardred/decentralized-autonomous-funding-of-blockchain-projects-3c0c233ae4ad)
 

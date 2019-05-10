@@ -1,4 +1,44 @@
-# Reading list
+# Further Reading
+
+## Ecosystem / Wider Communities
+
+* FutureThinkers.org
+* RadicalXChange
+* [enkel.co](https://www.enkel.co/)
+* Open organizations
+* Holacracy
+* [Revision](https://revision.io/)
+* WEF
+* [Dezentrum](https://www.dezentrum.ch/en/)
+* Amatus
+* Greenfield.one
+* [https://www.edenblock.com/](https://www.edenblock.com/)
+* Pocket Network
+* [https://axveco.com/en/](https://axveco.com/en/)
+* oscoin
+* Ouishare
+* betterplace lab
+* RAREAF2
+* CADAF.io
+* Globatalent
+* SUPERMARKT
+* BlockchainCommons
+
+## Researchers & Academics
+
+* [Participatory Orgs](https://github.com/ParticipatoryOrgs)
+* [P2P Models](https://p2pmodels.eu)
+* [P2P Foundation](https://p2pfoundation.net/)
+* [Global Challenges Governance Labs](https://labs.globalchallenges.org/%20)
+* [The Hague Center for Global Governance, Innovation and Emergence](http://www.thehaguecenter.org/)
+* [Giveth Gov Labs](https://github.com/Giveth/gov-lab)
+* Institute for Futures Studies and Technology Assessment
+* GIZ Blockchain Lab
+* wd-pl.com
+* [https://economicspace.agency/](https://economicspace.agency/)
+* [https://www.blockchaincommons.com/](https://www.blockchaincommons.com/)
+* Web3 Foundation?
+* Ethereum Foundation?
 
 ### Books
 

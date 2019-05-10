@@ -16,21 +16,31 @@ Criteria for the success - answer the questions:
 * How do they compare?
 * ...
 
-## **Content**
+## **Content / To Do's**
 
-* [Taxonomy of DAOs & DGOV providers](taxonomy.md)
-* [DAO Use Cases](dao-use-cases.md)
-* [DAO Tech Evaluation Framework](dao-tech-evaluation-framework.md)
-* [Self organizing practices / soft governance in the blockchain teams](self-organizing-practices-soft-governance-in-the-blockchain-teams.md)
-* [Layer 1: Network-based Governance Case Studies](layer-1-network-based-governance-case-studies.md)
-* [Layer 2: DAO Governance Case Studies](on-chain-governance-case-studies.md)
-* [Glossary](glossary.md)
-* [Reading list](reading-list.md)
+* [Intro / Foreword](intro-foreword.md)
+  * ~~Mention team members~~
+  * Ask everybody to review 1 paragraph intro to this
+* [Why care about DAOs?](why-care-about-daos.md)
+  * Describe need/benefits of DAOs
+  * Summarize DAO definition
+  * Funding use case
+  * Work use case
+  * Infrastructure use case
+* [On-chain Governance Case Studies](layer-1-network-based-governance-case-studies.md)
+  * Decred
+  * Update EOS
+  * Aragon Network
+  * Genesis Alpha
+  * Maker DAO
+* [Taxonomy of On-chain Governance Tools](taxonomy.md)
+  * ~~Update table~~
+* [Further Reading](reading-list.md)
 
 ## **Timing**
 
 * Sprint 3 \(week 17-18\)
 * Spint 4 \(19-20\)
-* Sprint 5 \(21-22\) Freeze, review and design
+* Sprint 5 \(21-22\) 
 * V1.0 Publication 03.06.2019
 
