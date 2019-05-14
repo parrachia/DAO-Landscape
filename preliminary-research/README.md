@@ -23,10 +23,6 @@ Criteria for the success - answer the questions:
   * Ask everybody to review 1 paragraph intro to this
 * [Why care about DAOs?](why-care-about-daos.md)
   * Describe need/benefits of DAOs
-  * Summarize DAO definition
-  * Funding use case
-  * Work use case
-  * Infrastructure use case
 * [On-chain Governance Case Studies](layer-1-network-based-governance-case-studies.md)
   * Decred
   * Update EOS
