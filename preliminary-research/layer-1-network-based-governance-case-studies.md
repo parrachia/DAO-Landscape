@@ -183,7 +183,7 @@ There is a [voting threshold which determines whether a proposal will be funded]
 ### Network Stats \(on April 2019\)
 
 * 6,176 DASH distributed on April \(~$730k\), around that amount is distributed on monthly basis
-* 4,769 masternode
+* 4,769 masternodes
 * 295 proposals approved out of 474
 * 18.7% – median amount of masternode participation
 
@@ -234,13 +234,12 @@ Next big AGP \(\#2\)
 * purpose, github mechanics
 * [https://blog.aragon.org/flock-funding-for-aragon-teams/](https://blog.aragon.org/flock-funding-for-aragon-teams/)
 * [https://blog.aragon.org/aragon-nest-update-evolution-of-the-grants-program/](https://blog.aragon.org/aragon-nest-update-evolution-of-the-grants-program/)
-
-### Network Stats
-
-* Funds under management ~$53M on May 2019
-* Voting activity
 * Proposals by program
 * Funds distributed
+
+#### Aragon Court
+
+* [https://blog.aragon.org/aragon-network-jurisdiction-part-1-decentralized-court-c8ab2a675e82/](https://blog.aragon.org/aragon-network-jurisdiction-part-1-decentralized-court-c8ab2a675e82/)
 
 ### Links
 
@@ -249,19 +248,11 @@ Next big AGP \(\#2\)
 
 ## Genesis 
 
+Based on DAO Stack Alchemy
+
 * [https://medium.com/daostack/daostack-update-mainnet-launch-genesis-alpha-dao-plantoid-media-roundup-dappcon-f724fc7133aa](https://medium.com/daostack/daostack-update-mainnet-launch-genesis-alpha-dao-plantoid-media-roundup-dappcon-f724fc7133aa)
 
-Based on Alchemy
 
-### Maker DAO
-
-* [https://medium.com/makerdao/makerdao-governance-risk-framework-38625f514101](https://medium.com/makerdao/makerdao-governance-risk-framework-38625f514101)
-* [https://medium.com/@visionhill\_/a-makerdao-case-study-47a31d858be5](https://medium.com/@visionhill_/a-makerdao-case-study-47a31d858be5)
-* [https://fitznerblockchain.consulting/maker-governance-exploring-the-importance-of-stability-fees/](https://fitznerblockchain.consulting/maker-governance-exploring-the-importance-of-stability-fees/)
-
-## Decred
-
-* [https://proposals.decred.org/](https://proposals.decred.org/)
 
 
 

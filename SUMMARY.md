@@ -10,6 +10,7 @@
 * [Report 1.0](report/README.md)
   * [Glossary](report/glossary.md)
   * [Network-based Governance Case Studies 2](report/network-based-governance-case-studies-2.md)
+  * [On-chain Governance Case Studies](report/on-chain-governance-case-studies.md)
   * [Layer 2: DAO Governance Case Studies](report/layer-2-dao-governance-case-studies.md)
   * [Integrators](report/integrators.md)
   * [Taxonomy 2](report/taxonomy-2.md)
