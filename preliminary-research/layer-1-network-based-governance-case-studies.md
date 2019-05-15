@@ -12,8 +12,7 @@ Structure of the report:
 
 * Purpose
 * History & key events
-* Objects of governance \(e.g. repo, funds distribution\) & Used mechanics \(on-chain, off-chain\)
-* Risk Management
+* Objects of governance \(e.g. repo, funds distribution\) & Used mechanics \(on-chain, off-chain\), Risk Management
 * Network Stats
 * Links
 
@@ -196,7 +195,51 @@ There is a [voting threshold which determines whether a proposal will be funded]
 
 ## Aragon Network
 
-...
+### Purpose
+
+Aragon Network will be the first community governed decentralized organization whose goal is to act as a digital jurisdiction, an online decentralized court system that isn’t bound by traditional artificial barriers such as national identity or the borders of a single country.
+
+### History & key events
+
+* May 2017 – Aragon Raised $25M \(at ETH price ~$150\)
+* Dec 2017 – [Launch of Aragon Nest Program](https://blog.aragon.org/introducing-aragon-nest-1aa8c91c0566/)
+* May 2018 – [Separation Aragon Association \(non profit\) and Aragon One \(dev team\)](https://blog.aragon.org/introducing-aragon-one-b14dd804c5ce/)
+* Oct 2018 –[ Launch of Flock program \(bigger grants for teams\)](https://blog.aragon.org/flock-funding-for-aragon-teams/)
+* Nov 2018 – AGP-1 vote
+* Mar 2019 – AGP-2 vote
+
+### Objects of governance
+
+#### Transparency & decentralization
+
+* [Current multisig balance + all operations](https://transparency.aragon.org/), public reports
+* Association and Aragon one separation
+* [https://blog.aragon.org/why-transparency-matters-d6f9e6e10985/](https://blog.aragon.org/why-transparency-matters-d6f9e6e10985/)
+
+#### Nest & Flock programs
+
+* purpose, github mechanics
+* [https://blog.aragon.org/flock-funding-for-aragon-teams/](https://blog.aragon.org/flock-funding-for-aragon-teams/)
+* [https://blog.aragon.org/aragon-nest-update-evolution-of-the-grants-program/](https://blog.aragon.org/aragon-nest-update-evolution-of-the-grants-program/)
+
+#### AGPs
+
+* 1, 2 results, discussions, outcomes
+* [https://blog.aragon.org/final-results-from-the-agp-1-vote/](https://blog.aragon.org/final-results-from-the-agp-1-vote/)
+* [https://github.com/aragon/AGPs](https://github.com/aragon/AGPs)
+* [https://medium.com/paradigm-fund/aragon-final-results-from-network-vote-2-massively-influenced-by-one-whale-that-planning-suite-8e2201c808b7](https://medium.com/paradigm-fund/aragon-final-results-from-network-vote-2-massively-influenced-by-one-whale-that-planning-suite-8e2201c808b7)
+* [https://forum.aragon.org/t/evaluating-the-agp-1-voting-results-makes-me-think-we-need-an-aragon-community-token-act/290](https://forum.aragon.org/t/evaluating-the-agp-1-voting-results-makes-me-think-we-need-an-aragon-community-token-act/290)
+
+### Network Stats
+
+* Funds under management ~$53M on May 2019
+* Voting activity
+* Proposals by program
+* Funds distributed
+
+### Links
+
+* [https://wiki.aragon.org/](https://wiki.aragon.org/)
 
 ## Genesis 
 
