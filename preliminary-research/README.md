@@ -40,3 +40,5 @@ Criteria for the success - answer the questions:
 * Sprint 5 \(21-22\) 
 * V1.0 Publication 03.06.2019
 
+![](../.gitbook/assets/image%20%2810%29.png)
+

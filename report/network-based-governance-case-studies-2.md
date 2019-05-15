@@ -68,7 +68,7 @@ Grin developers have written a lot about their [risk management system](https://
 
 Time-lock Voting + Delayed Enactment
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 * [https://github.com/paritytech/polkadot/wiki/Governance](https://github.com/paritytech/polkadot/wiki/Governance)
 
