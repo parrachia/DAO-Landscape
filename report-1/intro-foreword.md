@@ -1,4 +1,4 @@
-# Intro / Foreword
+# Foreword
 
 ## Why we started it
 

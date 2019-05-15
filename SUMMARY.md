@@ -4,8 +4,8 @@
 
 ## Report 0.1
 
-* [Report 0.1 \(WIP\)](report-1/preliminary-research.md)
-* [Intro / Foreword](report-1/intro-foreword.md)
+* [About](report-1/preliminary-research.md)
+* [Foreword](report-1/intro-foreword.md)
 * [Why care about DAOs?](report-1/why-care-about-daos.md)
 * [On-chain Governance Case Studies](report-1/layer-1-network-based-governance-case-studies.md)
 * [Taxonomy of On-chain Governance Tools](report-1/taxonomy.md)
