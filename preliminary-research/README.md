@@ -42,3 +42,5 @@ Criteria for the success - answer the questions:
 
 ![](../.gitbook/assets/image%20%2810%29.png)
 
+
+
