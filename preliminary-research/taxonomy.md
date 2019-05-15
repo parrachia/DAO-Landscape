@@ -1,10 +1,10 @@
 # Taxonomy of On-chain Governance Tools
 
+{% embed url="https://www.figma.com/file/MjMW1NKFAEjdCkBR4YMYP1PH/DAO-Landscape?node-id=1%3A5" %}
+
 {% hint style="info" %}
 Work in progress. If you don't see your project here please contact us
 {% endhint %}
-
-{% embed url="https://www.figma.com/file/MjMW1NKFAEjdCkBR4YMYP1PH/DAO-Landscape?node-id=1%3A5" %}
 
 ## Asset Management & Voting
 
