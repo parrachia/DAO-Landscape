@@ -13,20 +13,19 @@
 
 ## Report 0.2
 
-* [Report 1.0](report-0.2/report/README.md)
-  * [Glossary](report-0.2/report/glossary.md)
-  * [Network-based Governance Case Studies 2](report-0.2/report/network-based-governance-case-studies-2.md)
-  * [On-chain Governance Case Studies](report-0.2/report/on-chain-governance-case-studies.md)
-  * [Layer 2: DAO Governance Case Studies](report-0.2/report/layer-2-dao-governance-case-studies.md)
-  * [Integrators](report-0.2/report/integrators.md)
-  * [Taxonomy 2](report-0.2/report/taxonomy-2.md)
-  * [Investors in DAO](report-0.2/report/investors-in-dao.md)
-  * [DAO Tech Evaluation Framework](report-0.2/report/dao-tech-evaluation-framework.md)
-  * [Self organizing practices / soft governance in the blockchain teams](report-0.2/report/self-organizing-practices-soft-governance-in-the-blockchain-teams.md)
-  * [Model](report-0.2/report/model.md)
-  * [Features of DAOs](report-0.2/report/features-of-daos.md)
-  * [Visualizations](report-0.2/report/visualization.md)
-  * [More soon!](report-0.2/report/more-soon.md)
+* [Glossary](report-0.2/glossary.md)
+* [Network-based Governance Case Studies 2](report-0.2/network-based-governance-case-studies-2.md)
+* [On-chain Governance Case Studies](report-0.2/on-chain-governance-case-studies.md)
+* [Layer 2: DAO Governance Case Studies](report-0.2/layer-2-dao-governance-case-studies.md)
+* [Integrators](report-0.2/integrators.md)
+* [Taxonomy 2](report-0.2/taxonomy-2.md)
+* [Investors in DAO](report-0.2/investors-in-dao.md)
+* [DAO Tech Evaluation Framework](report-0.2/dao-tech-evaluation-framework.md)
+* [Self organizing practices / soft governance in the blockchain teams](report-0.2/self-organizing-practices-soft-governance-in-the-blockchain-teams.md)
+* [Model](report-0.2/model.md)
+* [Features of DAOs](report-0.2/features-of-daos.md)
+* [Visualizations](report-0.2/visualization.md)
+* [More soon!](report-0.2/more-soon.md)
 
 ## admin
 

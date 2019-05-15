@@ -4,14 +4,16 @@
 
 ## **Content / To Do's**
 
-* [Intro / Foreword](report-1/intro-foreword.md)
+* [About](report-1/preliminary-research.md)
+  * Make a nice cover 
+* [Foreword](report-1/intro-foreword.md)
   * ~~Mention team members~~
-  * Ask everybody to review 1 paragraph intro to this
+  * Edit / ask for everybody to review 1 paragraph intro to this
 * [Why care about DAOs?](report-1/why-care-about-daos.md)
   * ~~Describe need/benefits of DAOs~~
 * [On-chain Governance Case Studies](report-1/layer-1-network-based-governance-case-studies.md)
-  * Aragon Network
-  * Genesis Alpha
+  * Aragon Network \(in the process\)
+  * Genesis Alpha \(in the process\)
 * [Taxonomy of On-chain Governance Tools](report-1/taxonomy.md)
   * ~~Update table~~
 * [Further Reading](report-1/reading-list.md)

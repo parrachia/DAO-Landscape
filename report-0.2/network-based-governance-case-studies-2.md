@@ -4,7 +4,7 @@
 
 ## Grin
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 ### Purpose
 
@@ -62,13 +62,13 @@ Grin developers have written a lot about their [risk management system](https://
 * [https://unblock.net/what-is-ethereum-governance/](https://unblock.net/what-is-ethereum-governance/)
 * [https://www.youtube.com/watch?v=3fF0Ex7qalQ&feature=youtu.be](https://www.youtube.com/watch?v=3fF0Ex7qalQ&feature=youtu.be)
 
-![](../../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 ## Polkadot
 
 Time-lock Voting + Delayed Enactment
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 * [https://github.com/paritytech/polkadot/wiki/Governance](https://github.com/paritytech/polkadot/wiki/Governance)
 

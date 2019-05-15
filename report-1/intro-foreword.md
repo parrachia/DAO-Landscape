@@ -28,7 +28,7 @@ Dgov, dao incubator. A book before the conference. Understanding what’s happen
 ## Status and next plans
 
 * Small demo report
-* to get grant and continue \(see[ scope Report 1.0](../report-0.2/report/)\)
+* to get grant and continue \(see[ scope Report 1.0]()\)
 
 ## Thanks
 
