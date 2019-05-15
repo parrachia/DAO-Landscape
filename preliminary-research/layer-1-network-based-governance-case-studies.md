@@ -210,25 +210,30 @@ Aragon Network will be the first community governed decentralized organization w
 
 ### Objects of governance
 
-#### Transparency & decentralization
+#### Association
 
-* [Current multisig balance + all operations](https://transparency.aragon.org/), public reports
-* Association and Aragon one separation
-* [https://blog.aragon.org/why-transparency-matters-d6f9e6e10985/](https://blog.aragon.org/why-transparency-matters-d6f9e6e10985/)
+Aragon network is stewarded by the Aragon Association, Swiss registered non-profit entity. Executive director is Stefano Bernardi. Luis Cuende & Jorge Izquierdo \(founders\) are on the board of directors.  It controls the pool of funds raised through ICO and private rounds \(Placeholder, Boost VC etc\). It controls ~18% of undistributed ANT \(governance tokens\). Here's the [list of current holders](https://etherscan.io/token/0x960b236A07cf122663c4303350609A66A7B288C0#balances) to check the distribution.
+
+The management of funds recently became governed through the AGP process \(described below\) where token holders vote for or agains specific decisions \(not only funds dedication\). Association keeps open [multisig balance and operations](https://transparency.aragon.org/), provides quarterly reports on the funds usage. It formed [the Manifesto](https://blog.aragon.org/the-aragon-manifesto-4a21212eac03/) to guide the values for further platform development and governance. 
+
+The initial development team is formed as a separate entity Aragon One \(Estonia based\), which requests yearly budgets from the association. It has the write \(ownership?\) access over the main project repository. It provides regular updates on the roadmap and performance. 
+
+#### AGPs
+
+Aragon Governance Proposals \(AGPs\) are documents that propose changes to the [governance of the Aragon project](https://aragon.org/project/governance). The process is described in the [AGP-1](https://github.com/aragon/AGPs/blob/master/AGPs/AGP-1.md) approved on November 2018. It had support level of 99.97%, however only 2.6% of tokens participated in the decision. AGPs are openly submitted and tracked via the [github repository](https://github.com/aragon/AGPs).
+
+Next big AGP \(\#2\) 
+
+* 1, 2 results, discussions, outcomes
+* [https://blog.aragon.org/final-results-from-the-agp-1-vote/](https://blog.aragon.org/final-results-from-the-agp-1-vote/)
+* * [https://medium.com/paradigm-fund/aragon-final-results-from-network-vote-2-massively-influenced-by-one-whale-that-planning-suite-8e2201c808b7](https://medium.com/paradigm-fund/aragon-final-results-from-network-vote-2-massively-influenced-by-one-whale-that-planning-suite-8e2201c808b7)
+* [https://forum.aragon.org/t/evaluating-the-agp-1-voting-results-makes-me-think-we-need-an-aragon-community-token-act/290](https://forum.aragon.org/t/evaluating-the-agp-1-voting-results-makes-me-think-we-need-an-aragon-community-token-act/290)
 
 #### Nest & Flock programs
 
 * purpose, github mechanics
 * [https://blog.aragon.org/flock-funding-for-aragon-teams/](https://blog.aragon.org/flock-funding-for-aragon-teams/)
 * [https://blog.aragon.org/aragon-nest-update-evolution-of-the-grants-program/](https://blog.aragon.org/aragon-nest-update-evolution-of-the-grants-program/)
-
-#### AGPs
-
-* 1, 2 results, discussions, outcomes
-* [https://blog.aragon.org/final-results-from-the-agp-1-vote/](https://blog.aragon.org/final-results-from-the-agp-1-vote/)
-* [https://github.com/aragon/AGPs](https://github.com/aragon/AGPs)
-* [https://medium.com/paradigm-fund/aragon-final-results-from-network-vote-2-massively-influenced-by-one-whale-that-planning-suite-8e2201c808b7](https://medium.com/paradigm-fund/aragon-final-results-from-network-vote-2-massively-influenced-by-one-whale-that-planning-suite-8e2201c808b7)
-* [https://forum.aragon.org/t/evaluating-the-agp-1-voting-results-makes-me-think-we-need-an-aragon-community-token-act/290](https://forum.aragon.org/t/evaluating-the-agp-1-voting-results-makes-me-think-we-need-an-aragon-community-token-act/290)
 
 ### Network Stats
 
@@ -240,6 +245,7 @@ Aragon Network will be the first community governed decentralized organization w
 ### Links
 
 * [https://wiki.aragon.org/](https://wiki.aragon.org/)
+* [https://blog.aragon.org/why-transparency-matters-d6f9e6e10985/](https://blog.aragon.org/why-transparency-matters-d6f9e6e10985/)
 
 ## Genesis 
 
