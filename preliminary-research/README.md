@@ -22,13 +22,10 @@ Criteria for the success - answer the questions:
   * ~~Mention team members~~
   * Ask everybody to review 1 paragraph intro to this
 * [Why care about DAOs?](why-care-about-daos.md)
-  * Describe need/benefits of DAOs
+  * ~~Describe need/benefits of DAOs~~
 * [On-chain Governance Case Studies](layer-1-network-based-governance-case-studies.md)
-  * Decred
-  * Update EOS
   * Aragon Network
   * Genesis Alpha
-  * Maker DAO
 * [Taxonomy of On-chain Governance Tools](taxonomy.md)
   * ~~Update table~~
 * [Further Reading](reading-list.md)
