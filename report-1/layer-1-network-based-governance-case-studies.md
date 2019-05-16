@@ -220,16 +220,33 @@ The initial development team is formed as a separate entity Aragon One \(Estonia
 
 #### AGPs
 
-Aragon Governance Proposals \(AGPs\) are documents that propose changes to the [governance of the Aragon project](https://aragon.org/project/governance). The process is described in the [AGP-1](https://github.com/aragon/AGPs/blob/master/AGPs/AGP-1.md) approved on November 2018. It had support level of 99.97%, however only 2.6% of tokens participated in the decision. AGPs are openly submitted and tracked via the [github repository](https://github.com/aragon/AGPs).
+Aragon Governance Proposals \(AGPs\) are documents that propose changes to the [governance of the Aragon project](https://aragon.org/project/governance). The process is described in the [AGP-1](https://github.com/aragon/AGPs/blob/master/AGPs/AGP-1.md) approved on November 2018. It had support level of 99.97%, however only 2.6% of tokens participated in the decision. AGPs are openly submitted and tracked via the [github repository](https://github.com/aragon/AGPs). Voting on AGPs goes in batches.
 
-Next big AGP \(\#2\) 
-
-* 1, 2 results, discussions, outcomes
-* [https://blog.aragon.org/final-results-from-the-agp-1-vote/](https://blog.aragon.org/final-results-from-the-agp-1-vote/)
-* * [https://medium.com/paradigm-fund/aragon-final-results-from-network-vote-2-massively-influenced-by-one-whale-that-planning-suite-8e2201c808b7](https://medium.com/paradigm-fund/aragon-final-results-from-network-vote-2-massively-influenced-by-one-whale-that-planning-suite-8e2201c808b7)
-* [https://forum.aragon.org/t/evaluating-the-agp-1-voting-results-makes-me-think-we-need-an-aragon-community-token-act/290](https://forum.aragon.org/t/evaluating-the-agp-1-voting-results-makes-me-think-we-need-an-aragon-community-token-act/290)
+[Aragon Network vote 1](https://blog.aragon.org/final-results-from-aragon-network-vote-1/) got 8 AGPs approved and 4 rejected \(some postponed to the next vote\). [Aragon Network vote 2](https://blog.aragon.org/final-details-for-aragon-network-vote-2/) was a bit more controversial. 6 AGPs were approved and 3 rejected, one of which \([AGP-37](https://github.com/aragon/AGPs/blob/master/AGPs/AGP-37.md)\) [was massively influenced by one whale](%20https://medium.com/paradigm-fund/aragon-final-results-from-network-vote-2-massively-influenced-by-one-whale-that-planning-suite-8e2201c808b7) \(from 82% for to 66% against\).
 
 #### Nest & Flock programs
+
+Aragon Nest is grants program to support the development of the Aragon ecosystem, started at April 2018. It uses github to create and track funding proposals \(e.g. requests for apps or features\) and requests for funding \(specific teams requesting approved proposals\). Max size of the application is $150k in DAI + smaller success bonus, based on the results of delivery. At the time of writing decisions were made by the Aragon \(Association?\) team with the intent to move it to the community vote at some point of time.
+
+The goal of the program is to attract talent to research and build the necessary tooling for developing solutions and applications around Aragon. 
+
+Data on Oct 2018
+
+* **Proposals** \([issues](https://github.com/aragon/nest/issues)\):
+  * **48** \(9 proposals by the Aragon One team\)
+    * Approved: 20
+    * Rejected: 27
+    * TBD: 1 \(not included in chart\)
+
+![chart--1--2](https://blog.aragon.org/content/images/2018/10/chart--1--2.png)
+
+* **Requests for funding** \([PRs](https://github.com/aragon/nest/pulls)\):
+  * **34**
+    * Approved: 14
+    * Rejected: 16
+    * TBD: 4 \(not included in chart\)
+
+![chart-5](https://blog.aragon.org/content/images/2018/10/chart-5.png)
 
 * purpose, github mechanics
 * [https://blog.aragon.org/flock-funding-for-aragon-teams/](https://blog.aragon.org/flock-funding-for-aragon-teams/)
