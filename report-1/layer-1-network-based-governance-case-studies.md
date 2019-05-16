@@ -230,7 +230,7 @@ Aragon Nest is grants program to support the development of the Aragon ecosystem
 
 The goal of the program is to attract talent to research and build the necessary tooling for developing solutions and applications around Aragon. 
 
-Data on Oct 2018
+[Data on Oct 2018](%20https://blog.aragon.org/aragon-nest-update-evolution-of-the-grants-program/)
 
 * **Proposals** \([issues](https://github.com/aragon/nest/issues)\):
   * **48** \(9 proposals by the Aragon One team\)
@@ -248,15 +248,7 @@ Data on Oct 2018
 
 ![chart-5](https://blog.aragon.org/content/images/2018/10/chart-5.png)
 
-* purpose, github mechanics
-* [https://blog.aragon.org/flock-funding-for-aragon-teams/](https://blog.aragon.org/flock-funding-for-aragon-teams/)
-* [https://blog.aragon.org/aragon-nest-update-evolution-of-the-grants-program/](https://blog.aragon.org/aragon-nest-update-evolution-of-the-grants-program/)
-* Proposals by program
-* Funds distributed
-
-#### Aragon Court
-
-* [https://blog.aragon.org/aragon-network-jurisdiction-part-1-decentralized-court-c8ab2a675e82/](https://blog.aragon.org/aragon-network-jurisdiction-part-1-decentralized-court-c8ab2a675e82/)
+[Aragon Flock](https://github.com/aragon/flock) is a bigger than Nest program \(distributing $1M+ per application\) for longterm support of Aragon teams \(One, Black, Autark\) that develop core parts of the ecosystem. Distribution of this grants goes through the AGP process.
 
 ### Links
 
