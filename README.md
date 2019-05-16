@@ -5,7 +5,8 @@
 ## **Content / To Do's**
 
 * [About](report-1/preliminary-research.md)
-  * Make a nice cover 
+  * Make a nice cover – Max
+  * Edits – Max
 * [Foreword](report-1/intro-foreword.md)
   * ~~Mention team members~~
   * Edit / ask for everybody to review 1 paragraph intro to this
@@ -16,7 +17,7 @@
   * Aragon Network \(in the process\) – Max
   * Genesis Alpha \(in the process\) – Pedro
 * [Taxonomy of On-chain Governance Tools](report-1/taxonomy.md)
-  * ~~Update table~~
+  * ~~Update table – Max~~
 * [Further Reading](report-1/reading-list.md)
 
 Extra:

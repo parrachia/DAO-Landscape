@@ -1,9 +1,5 @@
 # Foreword
 
-## Why we started it
-
-Purpose: knowledge for to-be-DAOs \(e.g. best practices on things like proposal making\)
-
 #### Grace / how we started that
 
 Was researching it, Pedro was looking on that for longer, then Ela. Pat became interested from the other POV – let’s see what already done. My goal was search engine about all proposals in the dgov, DAO space. Maybe somebody on DASH did it \(and failed\). E.g. topics on identity, voting. Pat was interested in the spreadsheet of DAOs and what they use \(e.g. voting, legal model etc\). Good in org design and interviewing.
