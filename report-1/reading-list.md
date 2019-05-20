@@ -23,6 +23,7 @@
 * Globatalent
 * SUPERMARKT
 * BlockchainCommons
+* [EdgeRyders](https://edgeryders.eu/)
 
 ## Researchers & Academics
 
