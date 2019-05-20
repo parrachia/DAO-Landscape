@@ -205,8 +205,6 @@ Aragon Network will be the first community governed decentralized organization w
 * Dec 2017 – [Launch of Aragon Nest Program](https://blog.aragon.org/introducing-aragon-nest-1aa8c91c0566/)
 * May 2018 – [Separation Aragon Association \(non profit\) and Aragon One \(dev team\)](https://blog.aragon.org/introducing-aragon-one-b14dd804c5ce/)
 * Oct 2018 –[ Launch of Flock program \(bigger grants for teams\)](https://blog.aragon.org/flock-funding-for-aragon-teams/)
-* Nov 2018 – AGP-1 vote
-* Mar 2019 – AGP-2 vote
 
 ### Objects of governance
 
