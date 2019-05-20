@@ -23,7 +23,7 @@
 * Globatalent
 * SUPERMARKT
 * BlockchainCommons
-* [EdgeRyders](https://edgeryders.eu/)
+* [EdgeRyders](https://edgeryders.eu/) – trying to bring people from other spheres who work on decentralization. We're a discourse forum with a bunch of research projects
 
 ## Researchers & Academics
 
