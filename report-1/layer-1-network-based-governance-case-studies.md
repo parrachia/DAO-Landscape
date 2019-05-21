@@ -255,7 +255,7 @@ The goal of the program is to attract talent to research and build the necessary
 
 ## Genesis 
 
-Based on DAO Stack Alchemy
+Based on DAOstack Alchemy
 
 * [https://medium.com/daostack/daostack-update-mainnet-launch-genesis-alpha-dao-plantoid-media-roundup-dappcon-f724fc7133aa](https://medium.com/daostack/daostack-update-mainnet-launch-genesis-alpha-dao-plantoid-media-roundup-dappcon-f724fc7133aa)
 
