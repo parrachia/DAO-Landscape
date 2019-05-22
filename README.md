@@ -11,15 +11,16 @@
   * Edit / ask for everybody to review 1 paragraph intro to this
 * [Why care about DAOs?](report-1/why-care-about-daos.md)
   * ~~Describe need/benefits of DAOs~~
+  * Improve Use Cases – Phil?
   * Editing – Grace
 * [On-chain Governance Case Studies](report-1/layer-1-network-based-governance-case-studies.md)
   * Aragon Network \(in the process\) – Max
   * Genesis Alpha \(in the process\) – Pedro
 * [Taxonomy of On-chain Governance Tools](report-1/taxonomy.md)
   * ~~Update table – Max~~
-  * Editing – ?
+  * Editing – Phil?
 * [Further Reading](report-1/reading-list.md)
-  * Editing – ?
+  * Editing – Phil?
 
 Extra:
 
