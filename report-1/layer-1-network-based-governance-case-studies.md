@@ -285,7 +285,9 @@ Launched June 2018, the Genesis Alpha was the first DAO powered by DAOstack. Acc
 * [https://daocast.io/](https://daocast.io/)
 * [https://github.com/daostack/DAOstack-Hackers-Kit](https://github.com/daostack/DAOstack-Hackers-Kit)
 
+### Further Versions
 
+* Make interviews with users/founders
 
 
 
