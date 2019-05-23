@@ -7,7 +7,12 @@
 * [About](report-1/preliminary-research.md)
 * [Foreword](report-1/intro-foreword.md)
 * [Why care about DAOs?](report-1/why-care-about-daos.md)
-* [On-chain Governance Case Studies](report-1/layer-1-network-based-governance-case-studies.md)
+* [On-chain Governance Case Studies](report-1/layer-1-network-based-governance-case-studies/README.md)
+  * [Tezos](report-1/layer-1-network-based-governance-case-studies/tezos.md)
+  * [EOS](report-1/layer-1-network-based-governance-case-studies/eos.md)
+  * [DASH](report-1/layer-1-network-based-governance-case-studies/dash.md)
+  * [Aragon Network](report-1/layer-1-network-based-governance-case-studies/aragon-network.md)
+  * [Genesis](report-1/layer-1-network-based-governance-case-studies/genesis.md)
 * [Taxonomy of On-chain Governance Tools](report-1/taxonomy.md)
 * [Further Reading](report-1/reading-list.md)
 

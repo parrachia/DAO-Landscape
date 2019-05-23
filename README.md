@@ -13,7 +13,7 @@
   * ~~Describe need/benefits of DAOs~~
   * Improve Use Cases – Phil?
   * Editing – Grace
-* [On-chain Governance Case Studies](report-1/layer-1-network-based-governance-case-studies.md)
+* [On-chain Governance Case Studies](report-1/layer-1-network-based-governance-case-studies/)
   * Aragon Network \(in the process\) – Max
   * Genesis Alpha \(in the process\) – Pedro
 * [Taxonomy of On-chain Governance Tools](report-1/taxonomy.md)

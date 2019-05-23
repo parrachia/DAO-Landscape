@@ -30,7 +30,7 @@ Dgov, dao incubator. A book before the conference. Understanding what’s happen
 
 Landscape report Team: [Pat Rawson](https://twitter.com/papa_raw), Pedro  Parrachia, Grace Rachmany, Felipe Duarte, Ela Kagel, Daniel Shavit, [Philippe Honigman](https://twitter.com/phil_h), Andreas Arnold, Beth McCarthy, Phoebe Tickell, Max Semenchuk
 
-Review and comments to [Jacob Arluck](https://twitter.com/JacobArluck), [Andriy Khavryuchenko](https://twitter.com/akhavr), [Vahid Toosi](https://twitter.com/VahidToosi), [Wassim Alsindi](https://twitter.com/parallelind), [Richard Red](https://twitter.com/RichardRed0x) for the feedback and improvements.
+Review and comments to [Jacob Arluck](https://twitter.com/JacobArluck), [Andriy Khavryuchenko](https://twitter.com/akhavr), [Vahid Toosi](https://twitter.com/VahidToosi), [Wassim Alsindi](https://twitter.com/parallelind), [Richard Red](https://twitter.com/RichardRed0x), [Tatu Kärki](https://twitter.com/smokyish) for the feedback and improvements.
 
 
 
