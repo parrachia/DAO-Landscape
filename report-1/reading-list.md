@@ -60,6 +60,7 @@
 * [DGOV newsletter](https://dgov.foundation/newsletter)
 * [DAO Cast](https://daocast.io/)
 * [\#dgov Youtube](https://www.youtube.com/channel/UCGZX1WbJNjuxma-7SXRdRDg)
+* [OrgTech](https://orgtech.substack.com/)
 
 ### **Misc**
 
