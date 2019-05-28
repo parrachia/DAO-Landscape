@@ -58,4 +58,5 @@ More use case related infto be explored in the next edition of the report
 * [The Decentralized Autonomous Organization and Governance Issues](https://poseidon01.ssrn.com/delivery.php?ID=874121115073065002015115115111083029117043064003031030025127073026002089014105115122122049008101104109008000027073023116065112040060087061002004004020112069123109072057062022125014021085094064025010101106024001116093073021019029080016023075123006004105&EXT=pdf)
 * [https://daotalk.org/t/interview-3-1-2018-jordan-greenhall-daostack-advisor/84](https://daotalk.org/t/interview-3-1-2018-jordan-greenhall-daostack-advisor/84)
 * [https://daotalk.org/t/daostack-use-cases-for-scalable-daos/141](https://daotalk.org/t/daostack-use-cases-for-scalable-daos/141)
+* [https://twitter.com/maxsemenchuk/status/1133020336490995712](https://twitter.com/maxsemenchuk/status/1133020336490995712)
 
