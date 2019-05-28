@@ -4,3 +4,9 @@
 
 3 upvotes in the dgov group
 
+Sociocracy
+
+Holacracy
+
+Liberating Structures
+
