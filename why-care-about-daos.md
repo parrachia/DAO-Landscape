@@ -28,7 +28,7 @@ Collectivization/Humanitarian benefits
 
 * Enables collective intelligence
 * Is owned by people driven by purpose \(e.g. fighting climate change or maintaining commons\)
-* Resistant to corruption \(?\)
+* Resistant to corruption
 * Open, Permissionless & Unbiased
 * Better social justice, democratic governance
 
@@ -48,7 +48,7 @@ Automation benefits
 ![https://hackernoon.com/the-state-of-the-daos-b7cba318460b](.gitbook/assets/image%20%281%29.png)
 
 {% hint style="info" %}
-More use case related infto be explored in the next edition of the report
+More use case to be explored in the next edition of the report
 {% endhint %}
 
 ## References:
