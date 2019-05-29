@@ -1,20 +1,16 @@
 # Table of contents
 
-* [Hello World!](README.md)
-
-## Report 0.1
-
-* [About](report-1/preliminary-research.md)
-* [Foreword](report-1/intro-foreword.md)
-* [Why care about DAOs?](report-1/why-care-about-daos.md)
-* [On-chain Governance Case Studies](report-1/layer-1-network-based-governance-case-studies/README.md)
-  * [Tezos](report-1/layer-1-network-based-governance-case-studies/tezos.md)
-  * [EOS](report-1/layer-1-network-based-governance-case-studies/eos.md)
-  * [DASH](report-1/layer-1-network-based-governance-case-studies/dash.md)
-  * [Aragon Network](report-1/layer-1-network-based-governance-case-studies/aragon-network.md)
-  * [Genesis](report-1/layer-1-network-based-governance-case-studies/genesis.md)
-* [Taxonomy of On-chain Governance Tools](report-1/taxonomy.md)
-* [Further Reading](report-1/reading-list.md)
+* [About](README.md)
+* [Foreword](intro-foreword.md)
+* [Why care about DAOs?](why-care-about-daos.md)
+* [On-chain Governance Case Studies](layer-1-network-based-governance-case-studies/README.md)
+  * [Tezos](layer-1-network-based-governance-case-studies/tezos.md)
+  * [EOS](layer-1-network-based-governance-case-studies/eos.md)
+  * [DASH](layer-1-network-based-governance-case-studies/dash.md)
+  * [Aragon Network](layer-1-network-based-governance-case-studies/aragon-network.md)
+  * [Genesis](layer-1-network-based-governance-case-studies/genesis.md)
+* [Taxonomy of On-chain Governance Tools](taxonomy.md)
+* [Further Reading](reading-list.md)
 
 ## Work in Progress
 
@@ -30,7 +26,6 @@
 * [Model](wip/model.md)
 * [Features of DAOs](wip/features-of-daos.md)
 * [Visualizations](wip/visualization.md)
-* [More soon!](wip/more-soon.md)
 
 ## admin
 

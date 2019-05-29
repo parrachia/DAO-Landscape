@@ -1,6 +1,6 @@
 # Tezos
 
-![](../../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 ### Purpose
 
@@ -17,7 +17,7 @@ Tezos is a self-amending blockchain network which incorporates a formal, on-chai
 
 ### Objects of governance & Used mechanics
 
-![](../../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 Upgrades to the protocol through proposal & voting process. Uses min quorum adapted to the average participation and and 80% of supermajority support level to pass.
 

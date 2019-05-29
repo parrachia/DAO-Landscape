@@ -1,6 +1,6 @@
 # Foreword
 
-#### Grace / how we started that
+#### Grace
 
 Was researching it, Pedro was looking on that for longer, then Ela. Pat became interested from the other POV – let’s see what already done. My goal was search engine about all proposals in the dgov, DAO space. Maybe somebody on DASH did it \(and failed\). E.g. topics on identity, voting. Pat was interested in the spreadsheet of DAOs and what they use \(e.g. voting, legal model etc\). Good in org design and interviewing.
 
@@ -21,16 +21,7 @@ Org consultant, as Phoebe, in Brazil. Very VUCA, Occupy movement veteran and oth
 
 Dgov, dao incubator. A book before the conference. Understanding what’s happening
 
-## Status and next plans
-
-* Small demo report
-* to get grant and continue \(see[ scope Report 1.0]()\)
-
-## Thanks
-
-Landscape report Team: [Pat Rawson](https://twitter.com/papa_raw), Pedro  Parrachia, Grace Rachmany, Felipe Duarte, Ela Kagel, Daniel Shavit, [Philippe Honigman](https://twitter.com/phil_h), Andreas Arnold, Beth McCarthy, Phoebe Tickell, Max Semenchuk
-
-Review and comments to [Jacob Arluck](https://twitter.com/JacobArluck), [Andriy Khavryuchenko](https://twitter.com/akhavr), [Vahid Toosi](https://twitter.com/VahidToosi), [Wassim Alsindi](https://twitter.com/parallelind), [Richard Red](https://twitter.com/RichardRed0x), [Tatu Kärki](https://twitter.com/smokyish) for the feedback and improvements.
+## 
 
 
 

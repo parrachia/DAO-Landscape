@@ -1,39 +1,27 @@
-# Hello World!
+# About
 
-[Start reading the report](report-1/preliminary-research.md)
+This is a collaborative research on Distributed Governance, DAOs, Smart Organizations, Digital cooperatives and Software defined companies. It contains technologies available \(Industry Map\),  case studies, frameworks etc. The purpose is to setup the base knowledge for the field, outline best practices and find the interoperability gaps.
 
-## **Content / To Do's**
+This is a continuous effort with some milestones where we push the available state. Supported by contributors from [Dgov Foundation](https://dgov.foundation/), DAO Stack, Aragon, DAO Leadership and many more.
 
-* [About](report-1/preliminary-research.md)
-  * Make a nice cover/package – Max
-* [Foreword](report-1/intro-foreword.md)
-  * ~~Mention team members~~
-  * Edit / ask for everybody to review 1 paragraph intro to this
-* [Why care about DAOs?](report-1/why-care-about-daos.md)
-  * ~~Describe need/benefits of DAOs~~
-  * Improve Use Cases – Phil?
-  * Editing – Grace
-* [On-chain Governance Case Studies](report-1/layer-1-network-based-governance-case-studies/)
-  * Aragon Network \(in the process\) – Max
-  * Genesis Alpha \(in the process\) – Pedro
-* [Taxonomy of On-chain Governance Tools](report-1/taxonomy.md)
-  * ~~Update table – Max~~
-  * Editing – Phil?
-* [Further Reading](report-1/reading-list.md)
-  * Editing – Phil?
+## **Content**
 
-Extra:
+* [Foreword](intro-foreword.md)
+* [Why care about DAOs?](why-care-about-daos.md)
+* [On-chain Governance Case Studies](layer-1-network-based-governance-case-studies/)
+  * [Tezos](layer-1-network-based-governance-case-studies/tezos.md)
+  * [EOS](layer-1-network-based-governance-case-studies/eos.md)
+  * [DASH](layer-1-network-based-governance-case-studies/dash.md)
+  * [Aragon Network](layer-1-network-based-governance-case-studies/aragon-network.md)
+  * [Genesis](layer-1-network-based-governance-case-studies/genesis.md)
+* [Taxonomy of On-chain Governance Tools](taxonomy.md)
+* [Further Reading](reading-list.md)
 
-* Ask Marina and Silke on legal approach
+## Thanks
 
-## **Timing**
+Landscape report Team: [Pat Rawson](https://twitter.com/papa_raw), Pedro  Parrachia, Grace Rachmany, Felipe Duarte, Ela Kagel, Daniel Shavit, [Philippe Honigman](https://twitter.com/phil_h), Andreas Arnold, Beth McCarthy, Phoebe Tickell, Max Semenchuk
 
-* Sprint 3 \(week 17-18\)
-* Spint 4 \(19-20\)
-* Sprint 5 \(21-22\) 
-* V1.0 Publication 03.06.2019
-
-![](.gitbook/assets/image%20%2811%29.png)
+Review and comments to [Jacob Arluck](https://twitter.com/JacobArluck), [Andriy Khavryuchenko](https://twitter.com/akhavr), [Vahid Toosi](https://twitter.com/VahidToosi), [Wassim Alsindi](https://twitter.com/parallelind), [Richard Red](https://twitter.com/RichardRed0x), [Tatu Kärki](https://twitter.com/smokyish) for the feedback and improvements.
 
 
 
