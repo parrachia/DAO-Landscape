@@ -19,7 +19,7 @@ This is a continuous effort with some milestones where we push the available sta
 
 ## Thanks
 
-Landscape report Team: [Pat Rawson](https://twitter.com/papa_raw), [Pedro  Parrachia](https://twitter.com/parrachia), [Grace Rachmany](https://twitter.com/RebeccaRachmany), [Felipe Duarte](https://twitter.com/facilitator23), [Ela Kagel](https://twitter.com/ElaKagel), [Daniel Shavit](https://twitter.com/cryptodani), [Philippe Honigman](https://twitter.com/phil_h), Andreas Arnold, [Beth McCarthy](https://twitter.com/ontologymachine), [Phoebe Tickell](https://twitter.com/solarpunk_girl), [Max Semenchuk](https://twitter.com/maxsemenchuk)
+Landscape report Team: [Pat Rawson](https://twitter.com/papa_raw), [Pedro  Parrachia](https://twitter.com/parrachia), [Grace Rachmany](https://twitter.com/RebeccaRachmany), [Felipe Duarte](https://twitter.com/facilitator23), [Ela Kagel](https://twitter.com/ElaKagel), [Daniel Shavit](https://twitter.com/cryptodani), [Philippe Honigman](https://twitter.com/phil_h), [Andreas Arnold](https://twitter.com/sharingandreas), [Beth McCarthy](https://twitter.com/ontologymachine), [Phoebe Tickell](https://twitter.com/solarpunk_girl), [Max Semenchuk](https://twitter.com/maxsemenchuk)
 
 Review and comments to [Jacob Arluck](https://twitter.com/JacobArluck), [Andriy Khavryuchenko](https://twitter.com/akhavr), [Vahid Toosi](https://twitter.com/VahidToosi), [Wassim Alsindi](https://twitter.com/parallelind), [Richard Red](https://twitter.com/RichardRed0x), [Tatu Kärki](https://twitter.com/smokyish) for the feedback and improvements.
 
