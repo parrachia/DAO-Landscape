@@ -6,6 +6,8 @@
 
 The commons is the cultural and natural resources accessible to all members of a society, including natural materials such as air, water, and a habitable earth. These resources are held in common, not owned privately. Commons can also be understood as natural resources that groups of people \(communities, user groups\) manage for individual and collective benefit. Characteristically, this involves a variety of informal norms and values \(social practice\) employed for a governance mechanism. \[[source](https://en.wikipedia.org/wiki/Commons)\]
 
+Michel Bauwens: _“A commons is a 1\) shared resources \(i.e. there is something objective about it\) 2\) maintained or co-produced by a community or group of stakeholders \(hence: a subjective activity and choice, ‘there is no commons without commoning’\) and 3\) it is managed according to te rules and values of that community \(‘autonormativity’\), which makes it also into an alternative governance and property regime”_. \([source](https://wiki.p2pfoundation.net/Commons)\)
+
 ## Community
 
 A community is a small or large social unit \(a group of living things\) that has something in common, such as norms, religion, values, or identity. Communities often share a sense of place that is situated in a given geographical area \(e.g. a country, village, town, or neighborhood\) or in virtual space through communication platforms. \[[source](https://en.wikipedia.org/wiki/Community)\]
