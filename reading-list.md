@@ -1,6 +1,31 @@
 # Further Reading
 
-## Researchers & Foundations
+## Ecosystem / Wider Communities
+
+* FutureThinkers.org
+* RadicalXChange
+* [enkel.co](https://www.enkel.co/)
+* Open organizations
+* Holacracy
+* [Revision](https://revision.io/)
+* WEF
+* [Dezentrum](https://www.dezentrum.ch/en/)
+* Amatus
+* Greenfield.one
+* [https://www.edenblock.com/](https://www.edenblock.com/)
+* Pocket Network
+* [https://axveco.com/en/](https://axveco.com/en/)
+* oscoin
+* Ouishare
+* betterplace lab
+* RAREAF2
+* CADAF.io
+* Globatalent
+* SUPERMARKT
+* BlockchainCommons
+* [EdgeRyders](https://edgeryders.eu/) – trying to bring people from other spheres who work on decentralization. We're a discourse forum with a bunch of research projects
+
+## Researchers & Academics
 
 * [Participatory Orgs](https://github.com/ParticipatoryOrgs)
 * [P2P Models](https://p2pmodels.eu)
@@ -131,29 +156,4 @@ In [futarchy](https://en.wikipedia.org/wiki/Futarchy), society defines its value
 
 * ​[Radical Markets](https://www.amazon.com/Radical-Markets-Uprooting-Capitalism-Democracy/dp/0691177503)​
 * ​[Vitalik's review](https://vitalik.ca/general/2018/04/20/radical_markets.html)​
-
-## Ecosystem / Wider Communities
-
-* FutureThinkers.org
-* RadicalXChange
-* [enkel.co](https://www.enkel.co/)
-* Open organizations
-* Holacracy
-* [Revision](https://revision.io/)
-* WEF
-* [Dezentrum](https://www.dezentrum.ch/en/)
-* Amatus
-* Greenfield.one
-* [https://www.edenblock.com/](https://www.edenblock.com/)
-* Pocket Network
-* [https://axveco.com/en/](https://axveco.com/en/)
-* oscoin
-* Ouishare
-* betterplace lab
-* RAREAF2
-* CADAF.io
-* Globatalent
-* SUPERMARKT
-* BlockchainCommons
-* [EdgeRyders](https://edgeryders.eu/) – trying to bring people from other spheres who work on decentralization. We're a discourse forum with a bunch of research projects
 
