@@ -36,7 +36,5 @@
   * [Tactical \#3](admin/tacticals/tactical-3.md)
   * [Tactical \#2](admin/tacticals/tactical-2-27.03.md)
   * [Tactical \#1](admin/tacticals/tactical-1.md)
-* [Team](admin/team.md)
-* [Tools & Techniques](admin/tools-and-techniques.md)
 * [Collaboration](admin/partnership.md)
 
