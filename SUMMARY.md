@@ -20,4 +20,5 @@
   * [Tactical \#3](admin/governance/tactical-3.md)
   * [Tactical \#2](admin/governance/tactical-2-27.03.md)
   * [Tactical \#1](admin/governance/tactical-1.md)
+* [Plan](admin/plan.md)
 
