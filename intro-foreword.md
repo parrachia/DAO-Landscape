@@ -18,7 +18,7 @@ Max Semenchuk, Dgov Foundation, DAO incubator
 
 > Feel the need to give some context. Now blockchain researcher in R&D / Applied research, part of Genesis DAO since inception. Worked with NGOs on multiple areas. Most interested in knowledge production – trying to help somehow another attempt in the research DAO \(Matan tried to launch\). It didn’t really happen, there were talks with EF and other entities about more agnostic initiative.
 
-Pedro Parrachia, DAO Stack, [ESA](https://economicspace.agency/)
+Pedro Parrachia, [RHizom](https://rhizom.me), [ECSA](https://economicspace.agency/)
 
 ## 
 
