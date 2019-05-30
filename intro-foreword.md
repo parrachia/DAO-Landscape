@@ -16,7 +16,7 @@ Felipe Duarte, Org consultant, DAO Stack
 
 Max Semenchuk, Dgov Foundation, DAO incubator
 
-> Feel the need to give some context. Now blockchain researcher in R&D / Applied research, part of Genesis DAO since inception. Worked with NGOs on multiple areas. Most interested in decentralized knowledge production and reducing information asymmetry.
+> Feel the need to give some context. Now blockchain ecology R&D for multiple projects, part of Genesis DAO since inception. Worked with infrastructural Commons on multiple areas. Most interested in decentralized knowledge production and reducing information asymmetry.
 
 Pedro Parrachia, Rhizom, ECSA
 
