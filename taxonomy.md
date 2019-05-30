@@ -1,6 +1,6 @@
 # Taxonomy of On-chain Governance Tools
 
-{% embed url="https://www.figma.com/file/MjMW1NKFAEjdCkBR4YMYP1PH/DAO-Landscape?node-id=1%3A5" %}
+{% embed url="https://www.figma.com/file/MjMW1NKFAEjdCkBR4YMYP1PH/DAO-Landscape?node-id=1%3A5" caption="" %}
 
 {% hint style="info" %}
 Work in progress. If you don't see your project here please contact us
@@ -26,15 +26,15 @@ Work in progress. If you don't see your project here please contact us
 * [Abie](http://abie.fund) – minimalist DAO that includes a Sybil-resistant voting system based on liquid democracy
 * [Ellcrys](https://ellcrys.org/) – helps you start, co-own and contribute to open source software products and organizations
 * [Democracy Earth](https://democracy.earth/) enables token-based community participation
-* [BitNation](https://tse.bitnation.co/) – the world's first Decentralised Borderless Voluntary Nation
-* [Agora](https://www.agora.vote/) – Secure and transparent digital voting
-* [Polys](https://polys.me/) – 
+* [BitNation](https://tse.bitnation.co/) – the world's first Decentralised Borderless Voluntary Nation
+* [Agora](https://www.agora.vote/) – Secure and transparent digital voting
+* [Polys](https://polys.me/) – 
 
 ## Funding & Bounties
 
 * [Giveth](https://giveth.io/) – donation platform and community
-* [Gitcoin](https://gitcoin.co/) – easiest way to monetize or incentivize work in Open Source Software
-* [Bounties Network](https://bounties.network/) – Open Bounties & Freelance Jobs Online
+* [Gitcoin](https://gitcoin.co/) – easiest way to monetize or incentivize work in Open Source Software
+* [Bounties Network](https://bounties.network/) – Open Bounties & Freelance Jobs Online
 * [Talao](https://talao.io) – The Reputation Protocol and DAO for the 100 million freelancing talent
 * [Covee](https://covee.network/) – The Trusted Platform for Knowledge Workers
 * [Alice](https://alice.si/) – a platform that brings transparency to social funding through blockchain technology
@@ -42,18 +42,18 @@ Work in progress. If you don't see your project here please contact us
 
 ## Identity
 
-* [Iden3](https://iden3.io/)​ – Decentralized identity management solution
-* [uPort](https://www.uport.me/)​ – open identity system allows users to register their own identity on Ethereum
-* ​[BrightID](https://www.brightid.org/)​ – a global, unique identity network that keeps fake people out of applications
-* [Jolocom](https://jolocom.io/) – An open source protocol for people and smart agents to autonomously create and interact with digital, self-sovereign identities
+* [Iden3](https://iden3.io/)​ – Decentralized identity management solution
+* [uPort](https://www.uport.me/)​ – open identity system allows users to register their own identity on Ethereum
+* ​[BrightID](https://www.brightid.org/)​ – a global, unique identity network that keeps fake people out of applications
+* [Jolocom](https://jolocom.io/) – An open source protocol for people and smart agents to autonomously create and interact with digital, self-sovereign identities
 * [Sovrin](https://sovrin.org/) – the world's first self-sovereign identity \(SSI\) network
-* [LifeID](https://lifeid.io/) – open, public identity protocol for Web 2.0 and blockchain ecosystems
-* [Netki](https://netki.com/) – KYC AML provider purpose built for the unique needs of blockchain companies
-* [Hyperledger Indy](https://www.hyperledger.org/projects/hyperledger-indy) – distributed ledger, purpose-built for decentralized identity
+* [LifeID](https://lifeid.io/) – open, public identity protocol for Web 2.0 and blockchain ecosystems
+* [Netki](https://netki.com/) – KYC AML provider purpose built for the unique needs of blockchain companies
+* [Hyperledger Indy](https://www.hyperledger.org/projects/hyperledger-indy) – distributed ledger, purpose-built for decentralized identity
 
 ## Legal / Jurisdiction
 
 * [Kleros](https://kleros.io/) – The Blockchain Dispute Resolution Layer
-* [Mattereum](https://mattereum.com/) – Organizing the world's property and making it universally accessible and useful
+* [Mattereum](https://mattereum.com/) – Organizing the world's property and making it universally accessible and useful
 * [Lexon](https://claryon.github.io/lexon/) – a contract programming language for lawyers
 
