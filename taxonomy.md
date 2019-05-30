@@ -1,4 +1,4 @@
-# Taxonomy of Governance Tools
+# Taxonomy of On-chain Governance Tools
 
 {% embed url="https://www.figma.com/file/MjMW1NKFAEjdCkBR4YMYP1PH/DAO-Landscape?node-id=1%3A5" %}
 
