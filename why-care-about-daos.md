@@ -1,4 +1,4 @@
-# Why DAO?
+# What is DAO
 
 ## What is DAO \(Decentralized Autonomous Organization\)?
 
@@ -48,4 +48,5 @@ DAC \(Decentralized autonomous corporations/companies\) are a smaller topic, bec
 * [https://daotalk.org/t/daostack-use-cases-for-scalable-daos/141](https://daotalk.org/t/daostack-use-cases-for-scalable-daos/141)
 * [https://twitter.com/maxsemenchuk/status/1133020336490995712](https://twitter.com/maxsemenchuk/status/1133020336490995712)
 * [https://twitter.com/niran/status/1133871956489637888?s=21](https://twitter.com/niran/status/1133871956489637888?s=21)
+* [https://medium.com/@markus.buech/the-idea-of-the-dao-misunderstandings-and-potentials-d763b1b51c9b](https://medium.com/@markus.buech/the-idea-of-the-dao-misunderstandings-and-potentials-d763b1b51c9b)
 
