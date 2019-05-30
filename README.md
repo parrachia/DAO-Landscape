@@ -7,7 +7,8 @@ This is a continuous effort with some milestones where we push the available sta
 ## **Content**
 
 * [Foreword](intro-foreword.md)
-* [Why care about DAOs?](why-care-about-daos.md)
+* [Why DAO?](why-care-about-daos.md)
+* [DAO Use Cases](dao-use-cases.md)
 * [On-chain Governance Case Studies](layer-1-network-based-governance-case-studies/)
   * [Tezos](layer-1-network-based-governance-case-studies/tezos.md)
   * [EOS](layer-1-network-based-governance-case-studies/eos.md)

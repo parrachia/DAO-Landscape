@@ -1,4 +1,4 @@
-# Why care about DAOs?
+# Why DAO?
 
 ## What is DAO \(Decentralized Autonomous Organization\)?
 
@@ -24,7 +24,7 @@ DAC \(Decentralized autonomous corporations/companies\) are a smaller topic, bec
 
 ## Promises of DAO
 
-Collectivization/Humanitarian benefits
+### Collectivization/Humanitarian benefits
 
 * Enables collective intelligence
 * Is owned by people driven by purpose \(e.g. fighting climate change or maintaining commons\)
@@ -32,24 +32,12 @@ Collectivization/Humanitarian benefits
 * Open, Permissionless & Unbiased
 * Better social justice, democratic governance
 
-Automation benefits
+### Automation benefits
 
 * Increase efficiency by Removing Managerial Waste
 * Scalable alignment with incentives
 * AI extension possibilities / digital organisms
 * Non-censorable, unstoppable 
-
-## DAO Use Cases
-
-* System configuration \(Upgrades\)
-* Asset Management \(Funds allocation specifically\)
-* Curation \(Membership specifically\)
-
-![https://hackernoon.com/the-state-of-the-daos-b7cba318460b](.gitbook/assets/image%20%281%29.png)
-
-{% hint style="info" %}
-More use case to be explored in the next edition of the report
-{% endhint %}
 
 ## References:
 
