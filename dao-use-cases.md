@@ -3,6 +3,7 @@
 * System configuration \(Upgrades\)
 * Asset Management \(Funds allocation specifically\)
 * Curation \(Membership specifically\)
+* Dispute Resolution
 
 ![https://hackernoon.com/the-state-of-the-daos-b7cba318460b](.gitbook/assets/image%20%281%29.png)
 

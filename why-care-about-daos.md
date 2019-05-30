@@ -47,4 +47,5 @@ DAC \(Decentralized autonomous corporations/companies\) are a smaller topic, bec
 * [https://daotalk.org/t/interview-3-1-2018-jordan-greenhall-daostack-advisor/84](https://daotalk.org/t/interview-3-1-2018-jordan-greenhall-daostack-advisor/84)
 * [https://daotalk.org/t/daostack-use-cases-for-scalable-daos/141](https://daotalk.org/t/daostack-use-cases-for-scalable-daos/141)
 * [https://twitter.com/maxsemenchuk/status/1133020336490995712](https://twitter.com/maxsemenchuk/status/1133020336490995712)
+* [https://twitter.com/niran/status/1133871956489637888?s=21](https://twitter.com/niran/status/1133871956489637888?s=21)
 
