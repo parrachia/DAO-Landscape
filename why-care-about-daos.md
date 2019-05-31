@@ -4,23 +4,23 @@
 
 Let's start with identifying the essence of DAOs by different influencers in the field.
 
-DAO is an entity that lives on the internet and exists autonomously, but also heavily relies on hiring individuals to perform certain tasks that the automaton itself cannot do \[[Vitalik Buterin](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)\].
+> DAO is an entity that lives on the internet and exists autonomously, but also heavily relies on hiring individuals to perform certain tasks that the automaton itself cannot do. - [Vitalik Buterin](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)
 
-DAO means ownership + Distributed Governance system. \(Matan Field, in COALA conversations\)
+> DAO means ownership + Distributed Governance system. - Matan Field, in COALA conversations
 
-DAO is a corporation running on the digital jurisdiction. \(Yalda, EthCC presentation\)
+> DAO is a corporation running on the digital jurisdiction. - Yalda, EthCC presentation
 
-A DAO can be seen as the most complex form of a smart contract, where the bylaws of the decentralized organization are embedded into the code of the smart contract, using complex token governance rules. \([Blockchain Hub](https://blockchainhub.net/dao-decentralized-autonomous-organization/)\)
+> A DAO can be seen as the most complex form of a smart contract, where the bylaws of the decentralized organization are embedded into the code of the smart contract, using complex token governance rules. - [Blockchain Hub](https://blockchainhub.net/dao-decentralized-autonomous-organization/)
 
-The DAO \(specifically\) was an organization that was designed to be automated and decentralized. \([Investopedia](https://www.investopedia.com/tech/what-dao/)\)
+> The DAO \(specifically\) was an organization that was designed to be automated and decentralized. - [Investopedia](https://www.investopedia.com/tech/what-dao/)
 
-DAO is a fancy way of saying a digital system living on Ethereum. \([Richard Burton, Balance](https://medium.com/balance-io/why-open-source-finance-will-win-a1f3a61544c2)\)
+> DAO is a fancy way of saying a digital system living on Ethereum. - [Richard Burton, Balance](https://medium.com/balance-io/why-open-source-finance-will-win-a1f3a61544c2)
 
-DAO is a composition of smart contracts running on the underlying permissionless blockchain \(e.g. Ethereum\) to form an organisation infrastructure. \(Tim Bansemer\).
+> DAO is a composition of smart contracts running on the underlying permissionless blockchain \(e.g. Ethereum\) to form an organisation infrastructure. - Tim Bansemer
 
-DAO – An organization that runs autonomously, in a decentralized manner, that functions without the need for centralized parties to make decisions for the organization to grow, to be profitable, or \*physically\* exist to serve its overall purpose. A DAO can be an on-chain contract, or a series of on-chain contracts that interoperate to complete some greater organizational function. \([Steven McKie](https://medium.com/amentum/the-year-of-the-dao-comeback-9c888b44980)\)
+> DAO – An organization that runs autonomously, in a decentralized manner, that functions without the need for centralized parties to make decisions for the organization to grow, to be profitable, or \*physically\* exist to serve its overall purpose. A DAO can be an on-chain contract, or a series of on-chain contracts that interoperate to complete some greater organizational function. - [Steven McKie](https://medium.com/amentum/the-year-of-the-dao-comeback-9c888b44980)
 
-DAC \(Decentralized autonomous corporations/companies\) are a smaller topic, because they are basically a subclass of DAOs, but they are worth mentioning. Since the main exponent of DAC as terminology is Daniel Larimer, we will borrow as a definition the point that he himself consistently promotes: DAC is the DAO that pays dividends \[[source](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)\]. 
+> DAC \(Decentralized autonomous corporations/companies\) are a smaller topic, because they are basically a subclass of DAOs, but they are worth mentioning. Since the main exponent of DAC as terminology is Daniel Larimer, we will borrow as a definition the point that he himself consistently promotes: DAC is the DAO that pays dividends. - [Vitalik Buterin](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)
 
 ## Promises of DAO
 
@@ -28,16 +28,16 @@ DAC \(Decentralized autonomous corporations/companies\) are a smaller topic, bec
 
 * Enables collective intelligence
 * Is owned by people driven by purpose \(e.g. fighting climate change or maintaining commons\)
-* Resistant to corruption
-* Open, Permissionless & Unbiased
-* Better social justice, democratic governance
+* More accountable and resistant to corruption
+* Open, Permissionless & less biased
+* Better social justice, direct democracy like governance
 
 ### Automation benefits
 
-* Increase efficiency by Removing Managerial Waste
+* Increase efficiency by removing Managerial Waste
 * Scalable alignment with incentives
 * AI extension possibilities / digital organisms
-* Non-censorable, unstoppable 
+* Censorship resistance, unstoppable 
 
 ## References:
 
