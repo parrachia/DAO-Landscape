@@ -63,7 +63,7 @@ The goal of the program is to attract talent to research and build the necessary
 
 * [https://aragon.org/](https://aragon.org/)
 * [https://blog.aragon.org/](https://blog.aragon.org/)
-* https://hack.aragon.org/
+* [https://hack.aragon.org/](https://hack.aragon.org/)
 * [https://wiki.aragon.org/](https://wiki.aragon.org/)
 * [https://aragon.chat/](https://aragon.chat/)
 * [https://forum.aragon.org/](https://forum.aragon.org/)

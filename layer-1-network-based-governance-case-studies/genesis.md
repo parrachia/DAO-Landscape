@@ -6,14 +6,14 @@
 
 ### Purpose
 
-Launched June 2018, the Genesis Alpha was the first DAO powered by DAOstack. According to the DAOstack team’s [recent statement](https://daotalk.org/t/q1-2019-genesis-dao-update/448), Genesis would have additional responsibilities as coordinator, such as management of 40m unminted GEN. In this sense, it could be a decentralized institution that distributes ecosystemic grants loosely analogous to the [Ethereum Foundation](https://www.ethereum.org/devgrants).
+Launched June 2018, the Genesis Alpha was the first DAO powered by DAOstack. According to the DAOstack team’s[ statement](https://daotalk.org/t/q1-2019-genesis-dao-update/448), Genesis would have additional responsibilities as coordinator, such as management of 40m unminted GEN. In this sense, it could be a decentralized institution that distributes ecosystemic grants loosely analogous to the [Ethereum Foundation](https://www.ethereum.org/devgrants).
 
 ### **History & key events**
 
 * 2016 DAOstack founded
 * 2018 [token sale](https://medium.com/daostack/daostack-token-sale-successfully-concluded-ec813e7adc6b) successfully sold out in May
   * The [Genesis DAO](https://alchemy.daostack.io/dao/0xa3f5411cfc9eee0dd108bf0d07433b6dd99037f1) became the first DAO using our Alchemy platform
-* 2019 launched Alchemy Earth and Genesis beta
+* 2019 launched Alchemy Earth
 
 ### Objects of governance
 
