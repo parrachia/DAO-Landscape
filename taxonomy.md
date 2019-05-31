@@ -1,4 +1,6 @@
-# Taxonomy of On-chain Governance Tools
+# Landscape of On-chain Governance Tools
+
+## Industry Map
 
 {% embed url="https://www.figma.com/file/MjMW1NKFAEjdCkBR4YMYP1PH/DAO-Landscape?node-id=1%3A5" caption="" %}
 
@@ -6,7 +8,9 @@
 Work in progress. If you don't see your project here please contact us
 {% endhint %}
 
-## Asset Management & Voting
+## Glossary
+
+### Asset Management & Voting
 
 * [Aragon](https://aragon.org/) – project that aims to disintermediate the creation and maintenance of organizational structures by using blockchain technology 
 * [Colony](https://colony.io/) – platform for open organizations
@@ -30,7 +34,7 @@ Work in progress. If you don't see your project here please contact us
 * [Agora](https://www.agora.vote/) – Secure and transparent digital voting
 * [Polys](https://polys.me/) – 
 
-## Funding & Bounties
+### Funding & Bounties
 
 * [Giveth](https://giveth.io/) – donation platform and community
 * [Gitcoin](https://gitcoin.co/) – easiest way to monetize or incentivize work in Open Source Software
@@ -40,7 +44,7 @@ Work in progress. If you don't see your project here please contact us
 * [Alice](https://alice.si/) – a platform that brings transparency to social funding through blockchain technology
 * [Fairmint](https://fairmint.co) – continuous funding
 
-## Identity
+### Identity
 
 * [Iden3](https://iden3.io/)​ – Decentralized identity management solution
 * [uPort](https://www.uport.me/)​ – open identity system allows users to register their own identity on Ethereum
@@ -51,7 +55,7 @@ Work in progress. If you don't see your project here please contact us
 * [Netki](https://netki.com/) – KYC AML provider purpose built for the unique needs of blockchain companies
 * [Hyperledger Indy](https://www.hyperledger.org/projects/hyperledger-indy) – distributed ledger, purpose-built for decentralized identity
 
-## Legal / Jurisdiction
+### Legal / Jurisdiction
 
 * [Kleros](https://kleros.io/) – The Blockchain Dispute Resolution Layer
 * [Mattereum](https://mattereum.com/) – Organizing the world's property and making it universally accessible and useful

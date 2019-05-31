@@ -11,8 +11,8 @@
 * Institute for Futures Studies and Technology Assessment
 * GIZ Blockchain Lab
 * wd-pl.com
-* [https://economicspace.agency/](https://economicspace.agency/)
-* [https://www.blockchaincommons.com/](https://www.blockchaincommons.com/)
+* [Economic Space Agency](https://economicspace.agency/)
+* [Blockchain Commons](https://www.blockchaincommons.com/)
 * Web3 Foundation?
 * Ethereum Foundation?
 
@@ -144,9 +144,9 @@ In [futarchy](https://en.wikipedia.org/wiki/Futarchy), society defines its value
 * [Dezentrum](https://www.dezentrum.ch/en/)
 * Amatus
 * Greenfield.one
-* [https://www.edenblock.com/](https://www.edenblock.com/)
+* [Eden Block](https://www.edenblock.com/)
 * Pocket Network
-* [https://axveco.com/en/](https://axveco.com/en/)
+* [AXVECO](https://axveco.com/en/)
 * oscoin
 * Ouishare
 * betterplace lab

@@ -11,7 +11,7 @@
   * [DASH](layer-1-network-based-governance-case-studies/dash.md)
   * [Aragon Network](layer-1-network-based-governance-case-studies/aragon-network.md)
   * [Genesis](layer-1-network-based-governance-case-studies/genesis.md)
-* [Taxonomy of On-chain Governance Tools](taxonomy.md)
+* [Landscape of On-chain Governance Tools](taxonomy.md)
 * [Further Reading](reading-list.md)
 
 ## admin
