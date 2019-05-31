@@ -1,8 +1,4 @@
-# Plan
-
-Jun 2018 – Launch of [0.1](../)
-
-### Upcoming 
+# Upcoming
 
 * Glossary with words like commons, governance, egalitarian, plutocracy etc.
 * Ethereum, MakerDAO, Cardano, Grin, Bitcoin, Polkdadot, Cosmos, Decred, MolochDAO  governance case studies. Development on existent governance case studies though deeper analytics and interviews with network stakeholders.
