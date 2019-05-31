@@ -22,13 +22,11 @@ Examples of things to be governed:
 
 ### **More Adaptive & Resilient**
 
-The current world can be described with the acronym VUCA: volatility, uncertainty, complexity, and ambiguity. So the rigid knowledge or established management practices don’t help to keep up with the fast-moving world. The distribution of governance support faster learning, experiments and while can be suboptimal at some intervals, helps to evolve in the long run. Also eliminating the single point of failure, so if the central node is taken out or corrupted, the organization finds ways to restore the direction.
+The current world dynamics can be described with the acronym VUCA: Volatility, Uncertainty, Complexity, and Ambiguity. So the rigid knowledge or established management practices don’t help to keep up with the fast-moving world. The distribution of governance support faster learning, experiments and while can be suboptimal at some intervals, helps to evolve in the long run. Also eliminating single points of failure, so if the central node is taken out or corrupted, the organization finds ways to restore the direction.
 
 ### **More Efficient**
 
-This is mostly connected with the decreased cost of financial \(and other\) intermediation. E.g. Bitcoin that helped to eliminate costs and delays in the transfers, taking out the banks out of the system. But besides financial factors, the current management system can be too expensive. Usually a decision needs to pass many levels of the hierarchy, meanwhile, the opportunity window can be lost or the cost of that decision can exceed its value.
-
-Another point is that people at the place usually have more info on the situation and make a better decision, as it will also directly involve them.
+This is mostly connected with the decreased cost of financial \(and other\) intermediation. E.g. Bitcoin helped to eliminate costs and delays in the transfers, taking out the banks out of the system. But besides financial factors, the current management system can be too expensive. Usually a decision needs to pass many levels of the hierarchy, meanwhile, the opportunity window can be lost or the cost of that decision can exceed its value.
 
 ### **Driven by the Purpose**
 
@@ -54,11 +52,11 @@ The free-rider problem is not only connected with the lack of financial gains fo
 
 It can be either the rules that lack enforcements \(employees must wash hands\). Or difficulty to legitimize without the central organ, especially against a powerful lobby. Ability to have caveats adds freedom, and taking this out maybe not supported even among the value keepers. Thus the efforts to resolve the structurelessness problem may be too hard to carry.
 
-Criticism of the rules lies in the ability to game them. Even is most users would follow them, the knowledge that bad actors can legitimately violate their purpose feels sour. And thus such rules can be kept for long in discussion. This goes even harder with the smart contracts, where there’s no trusted facility to resolve disputes.
+Criticism of the rules lies in the ability to game them. Even if most users would follow them, the knowledge that bad actors can legitimately violate their purpose feels sour. And thus such rules can be kept for long in discussion. This goes even harder with the smart contracts, where there’s no trusted facility to resolve disputes.
 
 ### **Regulatory & Public Accountability Concerns**
 
-Centralization emerged as the main motive and driver for the latest economy and social development. The benefits of the economy of scale and order are valued by the majority. Still, it’s potential is still not fully exhausted. So proponents of this dominating ideology go against the anti-pattern, seeing it as a way to chaos.
+Centralization emerged as the main motive and driver for the latest economy and social development. The benefits of the economy of scale and order are deeply valued. Still, it’s potential is still not fully exhausted. So proponents of this dominating ideology go against the anti-pattern, seeing it as a way to chaos.
 
 Building a system on the outlying principles will not only run into the misunderstanding. But also can face a real confrontation from the existing juridical system and public opinion. The challenges here is not in destroying the existing system, but in educating and integrating current state with the future vision.
 
