@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About](README.md)
+* [DAO Landscape Mapping](README.md)
 * [Foreword](intro-foreword.md)
 * [What is Distributed Governance](what-is-distributed-governance.md)
 * [What is DAO](why-care-about-daos.md)

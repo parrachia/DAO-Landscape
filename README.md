@@ -1,4 +1,6 @@
-# About
+# DAO Landscape Mapping
+
+## About
 
 This is a collaborative research on Distributed Governance, DAOs, Smart Organizations, Digital cooperatives and overall digitalization defined companies. It contains technologies available \(Industry Map\), case studies, frameworks etc. The purpose is to setup the base knowledge for the field, outline best practices and find the interoperability gaps.
 
