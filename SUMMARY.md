@@ -12,6 +12,6 @@
   * [Aragon Network](layer-1-network-based-governance-case-studies/aragon-network.md)
   * [Genesis](layer-1-network-based-governance-case-studies/genesis.md)
 * [Landscape of On-chain Governance Tools](taxonomy.md)
-* [Upcoming](plan.md)
 * [Further Reading](reading-list.md)
+* [Upcoming](plan.md)
 

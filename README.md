@@ -18,6 +18,7 @@ This is a continuous effort with some milestones where we push the available sta
   * [Genesis](layer-1-network-based-governance-case-studies/genesis.md)
 * [Taxonomy of On-chain Governance Tools](taxonomy.md)
 * [Further Reading](reading-list.md)
+* [Upcoming](plan.md)
 
 ## Thanks
 
