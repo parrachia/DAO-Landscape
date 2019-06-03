@@ -25,6 +25,7 @@ Launched June 2018, the Genesis Alpha was the first DAO powered by DAOstack. Acc
 
 ### **Links**
 
+* [DAOstack & GenDAO: bird eye view & insights - DRAFT](https://docs.google.com/document/d/1gTQV5RflcskKVJBoG1ehrJGjnJA4SkM1wM8vyjD9EYo/edit?usp=sharing)
 * [https://medium.com/daostack/an-explanation-of-daostack-in-fairly-simple-terms-d0e034739c5a](https://medium.com/daostack/an-explanation-of-daostack-in-fairly-simple-terms-d0e034739c5a)
 * [https://medium.com/daostack/daostack-update-mainnet-launch-genesis-alpha-dao-plantoid-media-roundup-dappcon-f724fc7133aa](https://medium.com/daostack/daostack-update-mainnet-launch-genesis-alpha-dao-plantoid-media-roundup-dappcon-f724fc7133aa)
 * [https://medium.com/daostack/daostack-in-2019-76d7634e27c6](https://medium.com/daostack/daostack-in-2019-76d7634e27c6)

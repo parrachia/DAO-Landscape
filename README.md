@@ -4,7 +4,7 @@
 
 This is a collaborative research on Distributed Governance, DAOs, Smart Organizations, Digital cooperatives and overall digitalization defined companies. It contains technologies available \(Industry Map\), case studies, frameworks etc. The purpose is to setup the base knowledge for the field, outline best practices and find the interoperability gaps.
 
-This is a continuous effort with some milestones where we push the available state. Supported by contributors from [Dgov Foundation](https://dgov.foundation/), [DAO Incubator](https://daoincubator.org), [DAOstack](https://daostack.io/), [Aragon](https://aragon.org/), [DAO Leadership](https://daoleadership.com/), and many more.
+This is a continuous effort with some milestones where we push the available state. Supported by contributors from [Dgov Foundation](https://dgov.foundation/), [DAOincubator](https://daoincubator.org), [DAOstack](https://daostack.io/), [Aragon](https://aragon.org/), [DAO Leadership](https://daoleadership.com/), and many more.
 
 ## **Content**
 
