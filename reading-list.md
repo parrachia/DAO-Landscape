@@ -19,11 +19,11 @@
 ### Books
 
 * [Patterns for Decentralised Organising](https://leanpub.com/patterns-for-decentralised-organising)
-* [So, you've got a DAO...: Management for the 21st century](https://www.amazon.com/dp/B07BMH8WFY/ref=cm_sw_r_cp_ep_dp_0v4mBbJ4F5V2D)
 * [Protocol: How Control Exists after Decentralization](https://mitpress.mit.edu/books/protocol)
 * [Blockchain and the Law](http://www.hup.harvard.edu/catalog.php?isbn=9780674976429)
 * [Going Horizontal: Creating a Non-Hierarchical Organization, One Practice at a Time](https://www.amazon.com/Going-Horizontal-Creating-Non-Hierarchical-Organization-ebook/dp/B07DKKGQB9/ref=sr_1_1?ie=UTF8&qid=1548501833&sr=8-1&keywords=going+horizontal) by Samantha Slade
 * [The TAO of DAO](https://thetaoofthedao.greaterthan.works/) by Kate Beecroft and Francesca Pick
+* [So, you've got a DAO...: Management for the 21st century](https://www.amazon.com/dp/B07BMH8WFY/ref=cm_sw_r_cp_ep_dp_0v4mBbJ4F5V2D)
 * Purpose-Driven Tokens by Shermin Voshmgir \([sample chapter](https://medium.com/crypto3conomics/purpose-driven-tokens-51334d278c32)\)
 
 ### **Newsletters, Blogs, Podcasts, Webinars**
