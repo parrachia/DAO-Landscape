@@ -10,11 +10,7 @@ Andreas Arnold, RChain Europe
 
 Grace Rachmany, DAO Leadership
 
-> Very VUCA, Occupy movement veteran and other movements. Used to conflict. Interested in creating cybernetics relations, what we create here is super linked. Have some drafts. Let’s imagine all info on blockchain was collected in the space form / orbits \(can send more info\). Would be very important to see knowledge, so other people can get the info in a visual way.
-
-Felipe Duarte, Org consultant, DAO Stack
-
-> Collecting and systematizing the info helps seeing patterns, building solid knowledge foundation for any work in the space. Lacking this essential infrastructure can drive us into endless argument about facts,
+> Collecting and systematizing the info helps seeing patterns, building solid knowledge foundation for any work in the space. Lacking this essential infrastructure can drive us into endless argument about the facts.
 
 Max Semenchuk, Dgov Foundation, DAO incubator
 
