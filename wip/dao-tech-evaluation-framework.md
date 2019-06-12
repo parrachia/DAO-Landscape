@@ -22,3 +22,9 @@ Purpose: understand potential tech offering, compare and develop a framework for
 | Thetta.io | undefined | undefined | - | JS \(thetta-dao-framework\) / Solidity | - | undefined | undefined | undefined | undefined | MIT | It's a framework. No docs. |
 | ColonyJS |  |  |  |  |  |  |  |  |  |  | It's a framework. Good documentation. |
 
+
+
+![https://twitter.com/lightcoin/status/1138595892905332736?s=12](../.gitbook/assets/image%20%2816%29.png)
+
+
+
