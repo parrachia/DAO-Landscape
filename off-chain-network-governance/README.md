@@ -1,2 +1,2 @@
-# Off-Chain Network Governance
+# Off-Chain Network Governance Case Studies
 
