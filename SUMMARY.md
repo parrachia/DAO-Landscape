@@ -12,7 +12,7 @@
 * [Taxonomy of On-chain Governance Tools](taxonomy.md)
 * [Further Reading](reading-list.md)
 
-## Work in Progress
+## Work in Progress <a id="wip"></a>
 
 * [Glossary](wip/glossary.md)
 * [Network-based Governance Case Studies 2](wip/network-based-governance-case-studies-2.md)
