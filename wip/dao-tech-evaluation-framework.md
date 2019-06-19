@@ -10,7 +10,6 @@ Purpose: understand potential tech offering, compare and develop a framework for
 * [DAO stack](https://daostack.io/) 
 * [Thetta.io](https://web.thetta.io/) 
 * Otonomos 
-* [Harbour Project](https://www.harbourproject.io/) 
 * [GovBlocks](https://govblocks.io/) 
 
 ## Tech Platform Comparison
@@ -25,6 +24,8 @@ Purpose: understand potential tech offering, compare and develop a framework for
 
 
 ![https://twitter.com/lightcoin/status/1138595892905332736?s=12](../.gitbook/assets/image%20%2816%29.png)
+
+{% embed url="http://kronosapiens.github.io/blog/2019/06/16/aragon-daostack-colony-moloch.html" %}
 
 
 
