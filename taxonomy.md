@@ -32,7 +32,8 @@ Work in progress. If you don't see your project here please contact us
 * [Democracy Earth](https://democracy.earth/) enables token-based community participation
 * [BitNation](https://tse.bitnation.co/) – the world's first Decentralised Borderless Voluntary Nation
 * [Agora](https://www.agora.vote/) – Secure and transparent digital voting
-* [Polys](https://polys.me/) – 
+* [Polys](https://polys.me/) 
+* [Horizon State](https://horizonstate.com/)
 
 ### Funding & Bounties
 
