@@ -18,7 +18,11 @@ This is a continuous effort with some milestones where we push the available sta
   * [DASH](layer-1-network-based-governance-case-studies/dash.md)
   * [Aragon Network](layer-1-network-based-governance-case-studies/aragon-network.md)
   * [Genesis](layer-1-network-based-governance-case-studies/genesis.md)
-* [Taxonomy of On-chain Governance Tools](taxonomy.md)
+* [Off-Chain Network Governance Case Studies](off-chain-network-governance/)
+  * [Ethereum](off-chain-network-governance/ethereum.md)
+  * [Grin](off-chain-network-governance/grin.md)
+* [Landscape of On-chain Governance Tools](taxonomy.md)
+* [Glossary](glossary.md)
 * [Further Reading](reading-list.md)
 * [Upcoming](plan.md)
 

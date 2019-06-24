@@ -15,6 +15,7 @@
   * [Ethereum](off-chain-network-governance/ethereum.md)
   * [Grin](off-chain-network-governance/grin.md)
 * [Landscape of On-chain Governance Tools](taxonomy.md)
+* [Glossary](glossary.md)
 * [Further Reading](reading-list.md)
 * [Upcoming](plan.md)
 
