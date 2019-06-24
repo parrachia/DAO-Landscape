@@ -45,7 +45,7 @@ Automation benefits
 * Asset Management \(Funds allocation specifically\)
 * Curation \(Membership specifically\)
 
-![https://hackernoon.com/the-state-of-the-daos-b7cba318460b](.gitbook/assets/image%20%281%29.png)
+![https://hackernoon.com/the-state-of-the-daos-b7cba318460b](.gitbook/assets/image%20%282%29.png)
 
 {% hint style="info" %}
 More use case related infto be explored in the next edition of the report
