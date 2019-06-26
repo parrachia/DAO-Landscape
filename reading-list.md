@@ -8,13 +8,10 @@
 * [Global Challenges Governance Labs](https://labs.globalchallenges.org/%20)
 * [The Hague Center for Global Governance, Innovation and Emergence](http://www.thehaguecenter.org/)
 * [Giveth Gov Labs](https://github.com/Giveth/gov-lab)
-* Institute for Futures Studies and Technology Assessment
-* GIZ Blockchain Lab
-* wd-pl.com
+* [Institute for Futures Studies and Technology Assessment](https://www.izt.de/en/)
+* [Wise Democracy Project](https://www.wd-pl.com/)
 * [Economic Space Agency](https://economicspace.agency/)
 * [Blockchain Commons](https://www.blockchaincommons.com/)
-* Web3 Foundation?
-* Ethereum Foundation?
 
 ### Books
 
