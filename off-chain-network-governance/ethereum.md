@@ -30,4 +30,5 @@ Ethereum Improvements Proposals \(EIP\) follow next process:
 * [Lane Rettig: State of Ethereum Governance Discussion \[2019/05/09\]](https://www.youtube.com/watch?v=3fF0Ex7qalQ&feature=youtu.be)
 * [Shyft Network: The Philosophy of Ethereum Governance](https://medium.com/shyft-network-media/the-philosophy-of-ethereum-governance-52c530a8830c)
 * [Ethereum/Governance Gitter Chat](https://gitter.im/ethereum/governance)
+* [The History of Ethereum](https://thehistoryofethereum.com/)
 
