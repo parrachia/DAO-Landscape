@@ -8,7 +8,7 @@ Let's start with identifying the essence of DAOs by different influencers in the
 
 > DAO means ownership + Distributed Governance system. - Matan Field, in COALA conversations
 
-> DAO is a corporation running on the digital jurisdiction. - Yalda, EthCC presentation
+> DAO is a corporation running on the digital jurisdiction. - Yalda Mousavinia, [EthCC presentation](https://www.youtube.com/watch?v=BIdxJG0sc5A)
 
 > A DAO can be seen as the most complex form of a smart contract, where the bylaws of the decentralized organization are embedded into the code of the smart contract, using complex token governance rules. - [Blockchain Hub](https://blockchainhub.net/dao-decentralized-autonomous-organization/)
 
