@@ -1,6 +1,6 @@
 # Foreword
 
-![](.gitbook/assets/image%20%2816%29.png)
+![](.gitbook/assets/image%20%2817%29.png)
 
 > The experiment started in Berlin as an entrepreneur. Not a researcher as well, but done a lot of market analysis, that I did with mapping. Come from sharing economy, platform coops. Through Ela, started to work with rchain/dgov. Besides, that was researching 50-60 providers from the map, the goal was in identifying challenges and how to integrate them in the ecosystem. Would like to continue with that proposal. The only question is to what degree dgov~DAO are related. Dgov are the tools for organizing people, the step before DAO. You need some rules at the start. Maybe that’s one component of the research.
 

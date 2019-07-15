@@ -13,7 +13,7 @@ Ethereum is a global, open-source platform for decentralized applications.
 
 Ethereum stakeholders and governance objects:
 
-![https://www.youtube.com/watch?v=3fF0Ex7qalQ](../.gitbook/assets/image%20%2811%29.png)
+![https://www.youtube.com/watch?v=3fF0Ex7qalQ](../.gitbook/assets/image%20%2812%29.png)
 
 Ethereum Improvements Proposals \(EIP\) follow next process:
 
