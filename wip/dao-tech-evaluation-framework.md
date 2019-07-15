@@ -23,7 +23,7 @@ Purpose: understand potential tech offering, compare and develop a framework for
 
 
 
-![https://twitter.com/lightcoin/status/1138595892905332736?s=12](../.gitbook/assets/image%20%2817%29.png)
+![https://twitter.com/lightcoin/status/1138595892905332736?s=12](../.gitbook/assets/image%20%2818%29.png)
 
 {% embed url="http://kronosapiens.github.io/blog/2019/06/16/aragon-daostack-colony-moloch.html" %}
 
