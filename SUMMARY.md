@@ -1,6 +1,8 @@
 # Table of contents
 
 * [About](README.md)
+* [Types of networks](types-of-networks.md)
+* [Dgov questions](dgov-questions.md)
 * [Foreword](intro-foreword.md)
 * [Why care about DAOs?](why-care-about-daos.md)
 * [On-chain Governance Case Studies](layer-1-network-based-governance-case-studies/README.md)
