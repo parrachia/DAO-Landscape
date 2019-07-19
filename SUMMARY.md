@@ -8,14 +8,14 @@
 
 ## Network Governance
 
-* [Blockchain Networks Governance Summary](network-governance/layer-1-network-based-governance-case-studies/README.md)
-  * [Tezos](network-governance/layer-1-network-based-governance-case-studies/tezos.md)
-  * [EOS](network-governance/layer-1-network-based-governance-case-studies/eos.md)
-  * [DASH](network-governance/layer-1-network-based-governance-case-studies/dash.md)
-  * [Aragon Network](network-governance/layer-1-network-based-governance-case-studies/aragon-network.md)
-  * [Genesis](network-governance/layer-1-network-based-governance-case-studies/genesis.md)
-  * [Ethereum](network-governance/layer-1-network-based-governance-case-studies/ethereum.md)
-  * [Grin](network-governance/layer-1-network-based-governance-case-studies/grin.md)
+* [Blockchain Networks Governance Summary](network-governance/blockchain-summary/README.md)
+  * [Tezos](network-governance/blockchain-summary/tezos.md)
+  * [EOS](network-governance/blockchain-summary/eos.md)
+  * [DASH](network-governance/blockchain-summary/dash.md)
+  * [Aragon Network](network-governance/blockchain-summary/aragon-network.md)
+  * [Genesis](network-governance/blockchain-summary/genesis.md)
+  * [Ethereum](network-governance/blockchain-summary/ethereum.md)
+  * [Grin](network-governance/blockchain-summary/grin.md)
 
 ## DAOs / Coops
 
