@@ -3,19 +3,22 @@
 * [DAO Landscape Mapping](README.md)
 * [Foreword](intro-foreword.md)
 * [What is Distributed Governance](what-is-distributed-governance.md)
-* [What is DAO](why-care-about-daos.md)
-* [DAO Use Cases](dao-use-cases.md)
-* [On-chain Governance Case Studies](layer-1-network-based-governance-case-studies/README.md)
-  * [Tezos](layer-1-network-based-governance-case-studies/tezos.md)
-  * [EOS](layer-1-network-based-governance-case-studies/eos.md)
-  * [DASH](layer-1-network-based-governance-case-studies/dash.md)
-  * [Aragon Network](layer-1-network-based-governance-case-studies/aragon-network.md)
-  * [Genesis](layer-1-network-based-governance-case-studies/genesis.md)
-* [Off-Chain Network Governance Case Studies](off-chain-network-governance/README.md)
-  * [Ethereum](off-chain-network-governance/ethereum.md)
-  * [Grin](off-chain-network-governance/grin.md)
-* [Landscape of On-chain Governance Tools](taxonomy.md)
-* [Glossary](glossary.md)
 * [Further Reading](reading-list.md)
-* [Upcoming](plan.md)
+* [Glossary](glossary.md)
+
+## Network Governance
+
+* [Blockchain Networks Governance Summary](network-governance/layer-1-network-based-governance-case-studies/README.md)
+  * [Tezos](network-governance/layer-1-network-based-governance-case-studies/tezos.md)
+  * [EOS](network-governance/layer-1-network-based-governance-case-studies/eos.md)
+  * [DASH](network-governance/layer-1-network-based-governance-case-studies/dash.md)
+  * [Aragon Network](network-governance/layer-1-network-based-governance-case-studies/aragon-network.md)
+  * [Genesis](network-governance/layer-1-network-based-governance-case-studies/genesis.md)
+  * [Ethereum](network-governance/layer-1-network-based-governance-case-studies/ethereum.md)
+  * [Grin](network-governance/layer-1-network-based-governance-case-studies/grin.md)
+
+## DAOs / Coops
+
+* [What is DAO](daos-coops/why-care-about-daos.md)
+* [Landscape of On-chain Governance Tools](daos-coops/taxonomy.md)
 

@@ -2,7 +2,7 @@
 
 
 
-![DAOstack](../.gitbook/assets/daostack.png)
+![DAOstack](../../.gitbook/assets/daostack.png)
 
 ### Purpose
 
@@ -17,7 +17,7 @@ Launched June 2018, the Genesis Alpha was the first DAO powered by DAOstack. Acc
 
 ### Objects of governance
 
-![underlying tech stack](../.gitbook/assets/image%20%288%29.png)
+![underlying tech stack](../../.gitbook/assets/image%20%288%29.png)
 
 ### Network stats
 

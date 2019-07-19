@@ -1,4 +1,4 @@
-# On-chain Governance Case Studies
+# Blockchain Networks Governance Summary
 
 We need a lot of experiments and thoroughly document them in order to find working formulas for the on-chain governance. This research is dedicated to collect, categorize and compare different attempts in scalable governance automation and decentralization with blockchain systems.
 
@@ -16,6 +16,8 @@ Structure of the report:
 * Network Stats
 * Links
 
+![https://coinmetrics.io/papers/dissertation.pdf](../../.gitbook/assets/image%20%284%29.png)
+
 ## Case Studies
 
 * [Tezos](tezos.md)
@@ -23,6 +25,8 @@ Structure of the report:
 * [DASH](dash.md)
 * [Aragon Network](aragon-network.md)
 * [Genesis](genesis.md)
+* [Ethereum](ethereum.md)
+* [Grin](grin.md)
 
 
 
