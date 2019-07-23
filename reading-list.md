@@ -22,6 +22,7 @@
 * [The TAO of DAO](https://thetaoofthedao.greaterthan.works/) by Kate Beecroft and Francesca Pick
 * [So, you've got a DAO...: Management for the 21st century](https://www.amazon.com/dp/B07BMH8WFY/ref=cm_sw_r_cp_ep_dp_0v4mBbJ4F5V2D)
 * Purpose-Driven Tokens by Shermin Voshmgir \([sample chapter](https://medium.com/crypto3conomics/purpose-driven-tokens-51334d278c32)\)
+* [Building Web Reputation Systems](https://www.amazon.com/Building-Reputation-Systems-Randy-Farmer/dp/059615979X) by Randy Farmer, Bryce Glass
 
 - Values, Mechanism Design, and Fairness  
 Free Enterprise: Values in Action Conference Series, 2005-2006  
