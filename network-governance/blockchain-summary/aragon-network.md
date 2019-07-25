@@ -2,7 +2,7 @@
 
 ### Purpose
 
-[Aragon Network](https://blog.aragon.one/aragon-network-and-token-primer/) will be the first community governed decentralized organization whose goal is to act as a digital jurisdiction, an online decentralized court system that isn’t bound by traditional artificial barriers such as national identity or the borders of a single country.
+[Aragon Network](https://blog.aragon.one/aragon-network-and-token-primer/) will be the first community governed decentralized organization whose goal is to act as a digital jurisdiction, an online decentralized court system that isn’t bound by traditional artificial barriers such as national identity or the borders of a single country. Built on Ethereum.
 
 ### History & key events
 
@@ -73,4 +73,6 @@ The goal of the program is to attract talent to research and build the necessary
 * [https://www.youtube.com/c/AragonProject](https://www.youtube.com/c/AragonProject)
 * [https://www.reddit.com/r/aragonproject/](https://www.reddit.com/r/aragonproject/)
 * [https://blog.aragon.org/why-transparency-matters-d6f9e6e10985/](https://blog.aragon.org/why-transparency-matters-d6f9e6e10985/)
+* [AGP-1: The Aragon Governance Proposal Process](%20https://github.com/aragon/AGPs/blob/master/AGPs/AGP-1.md)
+* Explanation of the Aragon jurisdiction: [https://blog.aragon.org/aragon-network-jurisdiction-part-1-decentralized-court-c8ab2a675e82/](https://blog.aragon.org/aragon-network-jurisdiction-part-1-decentralized-court-c8ab2a675e82/) &  [https://blog.aragon.org/introducing-the-aragon-network-20b998e2caba/](https://blog.aragon.org/introducing-the-aragon-network-20b998e2caba/)
 

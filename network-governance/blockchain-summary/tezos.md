@@ -4,7 +4,7 @@
 
 ### Purpose
 
-Tezos is a self-amending blockchain network which incorporates a formal, on-chain mechanism for proposing, selecting, testing, and activating protocol upgrades without the need to hard fork. Operates under liquid PoS consensus.
+Tezos is a self-amending blockchain network which incorporates a formal, on-chain mechanism for proposing, selecting, testing, and activating protocol upgrades without the need to hard fork. Operates under [liquid PoS consensus](https://medium.com/tezos/liquid-proof-of-stake-aec2f7ef1da7).
 
 ### History & key events
 
@@ -44,4 +44,6 @@ Upgrades to the protocol through proposal & voting process. Uses min quorum adap
 * [https://kukai.app/bakers-list](https://kukai.app/bakers-list)
 * [https://mytezosbaker.com/](https://mytezosbaker.com/)
 * [https://blockgeeks.com/guides/what-is-tezos/](https://blockgeeks.com/guides/what-is-tezos/)
+* Arthur Breitman explained [baking on a high-level in the following blog post](https://medium.com/tezos/its-a-baker-s-life-for-me-c214971201e1) very coherently
+* Implemented DApps: [https://tezosprojects.com/](https://tezosprojects.com/)
 
