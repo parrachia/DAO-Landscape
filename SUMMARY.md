@@ -8,6 +8,14 @@
 
 ## Network Governance
 
+* [DAO Case Study Research](network-governance/dao-case-study-research/README.md)
+  * [Betoken](network-governance/dao-case-study-research/betoken.md)
+  * [BrightId](network-governance/dao-case-study-research/brightid.md)
+  * [CuraDAO](network-governance/dao-case-study-research/curadao.md)
+  * [EcoFinTech](network-governance/dao-case-study-research/ecofintech.md)
+  * [Kleros](network-governance/dao-case-study-research/kleros.md)
+  * [Nexus Mutual](network-governance/dao-case-study-research/nexus-mutual.md)
+  * [Personaltokens](network-governance/dao-case-study-research/personaltokens.md)
 * [Blockchain Networks Governance Summary](network-governance/blockchain-summary/README.md)
   * [Tezos](network-governance/blockchain-summary/tezos.md)
   * [EOS](network-governance/blockchain-summary/eos.md)
