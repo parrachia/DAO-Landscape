@@ -9,7 +9,7 @@ This is a continuous effort with some milestones where we push the available sta
 ## **Content**
 
 * [Foreword](intro-foreword.md)
-* [What is Distributed Governance](what-is-distributed-governance.md)
+* [What is Distributed Governance](network-governance/what-is-distributed-governance.md)
 * [What is DAO](daos-coops/why-care-about-daos.md)
 * [On-chain Governance Case Studies](network-governance/blockchain-summary/)
   * [Tezos](network-governance/blockchain-summary/tezos.md)
@@ -21,7 +21,7 @@ This is a continuous effort with some milestones where we push the available sta
   * [Grin](network-governance/blockchain-summary/grin.md)
 * [Landscape of On-chain Governance Tools](daos-coops/taxonomy.md)
 * [Glossary](glossary.md)
-* [Further Reading](reading-list.md)
+* [Further Reading](network-governance/reading-list.md)
 
 ## Thanks
 
