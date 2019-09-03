@@ -1,4 +1,4 @@
-# Moloch
+# Moloch DAO
 
 Links:
 

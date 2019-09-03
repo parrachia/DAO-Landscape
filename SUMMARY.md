@@ -28,7 +28,8 @@
   * [Kleros](daos-coops/dao-case-study-research/kleros.md)
   * [Nexus Mutual](daos-coops/dao-case-study-research/nexus-mutual.md)
   * [Personaltokens](daos-coops/dao-case-study-research/personaltokens.md)
-  * [Moloch](daos-coops/dao-case-study-research/moloch.md)
-  * [Maker](daos-coops/dao-case-study-research/maker.md)
+  * [Moloch DAO](daos-coops/dao-case-study-research/moloch.md)
+  * [Maker DAO](daos-coops/dao-case-study-research/maker.md)
+  * [Metacartel DAO](daos-coops/dao-case-study-research/metacartel-dao.md)
 * [Landscape of On-chain Governance Tools](daos-coops/taxonomy.md)
 
