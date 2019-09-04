@@ -70,7 +70,7 @@ This is a continuous effort with some milestones where we push the available sta
 
 Team: [Max Semenchuk](https://twitter.com/maxsemenchuk), [Pedro Parrachia](https://twitter.com/parrachia), [Pat Rawson](https://twitter.com/papa_raw), [Grace Rachmany](https://twitter.com/RebeccaRachmany), [Felipe Duarte](https://twitter.com/facilitator23), [Ela Kagel](https://twitter.com/ElaKagel), [Daniel Shavit](https://twitter.com/cryptodani), [Philippe Honigman](https://twitter.com/phil_h), [Andreas Arnold](https://twitter.com/sharingandreas), [Beth McCarthy](https://twitter.com/ontologymachine), [Phoebe Tickell](https://twitter.com/solarpunk_girl)
 
-Review and comments to [Jacob Arluck](https://twitter.com/JacobArluck), [Andriy Khavryuchenko](https://twitter.com/akhavr), [Vahid Toosi](https://twitter.com/VahidToosi), [Wassim Alsindi](https://twitter.com/parallelind), [Richard Red](https://twitter.com/RichardRed0x), [Tatu Kärki](https://twitter.com/smokyish) for the feedback and improvements.
+Reviewers: [Jacob Arluck](https://twitter.com/JacobArluck), [Andriy Khavryuchenko](https://twitter.com/akhavr), [Vahid Toosi](https://twitter.com/VahidToosi), [Wassim Alsindi](https://twitter.com/parallelind), [Richard Red](https://twitter.com/RichardRed0x), [Tatu Kärki](https://twitter.com/smokyish). Thanks for the feedback and improvements.
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
