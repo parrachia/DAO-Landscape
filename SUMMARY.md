@@ -9,8 +9,8 @@
 * [Digital Commons](network-governance/digital-commons/README.md)
   * [Ethereum](network-governance/digital-commons/ethereum.md)
   * [EOS](network-governance/digital-commons/eos.md)
-  * [Tezos](network-governance/digital-commons/tezos.md)
   * [DASH](network-governance/digital-commons/dash.md)
+  * [Tezos](network-governance/digital-commons/tezos.md)
   * [Grin](network-governance/digital-commons/grin.md)
 
 ## DAOs / Coops
