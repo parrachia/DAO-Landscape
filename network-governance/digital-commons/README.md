@@ -1,5 +1,21 @@
 # Digital Commons
 
+## Blockchain Networks
+
+![](../../.gitbook/assets/image%20%284%29.png)
+
+Source: [https://coinmetrics.io/papers/dissertation.pdf](https://coinmetrics.io/papers/dissertation.pdf) \(2016, something can be outdated\)
+
+### Case Studies
+
+* [Tezos](tezos.md)
+* [EOS](eos.md)
+* [DASH](dash.md)
+* [Aragon Network](../../daos-coops/dao-case-study-research/aragon-network.md)
+* [Genesis](../../daos-coops/dao-case-study-research/genesis.md)
+* [Ethereum](ethereum.md)
+* [Grin](grin.md)
+
 ## Data
 
 * Wikipedia

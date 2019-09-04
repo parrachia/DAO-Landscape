@@ -3,17 +3,15 @@
 * [About](README.md)
 * [Foreword](intro-foreword.md)
 * [What is Distributed Governance?](what-is-distributed-governance.md)
-* [Glossary](glossary.md)
 
 ## Network Governance
 
-* [Digital Commons](network-governance/digital-commons.md)
-* [Blockchain Networks Governance Summary](network-governance/blockchain-summary/README.md)
-  * [Ethereum](network-governance/blockchain-summary/ethereum.md)
-  * [EOS](network-governance/blockchain-summary/eos.md)
-  * [Tezos](network-governance/blockchain-summary/tezos.md)
-  * [DASH](network-governance/blockchain-summary/dash.md)
-  * [Grin](network-governance/blockchain-summary/grin.md)
+* [Digital Commons](network-governance/digital-commons/README.md)
+  * [Ethereum](network-governance/digital-commons/ethereum.md)
+  * [EOS](network-governance/digital-commons/eos.md)
+  * [Tezos](network-governance/digital-commons/tezos.md)
+  * [DASH](network-governance/digital-commons/dash.md)
+  * [Grin](network-governance/digital-commons/grin.md)
 
 ## DAOs / Coops
 
@@ -35,6 +33,7 @@
 
 ## Misc
 
+* [Glossary](misc/glossary.md)
 * [Further Reading](misc/reading-list.md)
 * [Strategy](misc/strategy.md)
 

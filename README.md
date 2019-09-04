@@ -2,22 +2,24 @@
 
 This is a collaborative research on Netorks, Commons, Distributed Governance, DAOs, Smart Organizations, Digital cooperatives and overall digitalization of organizations. It contains technologies, case studies, frameworks etc. The purpose is to setup the base knowledge for the field, outline best practices and find the interoperability gaps.
 
+{% hint style="info" %}
+Work is in progress with no final state – to be constantly updated and changed. Feel free to contribute with pull requests by clicking on the "edit on Github" button. [Discussion](https://daotalk.org/t/case-studies-decentralized-orgs-with-on-chain-governance/395) are more than welcome on the forum. 
+{% endhint %}
+
 ## **Content**
 
 * [About](./)
 * [Foreword](intro-foreword.md)
 * [What is Distributed Governance?](what-is-distributed-governance.md)
-* [Glossary](glossary.md)
 
 Network Governance
 
-* [Digital Commons](network-governance/digital-commons.md)
-* [Blockchain Networks Governance Case Studies](network-governance/blockchain-summary/)
-  * [Ethereum](network-governance/blockchain-summary/ethereum.md)
-  * [EOS](network-governance/blockchain-summary/eos.md)
-  * [Tezos](network-governance/blockchain-summary/tezos.md)
-  * [DASH](network-governance/blockchain-summary/dash.md)
-  * [Grin](network-governance/blockchain-summary/grin.md)
+* [Digital Commons](network-governance/digital-commons/)
+  * [Ethereum](network-governance/digital-commons/ethereum.md)
+  * [EOS](network-governance/digital-commons/eos.md)
+  * [Tezos](network-governance/digital-commons/tezos.md)
+  * [DASH](network-governance/digital-commons/dash.md)
+  * [Grin](network-governance/digital-commons/grin.md)
 
 DAOs / Cooperatives
 
@@ -39,6 +41,7 @@ DAOs / Cooperatives
 
 Misc
 
+* [Glossary](misc/glossary.md)
 * [Further Reading](misc/reading-list.md)
 * [Strategy](misc/strategy.md)
 
