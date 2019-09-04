@@ -2,11 +2,13 @@
 
 * [DAO Landscape Mapping](README.md)
 * [Foreword](intro-foreword.md)
+* [What is Distributed Governance?](what-is-distributed-governance.md)
+* [\#dgov Questions](dgov-questions.md)
 * [Glossary](glossary.md)
 
 ## Network Governance
 
-* [What is Distributed Governance](network-governance/what-is-distributed-governance.md)
+* [Digital Commons](network-governance/digital-commons.md)
 * [Blockchain Networks Governance Summary](network-governance/blockchain-summary/README.md)
   * [Tezos](network-governance/blockchain-summary/tezos.md)
   * [EOS](network-governance/blockchain-summary/eos.md)
@@ -19,6 +21,7 @@
 
 ## DAOs / Coops
 
+* [Cooperatives](daos-coops/cooperatives.md)
 * [What is DAO](daos-coops/why-care-about-daos.md)
 * [DAO Case Study Research](daos-coops/dao-case-study-research/README.md)
   * [Betoken](daos-coops/dao-case-study-research/betoken.md)
@@ -32,4 +35,8 @@
   * [Maker DAO](daos-coops/dao-case-study-research/maker.md)
   * [Metacartel DAO](daos-coops/dao-case-study-research/metacartel-dao.md)
 * [Landscape of On-chain Governance Tools](daos-coops/taxonomy.md)
+
+## org
+
+* [Strategy](org/strategy.md)
 

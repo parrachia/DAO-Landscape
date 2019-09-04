@@ -1,4 +1,4 @@
-# What is Distributed Governance
+# What is Distributed Governance?
 
 Distributed governance is the specification of principles and methods which enable scalable coordination for forming consensus and to legitimate decisions. In such systems, all participants are treated equally without the presence of a central actor of hierarchy. They are scalable, so efficiency is not reduced but steady or increased by an increasing number of participants.
 
@@ -65,6 +65,10 @@ Building a system on the outlying principles will not only run into the misunder
 As a summary, distributed governance is an evolution proposal and experiment. Forward-thinking parties start to try it out with some success. Though there’s not a lot of well-known and clear results that can be taken into comparison with many long-living centralized systems.
 
 Only research and experiment in this sphere and only after some time can move the global perspective to adopt distributed governance. Clearly, this will produce mistakes and criticism, but it’s a natural way to learn.
+
+## Why dgov now?
+
+...
 
 ## **Further reading**
 
