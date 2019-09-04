@@ -14,12 +14,12 @@ Work is in progress with no final state – to be constantly updated and change
 
 #### Network Governance
 
-* [Digital Commons](network-governance/digital-commons/)
-  * [Ethereum](network-governance/digital-commons/ethereum.md)
-  * [EOS](network-governance/digital-commons/eos.md)
-  * [Tezos](network-governance/digital-commons/tezos.md)
-  * [DASH](network-governance/digital-commons/dash.md)
-  * [Grin](network-governance/digital-commons/grin.md)
+* [Digital Commons](network-governance/digital-commons.md)
+* [Ethereum](network-governance/ethereum.md)
+* [EOS](network-governance/eos.md)
+* [Tezos](network-governance/tezos.md)
+* [DASH](network-governance/dash.md)
+* [Grin](network-governance/grin.md)
 
 #### Digital Coops & DAOs
 

@@ -2,7 +2,7 @@
 
 
 
-![](../../.gitbook/assets/008-dash-icon.png)
+![](../.gitbook/assets/008-dash-icon.png)
 
 ### Purpose
 
@@ -28,11 +28,11 @@ Each month, DASH dispenses 10% of the block rewards for that month in a superblo
 
 There is a [voting threshold which determines whether a proposal will be funded](https://docs.dash.org/en/latest/governance.html#budgets-and-masternode-voting): a net Yes vote greater than 10% of all MNs. The threshold formula is: \(YES votes — NO votes\) &gt; \(Total Number of Masternodes / 10\). Formal submission of a proposal costs a fee of 5 DASH.
 
-![https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4](../../.gitbook/assets/image%20%2816%29.png)
+![https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4](../.gitbook/assets/image%20%2816%29.png)
 
-![https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4](../../.gitbook/assets/image.png)
+![https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4](../.gitbook/assets/image.png)
 
-![https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4](../../.gitbook/assets/image%20%2815%29.png)
+![https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4](../.gitbook/assets/image%20%2815%29.png)
 
 ### Network Stats \(on April 2019\)
 

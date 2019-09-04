@@ -6,12 +6,12 @@
 
 ## Network Governance
 
-* [Digital Commons](network-governance/digital-commons/README.md)
-  * [Ethereum](network-governance/digital-commons/ethereum.md)
-  * [EOS](network-governance/digital-commons/eos.md)
-  * [DASH](network-governance/digital-commons/dash.md)
-  * [Tezos](network-governance/digital-commons/tezos.md)
-  * [Grin](network-governance/digital-commons/grin.md)
+* [Digital Commons](network-governance/digital-commons.md)
+* [Ethereum](network-governance/ethereum.md)
+* [EOS](network-governance/eos.md)
+* [DASH](network-governance/dash.md)
+* [Tezos](network-governance/tezos.md)
+* [Grin](network-governance/grin.md)
 
 ## Digital Coops & DAOs <a id="daos-coops"></a>
 
