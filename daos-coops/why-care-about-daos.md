@@ -66,7 +66,7 @@ Let's start with identifying the essence of DAOs by different influencers in the
 * [Decentralized Union](https://www.ethnews.com/the-decentralized-union-a-blockchain-use-case)
 
 {% hint style="info" %}
-More use case to be explored in the next edition of the report
+More use cases to be explored in the next edition of the report
 {% endhint %}
 
 ## References:
