@@ -12,7 +12,7 @@ Work is in progress with no final state – to be constantly updated and change
 * [Foreword](intro-foreword.md)
 * [What is Distributed Governance?](what-is-distributed-governance.md)
 
-Network Governance
+#### Network Governance
 
 * [Digital Commons](network-governance/digital-commons/)
   * [Ethereum](network-governance/digital-commons/ethereum.md)
@@ -21,7 +21,7 @@ Network Governance
   * [DASH](network-governance/digital-commons/dash.md)
   * [Grin](network-governance/digital-commons/grin.md)
 
-Digital Coops & DAOs
+#### Digital Coops & DAOs
 
 * [Cooperatives](daos-coops/cooperatives.md)
 * [What is DAO?](daos-coops/why-care-about-daos.md)
@@ -39,13 +39,13 @@ Digital Coops & DAOs
   * [Nexus Mutual](daos-coops/dao-case-study-research/nexus-mutual.md)
   * [Personaltokens](daos-coops/dao-case-study-research/personaltokens.md)
 
-Misc
+#### Misc
 
 * [Glossary](misc/glossary.md)
 * [Further Reading](misc/reading-list.md)
 * [Strategy](misc/strategy.md)
 
-Additional questions:
+#### Additional questions
 
 * How should we govern networks \(e.g. Ethereum\)? Principles of decentralization, \(crypto\)law, self-organization etc
 * What tools produce best results? On-chain + soft practices, decision making, execution, dispute resolution, radical markets etc
