@@ -164,4 +164,5 @@ In [futarchy](https://en.wikipedia.org/wiki/Futarchy), society defines its value
 * SUPERMARKT
 * BlockchainCommons
 * [EdgeRyders](https://edgeryders.eu/) – trying to bring people from other spheres who work on decentralization. We're a discourse forum with a bunch of research projects
+* [http://networksciencebook.com/](http://networksciencebook.com/)
 
