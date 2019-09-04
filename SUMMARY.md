@@ -1,9 +1,8 @@
 # Table of contents
 
-* [DAO Landscape Mapping](README.md)
+* [Network Governance Research](README.md)
 * [Foreword](intro-foreword.md)
 * [What is Distributed Governance?](what-is-distributed-governance.md)
-* [\#dgov Questions](dgov-questions.md)
 * [Glossary](glossary.md)
 
 ## Network Governance
@@ -34,7 +33,6 @@
   * [Moloch DAO](daos-coops/dao-case-study-research/moloch.md)
   * [Maker DAO](daos-coops/dao-case-study-research/maker.md)
   * [Metacartel DAO](daos-coops/dao-case-study-research/metacartel-dao.md)
-* [Landscape of On-chain Governance Tools](daos-coops/taxonomy.md)
 
 ## org
 
