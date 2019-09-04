@@ -45,25 +45,6 @@ Work is in progress with no final state – to be constantly updated and change
 * [Further Reading](misc/reading-list.md)
 * [Strategy](misc/strategy.md)
 
-#### Additional questions
-
-* How should we govern networks \(e.g. Ethereum\)? Principles of decentralization, \(crypto\)law, self-organization etc
-* What tools produce best results? On-chain + soft practices, decision making, execution, dispute resolution, radical markets etc
-* How are current networks governed. Upsides and downsides of different gogvernance models. Update the Governance family tree: Ethereum, MakerDAO, Cardano, Grin, Bitcoin, Polkdadot, Cosmos, Decred, MolochDAO  governance case studies. Development on existent governance case studies though deeper analytics and interviews with network stakeholders.
-* What are most relevant problems for networks
-* Decreasing the governance costs \(0%\)
-* Making better decisions
-* Funding public goods
-* Increasing the amount and quality of interactions
-* Improve org experience
-* How to make collaborative strategies
-* Dgov Adoption
-* Research: Increase the probability and speed of consensus on protocol changes
-  * Identifying the tensions
-  * Creating proposals
-  * Collecting the signals on the proposals
-  * Presenting
-
 ## Thanks!
 
 This is a continuous effort with some milestones where we push the available state. Supported by contributors from [Dgov Foundation](https://dgov.foundation/), [DAOincubator](https://daoincubator.org), [DAOstack](https://daostack.io/), [Aragon](https://aragon.org/), [DAO Leadership](https://daoleadership.com/), and many more.
