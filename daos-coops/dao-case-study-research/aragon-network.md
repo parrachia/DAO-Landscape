@@ -59,6 +59,8 @@ The goal of the program is to attract talent to research and build the necessary
 
 [Aragon Flock](https://github.com/aragon/flock) is a bigger than Nest program for long-term support of Aragon teams \(One, Black, Autark\) that develop core parts of the ecosystem. Distribution of this grants goes through the AGP process.
 
+{% embed url="https://www.youtube.com/watch?v=p8F7IgjGjKw" %}
+
 ### Links
 
 * [https://aragon.org/](https://aragon.org/)

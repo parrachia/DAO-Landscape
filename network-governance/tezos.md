@@ -27,6 +27,8 @@ Upgrades to the protocol through proposal & voting process. Uses min quorum adap
 * After repeated testing, the Tezos token holders can then vote on whether the proposal should be approved or not.
 * Once a legitimate upgrade is decided on, a “hot swap” occurs on the protocol, which initiates the new version of the protocol.
 
+{% embed url="https://www.youtube.com/watch?v=lq3W-X\_l1gI" %}
+
 ### Network Stats \(on April 2019\)
 
 * [Market cap $0.79B](https://messari.io/asset/tezos)
