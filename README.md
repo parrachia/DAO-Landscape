@@ -1,29 +1,50 @@
-# Network Governance Research
+# About
 
-## About
-
-This is a collaborative research on Distributed Governance, DAOs, Smart Organizations, Digital cooperatives and overall digitalization defined companies. It contains technologies available \(Industry Map\), case studies, frameworks etc. The purpose is to setup the base knowledge for the field, outline best practices and find the interoperability gaps.
+This is a collaborative research on Netorks, Commons, Distributed Governance, DAOs, Smart Organizations, Digital cooperatives and overall digitalization of organizations. It contains technologies, case studies, frameworks etc. The purpose is to setup the base knowledge for the field, outline best practices and find the interoperability gaps.
 
 This is a continuous effort with some milestones where we push the available state. Supported by contributors from [Dgov Foundation](https://dgov.foundation/), [DAOincubator](https://daoincubator.org), [DAOstack](https://daostack.io/), [Aragon](https://aragon.org/), [DAO Leadership](https://daoleadership.com/), and many more.
 
 ## **Content**
 
+* [About](./)
 * [Foreword](intro-foreword.md)
-* [What is Distributed Governance](what-is-distributed-governance.md)
-* [What is DAO](daos-coops/why-care-about-daos.md)
-* [On-chain Governance Case Studies](network-governance/blockchain-summary/)
-  * [Tezos](network-governance/blockchain-summary/tezos.md)
-  * [EOS](network-governance/blockchain-summary/eos.md)
-  * [DASH](network-governance/blockchain-summary/dash.md)
-  * [Aragon Network](network-governance/blockchain-summary/aragon-network.md)
-  * [Genesis](network-governance/blockchain-summary/genesis.md)
-  * [Ethereum](network-governance/blockchain-summary/ethereum.md)
-  * [Grin](network-governance/blockchain-summary/grin.md)
-* [Landscape of On-chain Governance Tools]()
+* [What is Distributed Governance?](what-is-distributed-governance.md)
 * [Glossary](glossary.md)
-* [Further Reading](network-governance/reading-list.md)
 
-Additional:
+Network Governance
+
+* [Digital Commons](network-governance/digital-commons.md)
+* [Blockchain Networks Governance Case Studies](network-governance/blockchain-summary/)
+  * [Ethereum](network-governance/blockchain-summary/ethereum.md)
+  * [EOS](network-governance/blockchain-summary/eos.md)
+  * [Tezos](network-governance/blockchain-summary/tezos.md)
+  * [DASH](network-governance/blockchain-summary/dash.md)
+  * [Grin](network-governance/blockchain-summary/grin.md)
+
+DAOs / Cooperatives
+
+* [Cooperatives](daos-coops/cooperatives.md)
+* [What is DAO?](daos-coops/why-care-about-daos.md)
+* [DAO Case Study Research](daos-coops/dao-case-study-research/)
+  * [Genesis](daos-coops/dao-case-study-research/genesis.md)
+  * [Aragon Network](daos-coops/dao-case-study-research/aragon-network.md)
+  * [Moloch DAO](daos-coops/dao-case-study-research/moloch.md)
+  * [Maker DAO](daos-coops/dao-case-study-research/maker.md)
+  * [Metacartel DAO](daos-coops/dao-case-study-research/metacartel-dao.md)
+  * [Betoken](daos-coops/dao-case-study-research/betoken.md)
+  * [BrightID](daos-coops/dao-case-study-research/brightid.md)
+  * [CuraDAO](daos-coops/dao-case-study-research/curadao.md)
+  * [EcoFintech](daos-coops/dao-case-study-research/ecofintech.md)
+  * [Kleros](daos-coops/dao-case-study-research/kleros.md)
+  * [Nexus Mutual](daos-coops/dao-case-study-research/nexus-mutual.md)
+  * [Personaltokens](daos-coops/dao-case-study-research/personaltokens.md)
+
+Misc
+
+* [Further Reading](misc/reading-list.md)
+* [Strategy](misc/strategy.md)
+
+Additional questions:
 
 * How should we govern networks \(e.g. Ethereum\)? Principles of decentralization, \(crypto\)law, self-organization etc
 * What tools produce best results? On-chain + soft practices, decision making, execution, dispute resolution, radical markets etc
