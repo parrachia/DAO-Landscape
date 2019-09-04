@@ -2,7 +2,9 @@
 
 This is a collaborative research on Networks, Commons, Distributed Governance, DAOs, Smart Organizations, Digital cooperatives and overall digitalization of organizations. It contains technologies, case studies, frameworks etc. The purpose is to setup the base knowledge for the field, outline best practices and find the interoperability gaps.
 
+{% hint style="info" %}
 Work is in progress with no final state – to be constantly updated and changed. Feel free to contribute with pull requests by clicking on the "edit on Github" button. [**Join the discussion!**](https://forum.dgov.foundation/t/case-study-research/90)\*\*\*\*
+{% endhint %}
 
 ## **Content**
 
