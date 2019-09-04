@@ -4,7 +4,9 @@ description: Interviews conducted July-August 2019
 
 # DAO Case Study Research
 
-Following is Research resulting from Genesis DAO proposal here: [https://docs.google.com/document/d/10C9ORmxOfrHvFH0HVIeqZMv3xeXlM-2pd04izFUUr-Q/edit\#](https://docs.google.com/document/d/10C9ORmxOfrHvFH0HVIeqZMv3xeXlM-2pd04izFUUr-Q/edit#) 
+{% hint style="info" %}
+Following is Research resulting from [Genesis DAO proposal](https://docs.google.com/document/d/10C9ORmxOfrHvFH0HVIeqZMv3xeXlM-2pd04izFUUr-Q/edit#%20).
+{% endhint %}
 
 The purpose of the research is to investigate:
 
