@@ -19,7 +19,7 @@ Network Governance
   * [DASH](network-governance/digital-commons/dash.md)
   * [Grin](network-governance/digital-commons/grin.md)
 
-DAOs / Cooperatives
+Digital Coops & DAOs
 
 * [Cooperatives](daos-coops/cooperatives.md)
 * [What is DAO?](daos-coops/why-care-about-daos.md)

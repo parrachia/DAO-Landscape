@@ -13,7 +13,7 @@
   * [Tezos](network-governance/digital-commons/tezos.md)
   * [Grin](network-governance/digital-commons/grin.md)
 
-## DAOs / Coops
+## Digital Coops & DAOs <a id="daos-coops"></a>
 
 * [Cooperatives](daos-coops/cooperatives.md)
 * [What is DAO?](daos-coops/why-care-about-daos.md)
