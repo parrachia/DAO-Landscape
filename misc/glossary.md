@@ -76,3 +76,9 @@ Movement is a network of informal interactions between a plurality of individual
 
 Stakeholder is a member of the "groups without whose support the organization would cease to exist".[\[1\]](https://en.wikipedia.org/wiki/Stakeholder_%28corporate%29#cite_note-1) A corporate stakeholder can affect or be affected by the actions of a business as a whole. \[[source](https://en.wikipedia.org/wiki/Stakeholder_%28corporate%29)\]
 
+## Crypto vocabulary
+
+{% embed url="https://medium.com/datadriveninvestor/crypto-vocabulary-expanded-76131d26537b" %}
+
+
+

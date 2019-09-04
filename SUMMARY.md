@@ -12,6 +12,7 @@
 * [DASH](network-governance/dash.md)
 * [Tezos](network-governance/tezos.md)
 * [Grin](network-governance/grin.md)
+* [Decred](network-governance/decred.md)
 
 ## Digital Coops & DAOs <a id="daos-coops"></a>
 
@@ -19,7 +20,7 @@
 * [What is DAO?](daos-coops/why-care-about-daos.md)
 * [DAO Case Study Research](daos-coops/dao-case-study-research/README.md)
   * [Genesis](daos-coops/dao-case-study-research/genesis.md)
-  * [Aragon Network](daos-coops/dao-case-study-research/aragon-network.md)
+  * [Aragon](daos-coops/dao-case-study-research/aragon-network.md)
   * [Moloch DAO](daos-coops/dao-case-study-research/moloch.md)
   * [Maker DAO](daos-coops/dao-case-study-research/maker.md)
   * [Metacartel DAO](daos-coops/dao-case-study-research/metacartel-dao.md)
@@ -30,6 +31,8 @@
   * [Kleros](daos-coops/dao-case-study-research/kleros.md)
   * [Nexus Mutual](daos-coops/dao-case-study-research/nexus-mutual.md)
   * [Personaltokens](daos-coops/dao-case-study-research/personaltokens.md)
+  * [EOSDAC](daos-coops/dao-case-study-research/eosdac.md)
+  * [DigixDAO](daos-coops/dao-case-study-research/digixdao.md)
 
 ## Misc
 

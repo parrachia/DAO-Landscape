@@ -17,6 +17,10 @@ Source: [https://coinmetrics.io/papers/dissertation.pdf](https://coinmetrics.io/
 * Cosmos
 * Cardano
 
+### Links
+
+* [https://medium.com/@richardred/decentralized-autonomous-funding-of-blockchain-projects-3c0c233ae4ad](https://medium.com/@richardred/decentralized-autonomous-funding-of-blockchain-projects-3c0c233ae4ad)
+
 ## Data
 
 * Wikipedia

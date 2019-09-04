@@ -1,4 +1,4 @@
-# Aragon Network
+# Aragon
 
 ### Purpose
 
@@ -77,4 +77,5 @@ The goal of the program is to attract talent to research and build the necessary
 * [https://blog.aragon.org/why-transparency-matters-d6f9e6e10985/](https://blog.aragon.org/why-transparency-matters-d6f9e6e10985/)
 * [AGP-1: The Aragon Governance Proposal Process](%20https://github.com/aragon/AGPs/blob/master/AGPs/AGP-1.md)
 * Explanation of the Aragon jurisdiction: [https://blog.aragon.org/aragon-network-jurisdiction-part-1-decentralized-court-c8ab2a675e82/](https://blog.aragon.org/aragon-network-jurisdiction-part-1-decentralized-court-c8ab2a675e82/) &  [https://blog.aragon.org/introducing-the-aragon-network-20b998e2caba/](https://blog.aragon.org/introducing-the-aragon-network-20b998e2caba/)
+* [https://twitter.com/foregroundblock/status/1117028019573538821?s=21](https://twitter.com/foregroundblock/status/1117028019573538821?s=21)
 
