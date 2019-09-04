@@ -1,9 +1,5 @@
 # Genesis
 
-
-
-![DAOstack](../../.gitbook/assets/daostack.png)
-
 ### Purpose
 
 Launched June 2018, the Genesis Alpha was the first DAO powered by DAOstack. According to the DAOstack team’s[ statement](https://daotalk.org/t/q1-2019-genesis-dao-update/448), Genesis would have additional responsibilities as coordinator, such as management of 40m unminted GEN. In this sense, it could be a decentralized institution that distributes ecosystemic grants loosely analogous to the [Ethereum Foundation](https://www.ethereum.org/devgrants).
