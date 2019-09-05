@@ -91,3 +91,5 @@ Source: [Platform Co-Ops](https://media.nesta.org.uk/documents/Nesta_Platform_Re
 
 * Open Conference
 
+![](../.gitbook/assets/img_0971.JPG)
+
