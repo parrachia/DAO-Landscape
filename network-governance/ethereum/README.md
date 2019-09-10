@@ -19,6 +19,7 @@ Ethereum stakeholders and governance objects:
 
 ### Funding
 
+* Ethereum Foundation
 * [Moloch DAO](moloch.md)
 * [Metacartel](metacartel-dao.md)
 * Gitcoin + CLR experiments
