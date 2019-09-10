@@ -15,7 +15,7 @@ Work is in progress with no final state – to be constantly updated and change
 #### Network Governance
 
 * [Digital Commons](network-governance/digital-commons.md)
-* [Ethereum](network-governance/ethereum.md)
+* [Ethereum](network-governance/ethereum/)
 * [EOS](network-governance/eos.md)
 * [Tezos](network-governance/tezos.md)
 * [DASH](network-governance/dash.md)
@@ -28,9 +28,9 @@ Work is in progress with no final state – to be constantly updated and change
 * [DAO Case Study Research](daos-coops/dao-case-study-research/)
   * [Genesis](daos-coops/dao-case-study-research/genesis.md)
   * [Aragon Network](daos-coops/dao-case-study-research/aragon-network.md)
-  * [Moloch DAO](daos-coops/dao-case-study-research/moloch.md)
+  * [Moloch DAO](network-governance/ethereum/moloch.md)
   * [Maker DAO](daos-coops/dao-case-study-research/maker.md)
-  * [Metacartel DAO](daos-coops/dao-case-study-research/metacartel-dao.md)
+  * [Metacartel DAO](network-governance/ethereum/metacartel-dao.md)
   * [Betoken](daos-coops/dao-case-study-research/betoken.md)
   * [BrightID](daos-coops/dao-case-study-research/brightid.md)
   * [CuraDAO](daos-coops/dao-case-study-research/curadao.md)

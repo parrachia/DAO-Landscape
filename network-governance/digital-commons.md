@@ -8,7 +8,7 @@ Source: [https://coinmetrics.io/papers/dissertation.pdf](https://coinmetrics.io/
 
 ### Case Studies
 
-* [Ethereum](ethereum.md)
+* [Ethereum](ethereum/)
 * [EOS](eos.md)
 * [DASH](dash.md)
 * [Tezos](tezos.md)

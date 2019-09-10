@@ -11,15 +11,23 @@ Ethereum is a global, open-source platform for decentralized applications.
 * 2015 – first release
 * 2016 – The DAO hack, $50 million stolen resulted in fork with Ethereum Classic
 
-### Objects of governance & Used mechanics
+## Objects of governance & Used mechanics
 
 Ethereum stakeholders and governance objects:
 
-![by Lane Rettig](../.gitbook/assets/image%20%2812%29.png)
+![by Lane Rettig](../../.gitbook/assets/image%20%2812%29.png)
+
+### Funding
+
+* [Moloch DAO](moloch.md)
+* [Metacartel](metacartel-dao.md)
+* Gitcoin + CLR experiments
+
+### Protocol
 
 Ethereum Improvements Proposals \(EIP\) follow next process:
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%281%29.png)
 
 ### Network Stats \(on June 2019\)
 
