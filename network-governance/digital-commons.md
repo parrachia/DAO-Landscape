@@ -62,3 +62,7 @@ Source: [https://coinmetrics.io/papers/dissertation.pdf](https://coinmetrics.io/
 * [https://hostsharing.net](https://hostsharing.net) – Registered Coop/Genossenschaft offering webhosting and a shared IT infrastructure. Owners are workers and customers.
 * [YieldPoint](http://www.chsmidwestcooperative.com/agronomy/precision-agriculture/)÷с – Through CHS YieldPoint™, our precision agriculture program can help you tighten productivity and get a jump on higher yields with pinpoint accuracy
 
+## Read more
+
+* [Governing DLT Networks by Accenture & DTCC](http://perspectives.dtcc.com/articles/governing-dlt-networks?utm_source=website&utm_medium=press_release&utm_campaign=dlt_governance_august_2019)
+
