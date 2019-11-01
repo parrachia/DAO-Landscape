@@ -15,6 +15,7 @@
 * [Tezos](network-governance/tezos.md)
 * [Grin](network-governance/grin.md)
 * [Decred](network-governance/decred.md)
+* [Zcash](network-governance/zcash.md)
 
 ## Digital Coops & DAOs <a id="daos-coops"></a>
 
