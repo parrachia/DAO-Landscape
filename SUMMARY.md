@@ -2,6 +2,7 @@
 
 * [About](README.md)
 * [Foreword](intro-foreword.md)
+* [Untitled](untitled.md)
 * [What is Distributed Governance?](what-is-distributed-governance.md)
 
 ## Network Governance
@@ -28,12 +29,13 @@
   * [Betoken](daos-coops/dao-case-study-research/betoken.md)
   * [BrightId](daos-coops/dao-case-study-research/brightid.md)
   * [CuraDAO](daos-coops/dao-case-study-research/curadao.md)
+  * [DigixDAO](daos-coops/dao-case-study-research/digixdao.md)
   * [EcoFinTech](daos-coops/dao-case-study-research/ecofintech.md)
+  * [EOSDAC](daos-coops/dao-case-study-research/eosdac.md)
+  * [Ethfinex \(Diversefi\)](daos-coops/dao-case-study-research/ethfinex-diversefi.md)
   * [Kleros](daos-coops/dao-case-study-research/kleros.md)
   * [Nexus Mutual](daos-coops/dao-case-study-research/nexus-mutual.md)
   * [Personaltokens](daos-coops/dao-case-study-research/personaltokens.md)
-  * [EOSDAC](daos-coops/dao-case-study-research/eosdac.md)
-  * [DigixDAO](daos-coops/dao-case-study-research/digixdao.md)
 
 ## Misc
 
