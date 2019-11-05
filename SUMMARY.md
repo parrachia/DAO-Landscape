@@ -17,6 +17,7 @@
 * [Grin](network-governance/grin.md)
 * [DAO Case Study Research](network-governance/dao-case-study-research/README.md)
   * [Findings: July-August 2019](network-governance/dao-case-study-research/dao-case-study-research-1.md)
+  * [Findings: September-October 2019](network-governance/dao-case-study-research/findings-september-october-2019.md)
   * [Genesis](network-governance/dao-case-study-research/genesis.md)
   * [Aragon](network-governance/dao-case-study-research/aragon-network.md)
   * [Maker DAO](network-governance/dao-case-study-research/maker.md)
@@ -24,8 +25,10 @@
   * [BrightId](network-governance/dao-case-study-research/brightid.md)
   * [CuraDAO](network-governance/dao-case-study-research/curadao.md)
   * [DigixDAO](network-governance/dao-case-study-research/digixdao.md)
+  * [dOrg](network-governance/dao-case-study-research/dorg.md)
   * [EcoFinTech](network-governance/dao-case-study-research/ecofintech.md)
   * [EOSDAC](network-governance/dao-case-study-research/eosdac.md)
+  * [Kyber](network-governance/dao-case-study-research/kyber.md)
   * [Ethfinex \(Diversefi\)](network-governance/dao-case-study-research/ethfinex-diversefi.md)
   * [Kleros](network-governance/dao-case-study-research/kleros.md)
   * [Nexus Mutual](network-governance/dao-case-study-research/nexus-mutual.md)
@@ -33,7 +36,6 @@
   * [Retail DAO](network-governance/dao-case-study-research/retail-dao.md)
 * [Decred](network-governance/decred.md)
 * [Zcash](network-governance/zcash.md)
-* [Findings: September-October 2019](network-governance/findings-september-october-2019.md)
 
 ## Digital Coops & DAOs <a id="daos-coops"></a>
 
