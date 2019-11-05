@@ -20,7 +20,7 @@ Management and distribution of funds to the participants in the DAO
 
 ### Reason we chose that technology
 
-Aragon had more rules that were similar to a c-corp, whereas DAOstack allowed more customization and ability to build on top of the platform. Focus of DAOstack on scalability was a plus. Founder Ori Shimoni: “We prefer scalable efficient kibbutzes rather than unstoppable Delaware C-Corps. That’s a bit of an unconscious bias.” \(Not sure how they define unconscious, because they said it out loud.\)
+Aragon had more rules that were similar to a c-corp, whereas DAOstack allowed more customization and ability to build on top of the platform. Focus of DAOstack on scalability was a plus. Founder Ori Shimoni: “We prefer scalable efficient kibbutzes rather than unstoppable Delaware C-Corps. That’s a bit of an unconscious bias.” \(Unconscious on the part of the DAOstack/Aragon founders.\)
 
 ### Governed objects and mechanisms
 
