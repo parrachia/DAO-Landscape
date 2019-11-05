@@ -36,6 +36,7 @@
   * [Kleros](daos-coops/dao-case-study-research/kleros.md)
   * [Nexus Mutual](daos-coops/dao-case-study-research/nexus-mutual.md)
   * [Personaltokens](daos-coops/dao-case-study-research/personaltokens.md)
+  * [Retail DAO](daos-coops/dao-case-study-research/retail-dao.md)
 
 ## Misc
 
