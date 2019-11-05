@@ -8,7 +8,7 @@ description: Second round of research DAO Landscape
 
 Generally, in this second round, it was harder to find groups to interview. Notably at least 1 experiment failed \(PragueDAO\) and is now changing the model. RetailDAO also has seen many of the things they try have failed, and is continuing to innovate. These are both physical DAOs, so anyone looking at creating a DAO in physical space would be well advise to look at the issues they faced.
 
-This round of research included:  dOrg, Ethfinex, Giveth, Kyber, Prague DAO, Regen, Retail DAO,
+This round of research included:  [dOrg](dorg.md), [Ethfinex](ethfinex-diversefi.md), Giveth, [Kyber](kyber.md), Prague DAO, [Regen](regen-network.md), [Retail DAO](retail-dao.md),
 
 As in the previous round, we had several major successes \(Ethfinex, Diversefi and dOrg\) and several which are just too early to tell. Onboarding continues to be a major issue. Below is the feedback, both positive and negative, for developers of DAO technology.
 

@@ -33,6 +33,7 @@
   * [Kleros](network-governance/dao-case-study-research/kleros.md)
   * [Nexus Mutual](network-governance/dao-case-study-research/nexus-mutual.md)
   * [Personaltokens](network-governance/dao-case-study-research/personaltokens.md)
+  * [PragueDAO](network-governance/dao-case-study-research/praguedao.md)
   * [Regen Network](network-governance/dao-case-study-research/regen-network.md)
   * [Retail DAO](network-governance/dao-case-study-research/retail-dao.md)
 * [Decred](network-governance/decred.md)
