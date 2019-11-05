@@ -33,6 +33,7 @@
   * [Retail DAO](network-governance/dao-case-study-research/retail-dao.md)
 * [Decred](network-governance/decred.md)
 * [Zcash](network-governance/zcash.md)
+* [Findings: September-October 2019](network-governance/findings-september-october-2019.md)
 
 ## Digital Coops & DAOs <a id="daos-coops"></a>
 
