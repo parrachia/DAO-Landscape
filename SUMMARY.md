@@ -28,6 +28,7 @@
   * [dOrg](network-governance/dao-case-study-research/dorg.md)
   * [EcoFinTech](network-governance/dao-case-study-research/ecofintech.md)
   * [EOSDAC](network-governance/dao-case-study-research/eosdac.md)
+  * [Giveth: Unicorn and Reward DAC](network-governance/dao-case-study-research/giveth-unicorn-and-reward-dac.md)
   * [Kyber](network-governance/dao-case-study-research/kyber.md)
   * [Ethfinex \(Diversefi\)](network-governance/dao-case-study-research/ethfinex-diversefi.md)
   * [Kleros](network-governance/dao-case-study-research/kleros.md)

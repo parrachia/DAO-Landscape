@@ -6,11 +6,13 @@ description: Second round of research DAO Landscape
 
 ## Overall Notes
 
-Generally, in this second round, it was harder to find groups to interview. Notably at least 1 experiment failed \(PragueDAO\) and is now changing the model. RetailDAO also has seen many of the things they try have failed, and is continuing to innovate. These are both physical DAOs, so anyone looking at creating a DAO in physical space would be well advise to look at the issues they faced.
+Generally, in this second round, it was harder to find groups to interview. Several DAOs failed \(PragueDAO, Reward DAO, Unicorn DAO\) but these projects continued under different models. RetailDAO also has seen many of the things they try have failed, and is continuing to innovate. Both PragueDAO and RetailDAO are physical DAOs, so anyone looking at creating a DAO in physical space would be well advise to look at the issues they faced. RewardDAO resulted in useful findings about funding, and Unicorn about reputation.
 
 This round of research included:  [dOrg](dorg.md), [Ethfinex](ethfinex-diversefi.md), Giveth, [Kyber](kyber.md), Prague DAO, [Regen](regen-network.md), [Retail DAO](retail-dao.md),
 
 As in the previous round, we had several major successes \(Ethfinex, Diversefi and dOrg\) and several which are just too early to tell. Onboarding continues to be a major issue. Below is the feedback, both positive and negative, for developers of DAO technology.
+
+
 
 ## Advantages of DAO technology
 
@@ -33,6 +35,7 @@ As in the previous round, we had several major successes \(Ethfinex, Diversefi a
 * Integration of communication about proposals with the proposals. Discussions of  proposals might take place on Telegram or Discord, but the proposal was on Google Docs or Git, and there was no connectivity of the documentation. 
 * Threaded discussions.
 * Ability to connect identities of discussion personas to the proposal personas is missing.
+* Politics and campaigning are increasingly becoming an issue within the DAOs. Although people recognize this issue, there is no cohesive addressing of the problem of politicking and the increasing competitive nature of some of the conversations in the DAO. Genesis and Retail DAOs have people who are designated to create community, but there are no scalable solutions to date. Retail DAO's https://www.collaboration.ai/ is the only current known attempt to address this in an automated fashion. \(Similar to some of the work done by Satalia, which has been partially effective in reducing politics.\)
 
 ### Workflow
 
@@ -54,6 +57,7 @@ As in the previous round, we had several major successes \(Ethfinex, Diversefi a
 * Audit trail for financial reporting. 
 * Ability to hold funds in escrow until work is performed, tracking of work, or other accountability capabilities.
 * Carrots-only, no sticks. When people do not deliver or do not work as much as they promised, they invoice less, but there is no way to reduce their reputation or make any indication that this person is consistently late on delivery. There is only the ability to increase reputation and pay people, but no other mechanism for collaboration or task management.
+* When there is an obvious funding source, people in the DAO instinctively try to align with the desires of that person/entity in their work, so even if there is supposedly a hands-off approach, the behavior of the group doesn't completely reflect that. 
 
 ### Identity and reputation
 
