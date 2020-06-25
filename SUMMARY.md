@@ -2,7 +2,6 @@
 
 * [About](README.md)
 * [Foreword](intro-foreword.md)
-* [Untitled](untitled.md)
 * [What is Distributed Governance?](what-is-distributed-governance.md)
 
 ## Network Governance
